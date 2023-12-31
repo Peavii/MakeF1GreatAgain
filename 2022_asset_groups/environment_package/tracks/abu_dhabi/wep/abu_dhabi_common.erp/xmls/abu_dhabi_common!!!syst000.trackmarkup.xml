@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--BXMLLittle-->
+<TrackspaceMarkup Version="ts_data_v3.002">
+  <MarkupList>
+    <MarkupElement Name="audio_maintrack_01" Start="0.06" End="0.1136" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="9" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_open" />
+            <Property Type="event_name" Value="urban" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_front_straight" Start="0.0228" End="0.06" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="10" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_city" />
+            <Property Type="event_name" Value="urban" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_dense_01" Start="0.235" End="0.305" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="6" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_city" />
+            <Property Type="event_name" Value="urban" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_maintrack_02" Start="0.4387" End="0.47" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="7" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_open" />
+            <Property Type="event_name" Value="trees" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_dense_02" Start="0.47" End="0.526" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="6" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_city" />
+            <Property Type="event_name" Value="urban" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_maintrack_03" Start="0.526" End="0.5453" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="7" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_open" />
+            <Property Type="event_name" Value="urban" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_overpass_01" Start="0.5453" End="0.5481" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="4" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_overhead" />
+            <Property Type="event_name" Value="urban" />
+            <Property Type="state_name" Value="under_bridge" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_maintrack_04" Start="0.5481" End="0.6157" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="7" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_open" />
+            <Property Type="event_name" Value="bugs" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_dense_03" Start="0.83" End="0.8595" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="6" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_city" />
+            <Property Type="event_name" Value="waterfront" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_overpass_02" Start="0.8595" End="0.8634" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="3" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_overhead" />
+            <Property Type="event_name" Value="waterfront" />
+            <Property Type="state_name" Value="under_bridge" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_dense_04" Start="0.8634" End="0.9032" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="6" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_city" />
+            <Property Type="event_name" Value="waterfront" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_overpass_03" Start="0.9032" End="0.9042" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="4" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_city" />
+            <Property Type="event_name" Value="urban" />
+            <Property Type="state_name" Value="under_bridge" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_dense_05" Start="0.9042" End="0.915" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="6" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_city" />
+            <Property Type="event_name" Value="urban" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_maintrack_05" Start="0.915" End="0.933" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="8" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_open" />
+            <Property Type="event_name" Value="urban" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pit_out_02" Start="0.543" End="0.93" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="8" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_open" />
+            <Property Type="event_name" Value="urban" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pit_over_01" Start="0.276" End="0.436" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="10" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_city" />
+            <Property Type="event_name" Value="urban" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pit_main_01" Start="0.493" End="0.543" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="4" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_pitlane" />
+            <Property Type="event_name" Value="tunnel" />
+            <Property Type="state_name" Value="under_grandstand" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pit_in_01" Start="0" End="0.226" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="8" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_open" />
+            <Property Type="event_name" Value="urban" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pit_audio_exit" Start="0.395" End="0.4" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="pit_aud_ext_trgr">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_maintrack_06" Start="0.7127" End="0.7773" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="6" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_open" />
+            <Property Type="event_name" Value="waterfront" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pit_in_02" Start="0.226" End="0.276" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="9" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_city" />
+            <Property Type="event_name" Value="urban" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pit_out_01" Start="0.436" End="0.493" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_city" />
+            <Property Type="event_name" Value="urban" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="9" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_overpass_4" Start="0.0221" End="0.0228" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_city" />
+            <Property Type="event_name" Value="urban" />
+            <Property Type="state_name" Value="under_bridge" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="3" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_maintrack_07" Start="0.9343" End="0.0221" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_city" />
+            <Property Type="event_name" Value="urban" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="10" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_overpass_5" Start="0.933" End="0.9343" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_city" />
+            <Property Type="event_name" Value="urban" />
+            <Property Type="state_name" Value="under_bridge" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="3" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_overpass_7" Start="0.7773" End="0.7782" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_city" />
+            <Property Type="event_name" Value="waterfront" />
+            <Property Type="state_name" Value="under_bridge" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="3" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_maintrack_08" Start="0.7782" End="0.83" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_city" />
+            <Property Type="event_name" Value="waterfront" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="6" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_overpass_8" Start="0.4376" End="0.4387" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_open" />
+            <Property Type="event_name" Value="trees" />
+            <Property Type="state_name" Value="under_bridge" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="3" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_maintrack_10" Start="0.3287" End="0.4376" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_open" />
+            <Property Type="event_name" Value="trees" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="7" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_overpass_9" Start="0.3277" End="0.3287" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_open" />
+            <Property Type="event_name" Value="trees" />
+            <Property Type="state_name" Value="under_bridge" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="3" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_maintrack_11" Start="0.305" End="0.3277" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_open" />
+            <Property Type="event_name" Value="trees" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_overpass_10" Start="0.1136" End="0.1145" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_open" />
+            <Property Type="event_name" Value="urban" />
+            <Property Type="state_name" Value="under_bridge" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="3" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_maintrack_12" Start="0.1145" End="0.206" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_open" />
+            <Property Type="event_name" Value="urban" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="8" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_overpass_11" Start="0.206" End="0.2072" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_open" />
+            <Property Type="event_name" Value="urban" />
+            <Property Type="state_name" Value="under_bridge" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="3" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_maintrack_13" Start="0.2072" End="0.235" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_open" />
+            <Property Type="event_name" Value="urban" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="8" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_overpass_12" Start="0.6157" End="0.6165" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_city" />
+            <Property Type="event_name" Value="urban" />
+            <Property Type="state_name" Value="under_bridge" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="3" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_overpass_13" Start="0.7116" End="0.7127" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="3" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_city" />
+            <Property Type="event_name" Value="urban" />
+            <Property Type="state_name" Value="under_bridge" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_maintrack_14" Start="0.6165" End="0.7116" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_open" />
+            <Property Type="event_name" Value="waterfront" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="6" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_forbidden_zone_01" Start="0.05" End="0.0765" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_forb">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_forbidden_zone_02" Start="0.238" End="0.285" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_forb">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_forbidden_zone_03" Start="0.479" End="0.5165" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_forb">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_forbidden_zone_04" Start="0.669" End="0.735" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_forb">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_forbidden_zone_06" Start="0.8165" End="0.8815" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_forb">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_forbidden_zone_08" Start="0.954" End="0.979" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_forb">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_forbidden_zone_07" Start="0.914" End="0.934" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_forb">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="sector1" Start="0" End="0.227" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="sector_1">
+          <Properties />
+        </Attribute>
+        <Attribute Type="spch_vo_trig">
+          <Properties>
+            <Property Type="focuscar_name" Value="Sector1" />
+            <Property Type="carbehind_name" Value="Sector1_CarBehind" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="sector2" Start="0.227" End="0.6675" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="sector_2">
+          <Properties />
+        </Attribute>
+        <Attribute Type="spch_vo_trig">
+          <Properties>
+            <Property Type="focuscar_name" Value="Sector2" />
+            <Property Type="carbehind_name" Value="Sector2_CarBehind" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="sector3" Start="0.6675" End="1" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="sector_3">
+          <Properties />
+        </Attribute>
+        <Attribute Type="spch_vo_trig">
+          <Properties>
+            <Property Type="focuscar_name" Value="Sector3" />
+            <Property Type="carbehind_name" Value="Sector3_CarBehind" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="speed_trap" Start="0.469" End="0.474" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spd_trp">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="drs_detection_1" Start="0.2587" End="0.2617" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="drs_det">
+          <Properties>
+            <Property Type="ID" Value="1" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="drs_detection_2" Start="0.52485" End="0.5278" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="drs_det">
+          <Properties>
+            <Property Type="ID" Value="2" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="drs_activation_1" Start="0.3245" End="0.4904" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="drs_act">
+          <Properties>
+            <Property Type="ID" Value="1" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="drs_activation_2" Start="0.54811" End="0.6825" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="drs_act">
+          <Properties>
+            <Property Type="ID" Value="2" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="rollingstart_tt" Start="0.8967" End="0.946" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="rolling_start_zone">
+          <Properties>
+            <Property Type="ID" Value="0" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="rollingstart_fly" Start="0.7555" End="0.8363" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="rolling_start_zone">
+          <Properties>
+            <Property Type="ID" Value="1" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="rollingstart_osq" Start="0.9372" End="0" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="rolling_start_zone">
+          <Properties>
+            <Property Type="ID" Value="2" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pit_entry" Start="0.12" End="0.14" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="pit_ent">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pit_trigger_ai" Start="0" End="1" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="ai_pit_trigger">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pit_trigger_player" Start="0.13" End="0.877" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="plr_pit_trgr">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pit_limiter_on" Start="0.2199" End="0.414" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="pit_lim_on">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="drl_pit" Start="0.006" End="0.952" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="drl">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="drl_0" Start="0.037" End="0.0894" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="drl">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="drl_5" Start="0.1008" End="0.187" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="drl">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="drl_10" Start="0.2296" End="0.298" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="drl">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="drl_30" Start="0.4455" End="0.5274" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="drl">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="drl_40" Start="0.644" End="0.748" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="drl">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="drl_55" Start="0.7565" End="0.894" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="drl">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="drl_90" Start="0.908" End="0.948" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="drl">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="drl_100" Start="0.948" End="0.9856" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="drl">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="gear_0" Start="0.0178" End="0.08" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="suggested_gear">
+          <Properties>
+            <Property Type="gear" Value="" />
+            <Property Type="radius_modifier" Value="1.0" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="gear_10" Start="0.205" End="0.277" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="suggested_gear">
+          <Properties>
+            <Property Type="gear" Value="" />
+            <Property Type="radius_modifier" Value="1.11" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="gear_30" Start="0.4281" End="0.5184" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="suggested_gear">
+          <Properties>
+            <Property Type="gear" Value="" />
+            <Property Type="radius_modifier" Value="0.9" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="gear_40" Start="0.6259" End="0.7139" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="suggested_gear">
+          <Properties>
+            <Property Type="gear" Value="" />
+            <Property Type="radius_modifier" Value="1.0" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="gear_60" Start="0.7747" End="0.8296" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="suggested_gear">
+          <Properties>
+            <Property Type="gear" Value="" />
+            <Property Type="radius_modifier" Value="0.9" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="gear_70" Start="0.8329" End="0.8526" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="suggested_gear">
+          <Properties>
+            <Property Type="gear" Value="" />
+            <Property Type="radius_modifier" Value="0.9" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="gear_80" Start="0.8545" End="0.8743" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="suggested_gear">
+          <Properties>
+            <Property Type="gear" Value="" />
+            <Property Type="radius_modifier" Value="1.0" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="gear_90" Start="0.8876" End="0.9325" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="suggested_gear">
+          <Properties>
+            <Property Type="gear" Value="" />
+            <Property Type="radius_modifier" Value="1.0" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="gear_100" Start="0.9382" End="0.9771" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="suggested_gear">
+          <Properties>
+            <Property Type="gear" Value="" />
+            <Property Type="radius_modifier" Value="0.96" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_1" Start="0.9971" End="0.0592" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="1" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_2" Start="0.0592" End="0.1071" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="2" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_3" Start="0.1071" End="0.1525" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="3" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_4" Start="0.1525" End="0.1934" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="4" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_5" Start="0.1934" End="0.234" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="5" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_6" Start="0.234" End="0.3121" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="6" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_7" Start="0.3121" End="0.4322" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="7" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_8" Start="0.4322" End="0.4961" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="8" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_9" Start="0.4961" End="0.5452" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="9" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_10" Start="0.5452" End="0.6052" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="10" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_11" Start="0.6052" End="0.6841" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="11" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_12" Start="0.6841" End="0.7175" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="12" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_13" Start="0.7175" End="0.7723" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="13" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_14" Start="0.7723" End="0.7993" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="14" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_15" Start="0.7993" End="0.8222" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="15" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_16" Start="0.8222" End="0.8452" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="16" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_17" Start="0.8452" End="0.8684" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="17" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_18" Start="0.8684" End="0.919" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="18" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_19" Start="0.919" End="0.9689" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="19" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_20" Start="0.9689" End="0.9971" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="20" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="illegal_overtake_distance" Start="0.7922" End="1" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="illegal_overtake_distance">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="first_corner" Start="0.97555" End="0.0889" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="first_corner_zone">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pitlane_visibility" Start="0.108" End="0.47" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="show_pitstop_zone">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="crowd_excitement_01" Start="0.9689" End="0.0831" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="crowd_excitement_zone">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="crowd_excitement_02" Start="0.2183" End="0.3189" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="crowd_excitement_zone">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="crowd_excitement_03" Start="0.563" End="0.7148" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="crowd_excitement_zone">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="crowd_excitement_04" Start="0.1351" End="0.1871" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="crowd_excitement_zone">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="crowd_excitement_05" Start="0.735" End="0.844" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="crowd_excitement_zone">
+          <Properties>
+            <Property Type="crowd_zone" Value="07920101be9c9c819f61f985992ddefa" />
+            <Property Type="crowd_zone" Value="0cb046eb35e63e0aeeceb55b0baadc25" />
+            <Property Type="crowd_zone" Value="2ce9640dee018e341fb1fd9b5ebafaf7" />
+            <Property Type="crowd_zone" Value="65dd0835f0b9bedab8f6547b0fcd1ac3" />
+            <Property Type="crowd_zone" Value="251f69b95da6e9928ec72620f430009a" />
+            <Property Type="crowd_zone" Value="7e0c9684639283ba31824b5e9fc07b25" />
+            <Property Type="crowd_zone" Value="3bf15b50a7f6a1ae705ea17ce0397e90" />
+            <Property Type="crowd_zone" Value="185b7e851a95a4fd41efa0d029d0489c" />
+            <Property Type="crowd_zone" Value="6f1106ff266bd556a38ed1f3f870ae6b" />
+            <Property Type="crowd_zone" Value="1fca14b03cb4bc93019c9bbc708a4a1d" />
+            <Property Type="crowd_zone" Value="0eb26f609801a7ece4a45c0e95899abb" />
+            <Property Type="crowd_zone" Value="3d47e254750365f503218ec6e32ec942" />
+            <Property Type="crowd_zone" Value="7ae527f3e1bb3ad1d4cf8724da5a41b4" />
+            <Property Type="crowd_zone" Value="5eab8a1d4962f0560894e40de6c81cc3" />
+            <Property Type="crowd_zone" Value="28e83f9a361c03a08bfc8c680d462b28" />
+            <Property Type="crowd_zone" Value="3262be0e84ed8fc136439ecae894f55b" />
+            <Property Type="crowd_zone" Value="6ab1946bc686fdcd8af84569c0d801b2" />
+            <Property Type="crowd_zone" Value="17cbc050bcf5a2ddbc7bbc4e58fd4c5a" />
+            <Property Type="crowd_zone" Value="04faf158993c7d50d6300bb8f22e15f6" />
+            <Property Type="crowd_zone" Value="2329974376291cdf865566439cbc57bd" />
+            <Property Type="crowd_zone" Value="424adb57ac94ecad624e7151142c7cf0" />
+            <Property Type="crowd_zone" Value="78b8850eedea71e2ab0427759353bcff" />
+            <Property Type="crowd_zone" Value="2c2d85d1790553083a9baa2e3dad8490" />
+            <Property Type="crowd_zone" Value="0776fc11a6b9612f4bb438dbcd2b9588" />
+            <Property Type="crowd_zone" Value="039711fe2b057e5645a6c09abfa078c8" />
+            <Property Type="crowd_zone" Value="04ca2734ec1227d2c7c5a8fdbbebb23e" />
+            <Property Type="crowd_zone" Value="09698bf3f3a6a96027fa13beca7a0422" />
+            <Property Type="crowd_zone" Value="66ca917510284d0e7efd95b3363561c6" />
+            <Property Type="crowd_zone" Value="09fd74f57f7882d8925b7c9894477ebb" />
+            <Property Type="crowd_zone" Value="0908951d112905970ed799ae3bef30b9" />
+            <Property Type="crowd_zone" Value="20a6e4fd4b1e820be5ca2d5087ad5a7e" />
+            <Property Type="crowd_zone" Value="4ee059b151426b3b47f5059dc729a326" />
+            <Property Type="crowd_zone" Value="09f3190d306d02059d2d5c1fea75900e" />
+            <Property Type="crowd_zone" Value="5bb0bc7e433f1e80242a2a0baf5a6644" />
+            <Property Type="crowd_zone" Value="5b74bacccc91155b00dde03954ae5f52" />
+            <Property Type="crowd_zone" Value="20a11b11d7bd67798e9183734e1db074" />
+            <Property Type="crowd_zone" Value="1e75744405a3010ca2e6dcba0ccbac97" />
+            <Property Type="crowd_zone" Value="30f4c9d619aaee68acd50d75d06ccda7" />
+            <Property Type="crowd_zone" Value="416f7be5164d43b02e6111c138e19476" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pitlane_entry_osd" Start="0.128" End="0.2198" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="pit_ent_osd">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="tt_invalidate_lap" Start="0.9531" End="0" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="tt_invalidate_lap">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pit_safety_car_exemption" Start="0.127" End="0.2199" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="pit_sc_exempt">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pit_inside_pitlane" Start="0.13" End="0.877" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="inside_pit">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="crowd_excitement_06" Start="0.455" End="0.5335" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="crowd_excitement_zone">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pitlane_entry_zone" Start="0.099" End="0.2198" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="pit_lane_entry_zone">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pitlane_exit_zone" Start="0.414" End="0.877" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="pitlane_exit_zone">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="grid_park_osd" Start="0.969" End="0.019" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="grid_park_osd">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="faults_and_failures_00" Start="0" End="0.9999" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="canned_event_failure">
+          <Properties>
+            <Property Type="type" Value="All Failures" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="canned_event_fault">
+          <Properties>
+            <Property Type="type" Value="All Faults" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="lockup_zone_01" Start="0.001" End="0.999" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="canned_event_wheel_lockup">
+          <Properties>
+            <Property Type="pq_type" Value="Random" />
+            <Property Type="race_type" Value="Both" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="faults_and_failures_tyres" Start="0.7069" End="0.8852" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="canned_event_wheel_fault">
+          <Properties>
+            <Property Type="chance_blowout" Value="0.05" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="ai_override_pityield" Start="0.9168" End="0.9688" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="pit_ai_yield">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="ai_override_celebration" Start="0.987" End="0.0513" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="ai_celebration">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="ai_override_celebration_cancel" Start="0" End="0.0513" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="ai_celebration_cancel">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="ai_override_01" Start="0.001" End="0.999" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="ai_override">
+          <Properties>
+            <Property Type="block" Value="Pressure" />
+            <Property Type="overtake" Value="Pressure" />
+            <Property Type="blue_flag" Value="Default" />
+            <Property Type="steering_offset" Value="Default" />
+            <Property Type="throttle_fallibility" Value="Both" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="route_overrides_01" Start="0" End="1" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="screen_area_culling">
+          <Properties>
+            <Property Type="screen_culling" Value="0.003" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="planar_reflection_overrides">
+          <Properties>
+            <Property Type="cull_distance" Value="200" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="route_overrides_pit_01" Start="0" End="1" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="planar_reflection_activation_zone">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="safety_car_main" Start="0" End="0.15395" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="safety_car_main">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="safety_car_pit" Start="0.6671" End="0.9371" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="safety_car_pit">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="safety_car_player_control_countdown" Start="0.79225" End="0" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="safety_car_player_control_countdown">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+  </MarkupList>
+</TrackspaceMarkup>

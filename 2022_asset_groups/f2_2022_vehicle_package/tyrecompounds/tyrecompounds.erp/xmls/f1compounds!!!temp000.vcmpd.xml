@@ -1,0 +1,2603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Compounds xmlns="http://schemas.codemasters.com/compound_editor">
+  <Compound name="F2_2021_SUPF">
+    <TyreModel>
+      <ModelType value="MNC" />
+      <ParametricData>
+        <LateralLoad Load="0" Peak="1.86" PeakMin="1.865" PeakMax="1.855" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="675" Peak="1.8455" PeakMin="1.8505" PeakMax="1.8405" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="1350" Peak="1.8024" PeakMin="1.8074" PeakMax="1.7974" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="2025" Peak="1.7325" PeakMin="1.7375" PeakMax="1.7275" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="2700" Peak="1.6382" PeakMin="1.6432" PeakMax="1.6332" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="3375" Peak="1.5234" PeakMin="1.5234" PeakMax="1.5234" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="4050" Peak="1.3925" PeakMin="1.3875" PeakMax="1.3975" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="4725" Peak="1.251" PeakMin="1.246" PeakMax="1.256" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="5400" Peak="1.1058" PeakMin="1.1008" PeakMax="1.1108" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="6075" Peak="0.9654" PeakMin="0.9604" PeakMax="0.9704" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="6750" Peak="0.8502" PeakMin="0.8452" PeakMax="0.8552" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralCamber Camber="0" GripGain="0" />
+        <LateralCamber Camber="1" GripGain="0" />
+        <LongitudinalLoad Load="0" Peak="1.953" PeakMin="1.958" PeakMax="1.948" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="675" Peak="1.9392" PeakMin="1.9442" PeakMax="1.9342" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="1350" Peak="1.8983" PeakMin="1.9033" PeakMax="1.8933" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="2025" Peak="1.8318" PeakMin="1.8368" PeakMax="1.8268" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="2700" Peak="1.7421" PeakMin="1.7471" PeakMax="1.7371" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="3375" Peak="1.6324" PeakMin="1.6324" PeakMax="1.6324" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="4050" Peak="1.5071" PeakMin="1.5021" PeakMax="1.5121" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="4725" Peak="1.371" PeakMin="1.366" PeakMax="1.376" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="5400" Peak="1.2304" PeakMin="1.2254" PeakMax="1.2354" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="6075" Peak="1.0932" PeakMin="1.0882" PeakMax="1.0982" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="6750" Peak="0.9777" PeakMin="0.9727" PeakMax="0.9827" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalCamber Camber="0" GripGain="0" />
+        <LongitudinalCamber Camber="1" GripGain="0" />
+        <DynamicCamber MaxAngle="0.2" PeakPoint="0.5" PeakMultiple="1" OffPeakMultiple="0.98" />
+      </ParametricData>
+    </TyreModel>
+    <!-- Wear and Blistering simulation -->
+    <Wear>
+      <WearRate value="0.172" />
+      <BlisterRate value="0" />
+      <MinBlisteringTemperature value="393.149994" />
+      <MaxBlisteringTemperature value="403.149994" />
+      <WearGrip numVertices="17">
+        <SplineElement x="0.0000" y="1.0000" />
+        <SplineElement x="0.0600" y="0.9945" />
+        <SplineElement x="0.1300" y="0.9755" />
+        <SplineElement x="0.1900" y="0.9689" />
+        <SplineElement x="0.2500" y="0.9623" />
+        <SplineElement x="0.3100" y="0.9557" />
+        <SplineElement x="0.3800" y="0.9492" />
+        <SplineElement x="0.4400" y="0.9426" />
+        <SplineElement x="0.5000" y="0.9360" />
+        <SplineElement x="0.5600" y="0.9294" />
+        <SplineElement x="0.6300" y="0.9190" />
+        <SplineElement x="0.6900" y="0.9066" />
+        <SplineElement x="0.7500" y="0.8902" />
+        <SplineElement x="0.8100" y="0.8698" />
+        <SplineElement x="0.8800" y="0.8454" />
+        <SplineElement x="0.9400" y="0.8170" />
+        <SplineElement x="1.0000" y="0.7686" />
+      </WearGrip>
+      <BlisterGrip numVertices="17">
+        <SplineElement x="-1.000000" y="1.000000" />
+        <SplineElement x="-0.875000" y="1.000000" />
+        <SplineElement x="-0.750000" y="1.000000" />
+        <SplineElement x="-0.625000" y="1.000000" />
+        <SplineElement x="-0.500000" y="1.000000" />
+        <SplineElement x="-0.375000" y="1.000000" />
+        <SplineElement x="-0.250000" y="1.000000" />
+        <SplineElement x="-0.125000" y="1.000000" />
+        <SplineElement x="0.000000" y="1.000000" />
+        <SplineElement x="0.125000" y="1.000000" />
+        <SplineElement x="0.250000" y="1.000000" />
+        <SplineElement x="0.375000" y="1.000000" />
+        <SplineElement x="0.500000" y="1.000000" />
+        <SplineElement x="0.625000" y="1.000000" />
+        <SplineElement x="0.750000" y="1.000000" />
+        <SplineElement x="0.875000" y="1.000000" />
+        <SplineElement x="1.000000" y="1.000000" />
+      </BlisterGrip>
+    </Wear>
+    <!-- Temperature simulation -->
+    <Temperature>
+      <SpinSkiddRate value="1" />
+      <WorkEnergyRate value="19" />
+      <RollEnergyRate value="0.0114" />
+      <HeatGradient value="0.5" />
+      <SpecificHeatCapacity value="250" />
+      <CoefHeatTransferConstant value="4" />
+      <CoefHeatTransferLinear value="0.12" />
+      <CoefHeatTransferQuadratic value="0.0035" />
+      <CoefHeatTransferCarcas value="0.04" />
+      <CoefHeatTransferBrake value="0.00025" />
+      <PitReleaseTemperature value="333.15" />
+      <TemperatureGrip numVertices="10">
+        <SplineElement x="328.150000" y="0.940000" />
+        <SplineElement x="338.150000" y="0.960000" />
+        <SplineElement x="348.150000" y="0.980000" />
+        <SplineElement x="358.150000" y="1.000000" />
+        <SplineElement x="368.150000" y="1.000000" />
+        <SplineElement x="378.150000" y="1.000000" />
+        <SplineElement x="388.150000" y="1.000000" />
+        <SplineElement x="398.150000" y="0.980000" />
+        <SplineElement x="408.150000" y="0.960000" />
+        <SplineElement x="418.150000" y="0.940000" />
+      </TemperatureGrip>
+      <TemperatureGripCarcas numVertices="11">
+        <SplineElement x="318.150000" y="0.960000" />
+        <SplineElement x="328.150000" y="0.970000" />
+        <SplineElement x="338.150000" y="0.980000" />
+        <SplineElement x="348.150000" y="0.990000" />
+        <SplineElement x="358.150000" y="1.000000" />
+        <SplineElement x="368.150000" y="1.000000" />
+        <SplineElement x="378.150000" y="1.000000" />
+        <SplineElement x="388.150000" y="0.990000" />
+        <SplineElement x="398.150000" y="0.980000" />
+        <SplineElement x="408.150000" y="0.970000" />
+        <SplineElement x="418.150000" y="0.960000" />
+      </TemperatureGripCarcas>
+    </Temperature>
+    <Pressure>
+      <PressureMin value="21" />
+      <PressureMax value="25" />
+      <WorkEnergyRateMin value="15" />
+      <WorkEnergyRateMax value="23" />
+      <RollEnergyRateMin value="0.0114" />
+      <RollEnergyRateMax value="0.0114" />
+      <WearRateMin value="0.077" />
+      <WearRateMax value="0.067" />
+      <RollingResistanceMin value="0.0015" />
+      <RollingResistanceMax value="0.0005" />
+      <SpringConstantMin value="448844.918966222" />
+      <SpringConstantMax value="451155.081033778" />
+      <SpringDampingMin value="6373.59469930728" />
+      <SpringDampingMax value="6389.97579095274" />
+    </Pressure>
+    <!-- Wetness simulation -->
+    <Wetness>
+      <WetnessGrip numVertices="33">
+        <SplineElement x="0.000000" y="1.000000" />
+        <SplineElement x="0.031250" y="0.947500" />
+        <SplineElement x="0.062500" y="0.895000" />
+        <SplineElement x="0.093750" y="0.842500" />
+        <SplineElement x="0.125000" y="0.790000" />
+        <SplineElement x="0.156250" y="0.737500" />
+        <SplineElement x="0.187500" y="0.685000" />
+        <SplineElement x="0.218750" y="0.632500" />
+        <SplineElement x="0.250000" y="0.580000" />
+        <SplineElement x="0.281250" y="0.550000" />
+        <SplineElement x="0.312500" y="0.550000" />
+        <SplineElement x="0.343750" y="0.550000" />
+        <SplineElement x="0.375000" y="0.550000" />
+        <SplineElement x="0.406250" y="0.550000" />
+        <SplineElement x="0.437500" y="0.550000" />
+        <SplineElement x="0.468750" y="0.550000" />
+        <SplineElement x="0.500000" y="0.550000" />
+        <SplineElement x="0.531250" y="0.550000" />
+        <SplineElement x="0.562500" y="0.550000" />
+        <SplineElement x="0.593750" y="0.550000" />
+        <SplineElement x="0.625000" y="0.550000" />
+        <SplineElement x="0.656250" y="0.550000" />
+        <SplineElement x="0.687500" y="0.550000" />
+        <SplineElement x="0.718750" y="0.550000" />
+        <SplineElement x="0.750000" y="0.550000" />
+        <SplineElement x="0.781250" y="0.550000" />
+        <SplineElement x="0.812500" y="0.550000" />
+        <SplineElement x="0.843750" y="0.550000" />
+        <SplineElement x="0.875000" y="0.550000" />
+        <SplineElement x="0.906250" y="0.550000" />
+        <SplineElement x="0.937500" y="0.550000" />
+        <SplineElement x="0.968750" y="0.550000" />
+        <SplineElement x="1.000000" y="0.550000" />
+      </WetnessGrip>
+      <WetnessWear numVertices="33">
+        <SplineElement x="0.000000" y="1.000000" />
+        <SplineElement x="0.031250" y="0.980000" />
+        <SplineElement x="0.062500" y="0.960000" />
+        <SplineElement x="0.093750" y="0.930000" />
+        <SplineElement x="0.125000" y="0.900000" />
+        <SplineElement x="0.156250" y="0.870000" />
+        <SplineElement x="0.187500" y="0.840000" />
+        <SplineElement x="0.218750" y="0.800000" />
+        <SplineElement x="0.250000" y="0.760000" />
+        <SplineElement x="0.281250" y="0.720000" />
+        <SplineElement x="0.312500" y="0.680000" />
+        <SplineElement x="0.343750" y="0.640000" />
+        <SplineElement x="0.375000" y="0.600000" />
+        <SplineElement x="0.406250" y="0.570000" />
+        <SplineElement x="0.437500" y="0.540000" />
+        <SplineElement x="0.468750" y="0.510000" />
+        <SplineElement x="0.500000" y="0.500000" />
+        <SplineElement x="0.531250" y="0.500000" />
+        <SplineElement x="0.562500" y="0.500000" />
+        <SplineElement x="0.593750" y="0.500000" />
+        <SplineElement x="0.625000" y="0.500000" />
+        <SplineElement x="0.656250" y="0.500000" />
+        <SplineElement x="0.687500" y="0.500000" />
+        <SplineElement x="0.718750" y="0.500000" />
+        <SplineElement x="0.750000" y="0.500000" />
+        <SplineElement x="0.781250" y="0.500000" />
+        <SplineElement x="0.812500" y="0.500000" />
+        <SplineElement x="0.843750" y="0.500000" />
+        <SplineElement x="0.875000" y="0.500000" />
+        <SplineElement x="0.906250" y="0.500000" />
+        <SplineElement x="0.937500" y="0.500000" />
+        <SplineElement x="0.968750" y="0.500000" />
+        <SplineElement x="1.000000" y="0.500000" />
+      </WetnessWear>
+      <WetnessTarget numVertices="33">
+        <SplineElement x="0.000000" y="373.150000" />
+        <SplineElement x="0.031250" y="371.150000" />
+        <SplineElement x="0.062500" y="369.150000" />
+        <SplineElement x="0.093750" y="367.150000" />
+        <SplineElement x="0.125000" y="365.150000" />
+        <SplineElement x="0.156250" y="363.150000" />
+        <SplineElement x="0.187500" y="361.150000" />
+        <SplineElement x="0.218750" y="359.150000" />
+        <SplineElement x="0.250000" y="357.150000" />
+        <SplineElement x="0.281250" y="355.150000" />
+        <SplineElement x="0.312500" y="353.150000" />
+        <SplineElement x="0.343750" y="351.150000" />
+        <SplineElement x="0.375000" y="349.150000" />
+        <SplineElement x="0.406250" y="347.150000" />
+        <SplineElement x="0.437500" y="345.150000" />
+        <SplineElement x="0.468750" y="343.150000" />
+        <SplineElement x="0.500000" y="341.150000" />
+        <SplineElement x="0.531250" y="339.150000" />
+        <SplineElement x="0.562500" y="337.150000" />
+        <SplineElement x="0.593750" y="335.150000" />
+        <SplineElement x="0.625000" y="333.150000" />
+        <SplineElement x="0.656250" y="331.150000" />
+        <SplineElement x="0.687500" y="329.150000" />
+        <SplineElement x="0.718750" y="327.150000" />
+        <SplineElement x="0.750000" y="325.150000" />
+        <SplineElement x="0.781250" y="323.150000" />
+        <SplineElement x="0.812500" y="321.150000" />
+        <SplineElement x="0.843750" y="319.150000" />
+        <SplineElement x="0.875000" y="317.150000" />
+        <SplineElement x="0.906250" y="315.150000" />
+        <SplineElement x="0.937500" y="313.150000" />
+        <SplineElement x="0.968750" y="311.150000" />
+        <SplineElement x="1.000000" y="309.150000" />
+      </WetnessTarget>
+    </Wetness>
+    <!-- Residue accumulation and release simulation -->
+    <Residuum count="3">
+      <Residue name="Grass">
+        <AccretionRate value="0.003" />
+        <ReleaseRate value="0.0003" />
+        <GripMultiple value="0.85" />
+      </Residue>
+      <Residue name="Gravel">
+        <AccretionRate value="0.003" />
+        <ReleaseRate value="0.0003" />
+        <GripMultiple value="0.9" />
+      </Residue>
+      <Residue name="Marbling">
+        <AccretionRate value="0.0001" />
+        <ReleaseRate value="0.0005" />
+        <GripMultiple value="0.95" />
+      </Residue>
+    </Residuum>
+  </Compound>
+  <Compound name="F2_2021_SUPR">
+    <TyreModel>
+      <ModelType value="MNC" />
+      <ParametricData>
+        <LateralLoad Load="0" Peak="1.9344" PeakMin="1.9394" PeakMax="1.9294" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="825" Peak="1.92" PeakMin="1.925" PeakMax="1.915" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="1650" Peak="1.8772" PeakMin="1.8822" PeakMax="1.8722" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="2475" Peak="1.8077" PeakMin="1.8127" PeakMax="1.8027" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="3300" Peak="1.714" PeakMin="1.719" PeakMax="1.709" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="4125" Peak="1.5999" PeakMin="1.5999" PeakMax="1.5999" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="4950" Peak="1.4698" PeakMin="1.4648" PeakMax="1.4748" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="5775" Peak="1.3293" PeakMin="1.3243" PeakMax="1.3343" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="6600" Peak="1.1849" PeakMin="1.1799" PeakMax="1.1899" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="7425" Peak="1.0455" PeakMin="1.0405" PeakMax="1.0505" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="8250" Peak="0.931" PeakMin="0.926" PeakMax="0.936" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralCamber Camber="0" GripGain="0" />
+        <LateralCamber Camber="1" GripGain="0" />
+        <LongitudinalLoad Load="0" Peak="2.0311" PeakMin="2.0361" PeakMax="2.0261" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="825" Peak="2.0173" PeakMin="2.0223" PeakMax="2.0123" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="1650" Peak="1.9764" PeakMin="1.9814" PeakMax="1.9714" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="2475" Peak="1.9099" PeakMin="1.9149" PeakMax="1.9049" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="3300" Peak="1.8202" PeakMin="1.8252" PeakMax="1.8152" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="4125" Peak="1.7106" PeakMin="1.7106" PeakMax="1.7106" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="4950" Peak="1.5852" PeakMin="1.5802" PeakMax="1.5902" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="5775" Peak="1.4492" PeakMin="1.4442" PeakMax="1.4542" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="6600" Peak="1.3086" PeakMin="1.3036" PeakMax="1.3136" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="7425" Peak="1.1714" PeakMin="1.1664" PeakMax="1.1764" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="8250" Peak="1.0559" PeakMin="1.0509" PeakMax="1.0609" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalCamber Camber="0" GripGain="0" />
+        <LongitudinalCamber Camber="1" GripGain="0" />
+        <DynamicCamber MaxAngle="0.05236" PeakPoint="0.5" PeakMultiple="1" OffPeakMultiple="0.975" />
+      </ParametricData>
+    </TyreModel>
+    <!-- Wear and Blistering simulation -->
+    <Wear>
+      <WearRate value="0.15382" />
+      <BlisterRate value="0" />
+      <MinBlisteringTemperature value="393.149994" />
+      <MaxBlisteringTemperature value="403.149994" />
+      <WearGrip numVertices="17">
+        <SplineElement x="0.0000" y="1.0000" />
+        <SplineElement x="0.0600" y="0.9945" />
+        <SplineElement x="0.1300" y="0.9755" />
+        <SplineElement x="0.1900" y="0.9689" />
+        <SplineElement x="0.2500" y="0.9623" />
+        <SplineElement x="0.3100" y="0.9557" />
+        <SplineElement x="0.3800" y="0.9492" />
+        <SplineElement x="0.4400" y="0.9426" />
+        <SplineElement x="0.5000" y="0.9360" />
+        <SplineElement x="0.5600" y="0.9294" />
+        <SplineElement x="0.6300" y="0.9190" />
+        <SplineElement x="0.6900" y="0.9066" />
+        <SplineElement x="0.7500" y="0.8902" />
+        <SplineElement x="0.8100" y="0.8698" />
+        <SplineElement x="0.8800" y="0.8454" />
+        <SplineElement x="0.9400" y="0.8170" />
+        <SplineElement x="1.0000" y="0.7686" />
+      </WearGrip>
+      <BlisterGrip numVertices="17">
+        <SplineElement x="-1.000000" y="1.000000" />
+        <SplineElement x="-0.875000" y="1.000000" />
+        <SplineElement x="-0.750000" y="1.000000" />
+        <SplineElement x="-0.625000" y="1.000000" />
+        <SplineElement x="-0.500000" y="1.000000" />
+        <SplineElement x="-0.375000" y="1.000000" />
+        <SplineElement x="-0.250000" y="1.000000" />
+        <SplineElement x="-0.125000" y="1.000000" />
+        <SplineElement x="0.000000" y="1.000000" />
+        <SplineElement x="0.125000" y="1.000000" />
+        <SplineElement x="0.250000" y="1.000000" />
+        <SplineElement x="0.375000" y="1.000000" />
+        <SplineElement x="0.500000" y="1.000000" />
+        <SplineElement x="0.625000" y="1.000000" />
+        <SplineElement x="0.750000" y="1.000000" />
+        <SplineElement x="0.875000" y="1.000000" />
+        <SplineElement x="1.000000" y="1.000000" />
+      </BlisterGrip>
+    </Wear>
+    <!-- Temperature simulation -->
+    <Temperature>
+      <SpinSkiddRate value="1" />
+      <WorkEnergyRate value="19" />
+      <RollEnergyRate value="0.0104" />
+      <HeatGradient value="0.5" />
+      <SpecificHeatCapacity value="250" />
+      <CoefHeatTransferConstant value="4" />
+      <CoefHeatTransferLinear value="0.12" />
+      <CoefHeatTransferQuadratic value="0.0035" />
+      <CoefHeatTransferCarcas value="0.04" />
+      <CoefHeatTransferBrake value="0.00025" />
+      <PitReleaseTemperature value="333.15" />
+      <TemperatureGrip numVertices="10">
+        <SplineElement x="328.150000" y="0.940000" />
+        <SplineElement x="338.150000" y="0.960000" />
+        <SplineElement x="348.150000" y="0.980000" />
+        <SplineElement x="358.150000" y="1.000000" />
+        <SplineElement x="368.150000" y="1.000000" />
+        <SplineElement x="378.150000" y="1.000000" />
+        <SplineElement x="388.150000" y="1.000000" />
+        <SplineElement x="398.150000" y="0.980000" />
+        <SplineElement x="408.150000" y="0.960000" />
+        <SplineElement x="418.150000" y="0.940000" />
+      </TemperatureGrip>
+      <TemperatureGripCarcas numVertices="11">
+        <SplineElement x="318.150000" y="0.960000" />
+        <SplineElement x="328.150000" y="0.970000" />
+        <SplineElement x="338.150000" y="0.980000" />
+        <SplineElement x="348.150000" y="0.990000" />
+        <SplineElement x="358.150000" y="1.000000" />
+        <SplineElement x="368.150000" y="1.000000" />
+        <SplineElement x="378.150000" y="1.000000" />
+        <SplineElement x="388.150000" y="0.990000" />
+        <SplineElement x="398.150000" y="0.980000" />
+        <SplineElement x="408.150000" y="0.970000" />
+        <SplineElement x="418.150000" y="0.960000" />
+      </TemperatureGripCarcas>
+    </Temperature>
+    <Pressure>
+      <PressureMin value="19.5" />
+      <PressureMax value="23.5" />
+      <WorkEnergyRateMin value="15" />
+      <WorkEnergyRateMax value="23" />
+      <RollEnergyRateMin value="0.0104" />
+      <RollEnergyRateMax value="0.0104" />
+      <WearRateMin value="0.07268" />
+      <WearRateMax value="0.06268" />
+      <RollingResistanceMin value="0.0015" />
+      <RollingResistanceMax value="0.0005" />
+      <SpringConstantMin value="498689.627587031" />
+      <SpringConstantMax value="501310.372412969" />
+      <SpringDampingMin value="7278.96142887047" />
+      <SpringDampingMax value="7298.06279207133" />
+    </Pressure>
+    <!-- Wetness simulation -->
+    <Wetness>
+      <WetnessGrip numVertices="33">
+        <SplineElement x="0.000000" y="1.000000" />
+        <SplineElement x="0.031250" y="0.947500" />
+        <SplineElement x="0.062500" y="0.895000" />
+        <SplineElement x="0.093750" y="0.842500" />
+        <SplineElement x="0.125000" y="0.790000" />
+        <SplineElement x="0.156250" y="0.737500" />
+        <SplineElement x="0.187500" y="0.685000" />
+        <SplineElement x="0.218750" y="0.632500" />
+        <SplineElement x="0.250000" y="0.580000" />
+        <SplineElement x="0.281250" y="0.550000" />
+        <SplineElement x="0.312500" y="0.550000" />
+        <SplineElement x="0.343750" y="0.550000" />
+        <SplineElement x="0.375000" y="0.550000" />
+        <SplineElement x="0.406250" y="0.550000" />
+        <SplineElement x="0.437500" y="0.550000" />
+        <SplineElement x="0.468750" y="0.550000" />
+        <SplineElement x="0.500000" y="0.550000" />
+        <SplineElement x="0.531250" y="0.550000" />
+        <SplineElement x="0.562500" y="0.550000" />
+        <SplineElement x="0.593750" y="0.550000" />
+        <SplineElement x="0.625000" y="0.550000" />
+        <SplineElement x="0.656250" y="0.550000" />
+        <SplineElement x="0.687500" y="0.550000" />
+        <SplineElement x="0.718750" y="0.550000" />
+        <SplineElement x="0.750000" y="0.550000" />
+        <SplineElement x="0.781250" y="0.550000" />
+        <SplineElement x="0.812500" y="0.550000" />
+        <SplineElement x="0.843750" y="0.550000" />
+        <SplineElement x="0.875000" y="0.550000" />
+        <SplineElement x="0.906250" y="0.550000" />
+        <SplineElement x="0.937500" y="0.550000" />
+        <SplineElement x="0.968750" y="0.550000" />
+        <SplineElement x="1.000000" y="0.550000" />
+      </WetnessGrip>
+      <WetnessWear numVertices="33">
+        <SplineElement x="0.000000" y="1.000000" />
+        <SplineElement x="0.031250" y="0.980000" />
+        <SplineElement x="0.062500" y="0.960000" />
+        <SplineElement x="0.093750" y="0.930000" />
+        <SplineElement x="0.125000" y="0.900000" />
+        <SplineElement x="0.156250" y="0.870000" />
+        <SplineElement x="0.187500" y="0.840000" />
+        <SplineElement x="0.218750" y="0.800000" />
+        <SplineElement x="0.250000" y="0.760000" />
+        <SplineElement x="0.281250" y="0.720000" />
+        <SplineElement x="0.312500" y="0.680000" />
+        <SplineElement x="0.343750" y="0.640000" />
+        <SplineElement x="0.375000" y="0.600000" />
+        <SplineElement x="0.406250" y="0.570000" />
+        <SplineElement x="0.437500" y="0.540000" />
+        <SplineElement x="0.468750" y="0.510000" />
+        <SplineElement x="0.500000" y="0.500000" />
+        <SplineElement x="0.531250" y="0.500000" />
+        <SplineElement x="0.562500" y="0.500000" />
+        <SplineElement x="0.593750" y="0.500000" />
+        <SplineElement x="0.625000" y="0.500000" />
+        <SplineElement x="0.656250" y="0.500000" />
+        <SplineElement x="0.687500" y="0.500000" />
+        <SplineElement x="0.718750" y="0.500000" />
+        <SplineElement x="0.750000" y="0.500000" />
+        <SplineElement x="0.781250" y="0.500000" />
+        <SplineElement x="0.812500" y="0.500000" />
+        <SplineElement x="0.843750" y="0.500000" />
+        <SplineElement x="0.875000" y="0.500000" />
+        <SplineElement x="0.906250" y="0.500000" />
+        <SplineElement x="0.937500" y="0.500000" />
+        <SplineElement x="0.968750" y="0.500000" />
+        <SplineElement x="1.000000" y="0.500000" />
+      </WetnessWear>
+      <WetnessTarget numVertices="33">
+        <SplineElement x="0.000000" y="373.150000" />
+        <SplineElement x="0.031250" y="371.150000" />
+        <SplineElement x="0.062500" y="369.150000" />
+        <SplineElement x="0.093750" y="367.150000" />
+        <SplineElement x="0.125000" y="365.150000" />
+        <SplineElement x="0.156250" y="363.150000" />
+        <SplineElement x="0.187500" y="361.150000" />
+        <SplineElement x="0.218750" y="359.150000" />
+        <SplineElement x="0.250000" y="357.150000" />
+        <SplineElement x="0.281250" y="355.150000" />
+        <SplineElement x="0.312500" y="353.150000" />
+        <SplineElement x="0.343750" y="351.150000" />
+        <SplineElement x="0.375000" y="349.150000" />
+        <SplineElement x="0.406250" y="347.150000" />
+        <SplineElement x="0.437500" y="345.150000" />
+        <SplineElement x="0.468750" y="343.150000" />
+        <SplineElement x="0.500000" y="341.150000" />
+        <SplineElement x="0.531250" y="339.150000" />
+        <SplineElement x="0.562500" y="337.150000" />
+        <SplineElement x="0.593750" y="335.150000" />
+        <SplineElement x="0.625000" y="333.150000" />
+        <SplineElement x="0.656250" y="331.150000" />
+        <SplineElement x="0.687500" y="329.150000" />
+        <SplineElement x="0.718750" y="327.150000" />
+        <SplineElement x="0.750000" y="325.150000" />
+        <SplineElement x="0.781250" y="323.150000" />
+        <SplineElement x="0.812500" y="321.150000" />
+        <SplineElement x="0.843750" y="319.150000" />
+        <SplineElement x="0.875000" y="317.150000" />
+        <SplineElement x="0.906250" y="315.150000" />
+        <SplineElement x="0.937500" y="313.150000" />
+        <SplineElement x="0.968750" y="311.150000" />
+        <SplineElement x="1.000000" y="309.150000" />
+      </WetnessTarget>
+    </Wetness>
+    <!-- Residue accumulation and release simulation -->
+    <Residuum count="3">
+      <Residue name="Grass">
+        <AccretionRate value="0.003" />
+        <ReleaseRate value="0.0003" />
+        <GripMultiple value="0.85" />
+      </Residue>
+      <Residue name="Gravel">
+        <AccretionRate value="0.003" />
+        <ReleaseRate value="0.0003" />
+        <GripMultiple value="0.9" />
+      </Residue>
+      <Residue name="Marbling">
+        <AccretionRate value="0.0001" />
+        <ReleaseRate value="0.0005" />
+        <GripMultiple value="0.95" />
+      </Residue>
+    </Residuum>
+  </Compound>
+  <Compound name="F2_2021_SOFF">
+    <TyreModel>
+      <ModelType value="MNC" />
+      <ParametricData>
+        <LateralLoad Load="0" Peak="1.86" PeakMin="1.865" PeakMax="1.855" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="675" Peak="1.8455" PeakMin="1.8505" PeakMax="1.8405" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="1350" Peak="1.8024" PeakMin="1.8074" PeakMax="1.7974" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="2025" Peak="1.7325" PeakMin="1.7375" PeakMax="1.7275" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="2700" Peak="1.6382" PeakMin="1.6432" PeakMax="1.6332" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="3375" Peak="1.5234" PeakMin="1.5234" PeakMax="1.5234" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="4050" Peak="1.3925" PeakMin="1.3875" PeakMax="1.3975" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="4725" Peak="1.251" PeakMin="1.246" PeakMax="1.256" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="5400" Peak="1.1058" PeakMin="1.1008" PeakMax="1.1108" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="6075" Peak="0.9654" PeakMin="0.9604" PeakMax="0.9704" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="6750" Peak="0.8502" PeakMin="0.8452" PeakMax="0.8552" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralCamber Camber="0" GripGain="0" />
+        <LateralCamber Camber="1" GripGain="0" />
+        <LongitudinalLoad Load="0" Peak="1.953" PeakMin="1.958" PeakMax="1.948" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="675" Peak="1.9392" PeakMin="1.9442" PeakMax="1.9342" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="1350" Peak="1.8983" PeakMin="1.9033" PeakMax="1.8933" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="2025" Peak="1.8318" PeakMin="1.8368" PeakMax="1.8268" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="2700" Peak="1.7421" PeakMin="1.7471" PeakMax="1.7371" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="3375" Peak="1.6324" PeakMin="1.6324" PeakMax="1.6324" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="4050" Peak="1.5071" PeakMin="1.5021" PeakMax="1.5121" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="4725" Peak="1.371" PeakMin="1.366" PeakMax="1.376" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="5400" Peak="1.2304" PeakMin="1.2254" PeakMax="1.2354" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="6075" Peak="1.0932" PeakMin="1.0882" PeakMax="1.0982" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="6750" Peak="0.9777" PeakMin="0.9727" PeakMax="0.9827" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalCamber Camber="0" GripGain="0" />
+        <LongitudinalCamber Camber="1" GripGain="0" />
+        <DynamicCamber MaxAngle="0.2" PeakPoint="0.5" PeakMultiple="1" OffPeakMultiple="0.98" />
+      </ParametricData>
+    </TyreModel>
+    <!-- Wear and Blistering simulation -->
+    <Wear>
+      <WearRate value="0.1585" />
+      <BlisterRate value="0" />
+      <MinBlisteringTemperature value="393.149994" />
+      <MaxBlisteringTemperature value="403.149994" />
+      <WearGrip numVertices="17">
+        <SplineElement x="0.0000" y="1.0000" />
+        <SplineElement x="0.0600" y="0.9955" />
+        <SplineElement x="0.1300" y="0.9824" />
+        <SplineElement x="0.1900" y="0.9777" />
+        <SplineElement x="0.2500" y="0.9730" />
+        <SplineElement x="0.3100" y="0.9683" />
+        <SplineElement x="0.3800" y="0.9636" />
+        <SplineElement x="0.4400" y="0.9589" />
+        <SplineElement x="0.5000" y="0.9542" />
+        <SplineElement x="0.5600" y="0.9495" />
+        <SplineElement x="0.6300" y="0.9414" />
+        <SplineElement x="0.6900" y="0.9313" />
+        <SplineElement x="0.7500" y="0.9172" />
+        <SplineElement x="0.8100" y="0.8991" />
+        <SplineElement x="0.8800" y="0.8770" />
+        <SplineElement x="0.9400" y="0.8509" />
+        <SplineElement x="1.0000" y="0.8048" />
+      </WearGrip>
+      <BlisterGrip numVertices="17">
+        <SplineElement x="-1.000000" y="1.000000" />
+        <SplineElement x="-0.875000" y="1.000000" />
+        <SplineElement x="-0.750000" y="1.000000" />
+        <SplineElement x="-0.625000" y="1.000000" />
+        <SplineElement x="-0.500000" y="1.000000" />
+        <SplineElement x="-0.375000" y="1.000000" />
+        <SplineElement x="-0.250000" y="1.000000" />
+        <SplineElement x="-0.125000" y="1.000000" />
+        <SplineElement x="0.000000" y="1.000000" />
+        <SplineElement x="0.125000" y="1.000000" />
+        <SplineElement x="0.250000" y="1.000000" />
+        <SplineElement x="0.375000" y="1.000000" />
+        <SplineElement x="0.500000" y="1.000000" />
+        <SplineElement x="0.625000" y="1.000000" />
+        <SplineElement x="0.750000" y="1.000000" />
+        <SplineElement x="0.875000" y="1.000000" />
+        <SplineElement x="1.000000" y="1.000000" />
+      </BlisterGrip>
+    </Wear>
+    <!-- Temperature simulation -->
+    <Temperature>
+      <SpinSkiddRate value="1" />
+      <WorkEnergyRate value="17.5" />
+      <RollEnergyRate value="0.0112" />
+      <HeatGradient value="0.5" />
+      <SpecificHeatCapacity value="250" />
+      <CoefHeatTransferConstant value="4" />
+      <CoefHeatTransferLinear value="0.12" />
+      <CoefHeatTransferQuadratic value="0.0035" />
+      <CoefHeatTransferCarcas value="0.04" />
+      <CoefHeatTransferBrake value="0.00025" />
+      <PitReleaseTemperature value="333.15" />
+      <TemperatureGrip numVertices="10">
+        <SplineElement x="328.150000" y="0.940000" />
+        <SplineElement x="338.150000" y="0.960000" />
+        <SplineElement x="348.150000" y="0.980000" />
+        <SplineElement x="358.150000" y="1.000000" />
+        <SplineElement x="368.150000" y="1.000000" />
+        <SplineElement x="378.150000" y="1.000000" />
+        <SplineElement x="388.150000" y="1.000000" />
+        <SplineElement x="398.150000" y="0.980000" />
+        <SplineElement x="408.150000" y="0.960000" />
+        <SplineElement x="418.150000" y="0.940000" />
+      </TemperatureGrip>
+      <TemperatureGripCarcas numVertices="11">
+        <SplineElement x="318.150000" y="0.960000" />
+        <SplineElement x="328.150000" y="0.970000" />
+        <SplineElement x="338.150000" y="0.980000" />
+        <SplineElement x="348.150000" y="0.990000" />
+        <SplineElement x="358.150000" y="1.000000" />
+        <SplineElement x="368.150000" y="1.000000" />
+        <SplineElement x="378.150000" y="1.000000" />
+        <SplineElement x="388.150000" y="0.990000" />
+        <SplineElement x="398.150000" y="0.980000" />
+        <SplineElement x="408.150000" y="0.970000" />
+        <SplineElement x="418.150000" y="0.960000" />
+      </TemperatureGripCarcas>
+    </Temperature>
+    <Pressure>
+      <PressureMin value="21" />
+      <PressureMax value="25" />
+      <WorkEnergyRateMin value="13.5" />
+      <WorkEnergyRateMax value="21.5" />
+      <RollEnergyRateMin value="0.0112" />
+      <RollEnergyRateMax value="0.0112" />
+      <WearRateMin value="0.0635" />
+      <WearRateMax value="0.0535" />
+      <RollingResistanceMin value="0.0015" />
+      <RollingResistanceMax value="0.0005" />
+      <SpringConstantMin value="448844.918966222" />
+      <SpringConstantMax value="451155.081033778" />
+      <SpringDampingMin value="6373.59469930728" />
+      <SpringDampingMax value="6389.97579095274" />
+    </Pressure>
+    <!-- Wetness simulation -->
+    <Wetness>
+      <WetnessGrip numVertices="33">
+        <SplineElement x="0.000000" y="0.980000" />
+        <SplineElement x="0.031250" y="0.929375" />
+        <SplineElement x="0.062500" y="0.878750" />
+        <SplineElement x="0.093750" y="0.828125" />
+        <SplineElement x="0.125000" y="0.777500" />
+        <SplineElement x="0.156250" y="0.726875" />
+        <SplineElement x="0.187500" y="0.676250" />
+        <SplineElement x="0.218750" y="0.625625" />
+        <SplineElement x="0.250000" y="0.575000" />
+        <SplineElement x="0.281250" y="0.550000" />
+        <SplineElement x="0.312500" y="0.550000" />
+        <SplineElement x="0.343750" y="0.550000" />
+        <SplineElement x="0.375000" y="0.550000" />
+        <SplineElement x="0.406250" y="0.550000" />
+        <SplineElement x="0.437500" y="0.550000" />
+        <SplineElement x="0.468750" y="0.550000" />
+        <SplineElement x="0.500000" y="0.550000" />
+        <SplineElement x="0.531250" y="0.550000" />
+        <SplineElement x="0.562500" y="0.550000" />
+        <SplineElement x="0.593750" y="0.550000" />
+        <SplineElement x="0.625000" y="0.550000" />
+        <SplineElement x="0.656250" y="0.550000" />
+        <SplineElement x="0.687500" y="0.550000" />
+        <SplineElement x="0.718750" y="0.550000" />
+        <SplineElement x="0.750000" y="0.550000" />
+        <SplineElement x="0.781250" y="0.550000" />
+        <SplineElement x="0.812500" y="0.550000" />
+        <SplineElement x="0.843750" y="0.550000" />
+        <SplineElement x="0.875000" y="0.550000" />
+        <SplineElement x="0.906250" y="0.550000" />
+        <SplineElement x="0.937500" y="0.550000" />
+        <SplineElement x="0.968750" y="0.550000" />
+        <SplineElement x="1.000000" y="0.550000" />
+      </WetnessGrip>
+      <WetnessWear numVertices="33">
+        <SplineElement x="0.000000" y="1.000000" />
+        <SplineElement x="0.031250" y="0.980000" />
+        <SplineElement x="0.062500" y="0.960000" />
+        <SplineElement x="0.093750" y="0.930000" />
+        <SplineElement x="0.125000" y="0.900000" />
+        <SplineElement x="0.156250" y="0.870000" />
+        <SplineElement x="0.187500" y="0.840000" />
+        <SplineElement x="0.218750" y="0.800000" />
+        <SplineElement x="0.250000" y="0.760000" />
+        <SplineElement x="0.281250" y="0.720000" />
+        <SplineElement x="0.312500" y="0.680000" />
+        <SplineElement x="0.343750" y="0.640000" />
+        <SplineElement x="0.375000" y="0.600000" />
+        <SplineElement x="0.406250" y="0.570000" />
+        <SplineElement x="0.437500" y="0.540000" />
+        <SplineElement x="0.468750" y="0.510000" />
+        <SplineElement x="0.500000" y="0.500000" />
+        <SplineElement x="0.531250" y="0.500000" />
+        <SplineElement x="0.562500" y="0.500000" />
+        <SplineElement x="0.593750" y="0.500000" />
+        <SplineElement x="0.625000" y="0.500000" />
+        <SplineElement x="0.656250" y="0.500000" />
+        <SplineElement x="0.687500" y="0.500000" />
+        <SplineElement x="0.718750" y="0.500000" />
+        <SplineElement x="0.750000" y="0.500000" />
+        <SplineElement x="0.781250" y="0.500000" />
+        <SplineElement x="0.812500" y="0.500000" />
+        <SplineElement x="0.843750" y="0.500000" />
+        <SplineElement x="0.875000" y="0.500000" />
+        <SplineElement x="0.906250" y="0.500000" />
+        <SplineElement x="0.937500" y="0.500000" />
+        <SplineElement x="0.968750" y="0.500000" />
+        <SplineElement x="1.000000" y="0.500000" />
+      </WetnessWear>
+      <WetnessTarget numVertices="33">
+        <SplineElement x="0.000000" y="373.150000" />
+        <SplineElement x="0.031250" y="371.150000" />
+        <SplineElement x="0.062500" y="369.150000" />
+        <SplineElement x="0.093750" y="367.150000" />
+        <SplineElement x="0.125000" y="365.150000" />
+        <SplineElement x="0.156250" y="363.150000" />
+        <SplineElement x="0.187500" y="361.150000" />
+        <SplineElement x="0.218750" y="359.150000" />
+        <SplineElement x="0.250000" y="357.150000" />
+        <SplineElement x="0.281250" y="355.150000" />
+        <SplineElement x="0.312500" y="353.150000" />
+        <SplineElement x="0.343750" y="351.150000" />
+        <SplineElement x="0.375000" y="349.150000" />
+        <SplineElement x="0.406250" y="347.150000" />
+        <SplineElement x="0.437500" y="345.150000" />
+        <SplineElement x="0.468750" y="343.150000" />
+        <SplineElement x="0.500000" y="341.150000" />
+        <SplineElement x="0.531250" y="339.150000" />
+        <SplineElement x="0.562500" y="337.150000" />
+        <SplineElement x="0.593750" y="335.150000" />
+        <SplineElement x="0.625000" y="333.150000" />
+        <SplineElement x="0.656250" y="331.150000" />
+        <SplineElement x="0.687500" y="329.150000" />
+        <SplineElement x="0.718750" y="327.150000" />
+        <SplineElement x="0.750000" y="325.150000" />
+        <SplineElement x="0.781250" y="323.150000" />
+        <SplineElement x="0.812500" y="321.150000" />
+        <SplineElement x="0.843750" y="319.150000" />
+        <SplineElement x="0.875000" y="317.150000" />
+        <SplineElement x="0.906250" y="315.150000" />
+        <SplineElement x="0.937500" y="313.150000" />
+        <SplineElement x="0.968750" y="311.150000" />
+        <SplineElement x="1.000000" y="309.150000" />
+      </WetnessTarget>
+    </Wetness>
+    <!-- Residue accumulation and release simulation -->
+    <Residuum count="3">
+      <Residue name="Grass">
+        <AccretionRate value="0.003" />
+        <ReleaseRate value="0.0003" />
+        <GripMultiple value="0.85" />
+      </Residue>
+      <Residue name="Gravel">
+        <AccretionRate value="0.003" />
+        <ReleaseRate value="0.0003" />
+        <GripMultiple value="0.9" />
+      </Residue>
+      <Residue name="Marbling">
+        <AccretionRate value="0.0001" />
+        <ReleaseRate value="0.0005" />
+        <GripMultiple value="0.95" />
+      </Residue>
+    </Residuum>
+  </Compound>
+  <Compound name="F2_2021_SOFR">
+    <TyreModel>
+      <ModelType value="MNC" />
+      <ParametricData>
+        <LateralLoad Load="0" Peak="1.9344" PeakMin="1.9394" PeakMax="1.9294" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="825" Peak="1.92" PeakMin="1.925" PeakMax="1.915" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="1650" Peak="1.8772" PeakMin="1.8822" PeakMax="1.8722" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="2475" Peak="1.8077" PeakMin="1.8127" PeakMax="1.8027" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="3300" Peak="1.714" PeakMin="1.719" PeakMax="1.709" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="4125" Peak="1.5999" PeakMin="1.5999" PeakMax="1.5999" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="4950" Peak="1.4698" PeakMin="1.4648" PeakMax="1.4748" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="5775" Peak="1.3293" PeakMin="1.3243" PeakMax="1.3343" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="6600" Peak="1.1849" PeakMin="1.1799" PeakMax="1.1899" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="7425" Peak="1.0455" PeakMin="1.0405" PeakMax="1.0505" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="8250" Peak="0.931" PeakMin="0.926" PeakMax="0.936" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralCamber Camber="0" GripGain="0" />
+        <LateralCamber Camber="1" GripGain="0" />
+        <LongitudinalLoad Load="0" Peak="2.0311" PeakMin="2.0361" PeakMax="2.0261" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="825" Peak="2.0173" PeakMin="2.0223" PeakMax="2.0123" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="1650" Peak="1.9764" PeakMin="1.9814" PeakMax="1.9714" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="2475" Peak="1.9099" PeakMin="1.9149" PeakMax="1.9049" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="3300" Peak="1.8202" PeakMin="1.8252" PeakMax="1.8152" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="4125" Peak="1.7106" PeakMin="1.7106" PeakMax="1.7106" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="4950" Peak="1.5852" PeakMin="1.5802" PeakMax="1.5902" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="5775" Peak="1.4492" PeakMin="1.4442" PeakMax="1.4542" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="6600" Peak="1.3086" PeakMin="1.3036" PeakMax="1.3136" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="7425" Peak="1.1714" PeakMin="1.1664" PeakMax="1.1764" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="8250" Peak="1.0559" PeakMin="1.0509" PeakMax="1.0609" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalCamber Camber="0" GripGain="0" />
+        <LongitudinalCamber Camber="1" GripGain="0" />
+        <DynamicCamber MaxAngle="0.05236" PeakPoint="0.5" PeakMultiple="1" OffPeakMultiple="0.975" />
+      </ParametricData>
+    </TyreModel>
+    <!-- Wear and Blistering simulation -->
+    <Wear>
+      <WearRate value="0.1414" />
+      <BlisterRate value="0" />
+      <MinBlisteringTemperature value="393.149994" />
+      <MaxBlisteringTemperature value="403.149994" />
+      <WearGrip numVertices="17">
+        <SplineElement x="0.0000" y="1.0000" />
+        <SplineElement x="0.0600" y="0.9955" />
+        <SplineElement x="0.1300" y="0.9824" />
+        <SplineElement x="0.1900" y="0.9777" />
+        <SplineElement x="0.2500" y="0.9730" />
+        <SplineElement x="0.3100" y="0.9683" />
+        <SplineElement x="0.3800" y="0.9636" />
+        <SplineElement x="0.4400" y="0.9589" />
+        <SplineElement x="0.5000" y="0.9542" />
+        <SplineElement x="0.5600" y="0.9495" />
+        <SplineElement x="0.6300" y="0.9414" />
+        <SplineElement x="0.6900" y="0.9313" />
+        <SplineElement x="0.7500" y="0.9172" />
+        <SplineElement x="0.8100" y="0.8991" />
+        <SplineElement x="0.8800" y="0.8770" />
+        <SplineElement x="0.9400" y="0.8509" />
+        <SplineElement x="1.0000" y="0.8048" />
+      </WearGrip>
+      <BlisterGrip numVertices="17">
+        <SplineElement x="-1.000000" y="1.000000" />
+        <SplineElement x="-0.875000" y="1.000000" />
+        <SplineElement x="-0.750000" y="1.000000" />
+        <SplineElement x="-0.625000" y="1.000000" />
+        <SplineElement x="-0.500000" y="1.000000" />
+        <SplineElement x="-0.375000" y="1.000000" />
+        <SplineElement x="-0.250000" y="1.000000" />
+        <SplineElement x="-0.125000" y="1.000000" />
+        <SplineElement x="0.000000" y="1.000000" />
+        <SplineElement x="0.125000" y="1.000000" />
+        <SplineElement x="0.250000" y="1.000000" />
+        <SplineElement x="0.375000" y="1.000000" />
+        <SplineElement x="0.500000" y="1.000000" />
+        <SplineElement x="0.625000" y="1.000000" />
+        <SplineElement x="0.750000" y="1.000000" />
+        <SplineElement x="0.875000" y="1.000000" />
+        <SplineElement x="1.000000" y="1.000000" />
+      </BlisterGrip>
+    </Wear>
+    <!-- Temperature simulation -->
+    <Temperature>
+      <SpinSkiddRate value="1" />
+      <WorkEnergyRate value="17.5" />
+      <RollEnergyRate value="0.0102" />
+      <HeatGradient value="0.5" />
+      <SpecificHeatCapacity value="250" />
+      <CoefHeatTransferConstant value="4" />
+      <CoefHeatTransferLinear value="0.12" />
+      <CoefHeatTransferQuadratic value="0.0035" />
+      <CoefHeatTransferCarcas value="0.04" />
+      <CoefHeatTransferBrake value="0.00025" />
+      <PitReleaseTemperature value="333.15" />
+      <TemperatureGrip numVertices="10">
+        <SplineElement x="328.150000" y="0.940000" />
+        <SplineElement x="338.150000" y="0.960000" />
+        <SplineElement x="348.150000" y="0.980000" />
+        <SplineElement x="358.150000" y="1.000000" />
+        <SplineElement x="368.150000" y="1.000000" />
+        <SplineElement x="378.150000" y="1.000000" />
+        <SplineElement x="388.150000" y="1.000000" />
+        <SplineElement x="398.150000" y="0.980000" />
+        <SplineElement x="408.150000" y="0.960000" />
+        <SplineElement x="418.150000" y="0.940000" />
+      </TemperatureGrip>
+      <TemperatureGripCarcas numVertices="11">
+        <SplineElement x="318.150000" y="0.960000" />
+        <SplineElement x="328.150000" y="0.970000" />
+        <SplineElement x="338.150000" y="0.980000" />
+        <SplineElement x="348.150000" y="0.990000" />
+        <SplineElement x="358.150000" y="1.000000" />
+        <SplineElement x="368.150000" y="1.000000" />
+        <SplineElement x="378.150000" y="1.000000" />
+        <SplineElement x="388.150000" y="0.990000" />
+        <SplineElement x="398.150000" y="0.980000" />
+        <SplineElement x="408.150000" y="0.970000" />
+        <SplineElement x="418.150000" y="0.960000" />
+      </TemperatureGripCarcas>
+    </Temperature>
+    <Pressure>
+      <PressureMin value="19.5" />
+      <PressureMax value="23.5" />
+      <WorkEnergyRateMin value="13.5" />
+      <WorkEnergyRateMax value="21.5" />
+      <RollEnergyRateMin value="0.0102" />
+      <RollEnergyRateMax value="0.0102" />
+      <WearRateMin value="0.05882" />
+      <WearRateMax value="0.04882" />
+      <RollingResistanceMin value="0.0015" />
+      <RollingResistanceMax value="0.0005" />
+      <SpringConstantMin value="498689.627587031" />
+      <SpringConstantMax value="501310.372412969" />
+      <SpringDampingMin value="7278.96142887047" />
+      <SpringDampingMax value="7298.06279207133" />
+    </Pressure>
+    <!-- Wetness simulation -->
+    <Wetness>
+      <WetnessGrip numVertices="33">
+        <SplineElement x="0.000000" y="0.980000" />
+        <SplineElement x="0.031250" y="0.929375" />
+        <SplineElement x="0.062500" y="0.878750" />
+        <SplineElement x="0.093750" y="0.828125" />
+        <SplineElement x="0.125000" y="0.777500" />
+        <SplineElement x="0.156250" y="0.726875" />
+        <SplineElement x="0.187500" y="0.676250" />
+        <SplineElement x="0.218750" y="0.625625" />
+        <SplineElement x="0.250000" y="0.575000" />
+        <SplineElement x="0.281250" y="0.550000" />
+        <SplineElement x="0.312500" y="0.550000" />
+        <SplineElement x="0.343750" y="0.550000" />
+        <SplineElement x="0.375000" y="0.550000" />
+        <SplineElement x="0.406250" y="0.550000" />
+        <SplineElement x="0.437500" y="0.550000" />
+        <SplineElement x="0.468750" y="0.550000" />
+        <SplineElement x="0.500000" y="0.550000" />
+        <SplineElement x="0.531250" y="0.550000" />
+        <SplineElement x="0.562500" y="0.550000" />
+        <SplineElement x="0.593750" y="0.550000" />
+        <SplineElement x="0.625000" y="0.550000" />
+        <SplineElement x="0.656250" y="0.550000" />
+        <SplineElement x="0.687500" y="0.550000" />
+        <SplineElement x="0.718750" y="0.550000" />
+        <SplineElement x="0.750000" y="0.550000" />
+        <SplineElement x="0.781250" y="0.550000" />
+        <SplineElement x="0.812500" y="0.550000" />
+        <SplineElement x="0.843750" y="0.550000" />
+        <SplineElement x="0.875000" y="0.550000" />
+        <SplineElement x="0.906250" y="0.550000" />
+        <SplineElement x="0.937500" y="0.550000" />
+        <SplineElement x="0.968750" y="0.550000" />
+        <SplineElement x="1.000000" y="0.550000" />
+      </WetnessGrip>
+      <WetnessWear numVertices="33">
+        <SplineElement x="0.000000" y="1.000000" />
+        <SplineElement x="0.031250" y="0.980000" />
+        <SplineElement x="0.062500" y="0.960000" />
+        <SplineElement x="0.093750" y="0.930000" />
+        <SplineElement x="0.125000" y="0.900000" />
+        <SplineElement x="0.156250" y="0.870000" />
+        <SplineElement x="0.187500" y="0.840000" />
+        <SplineElement x="0.218750" y="0.800000" />
+        <SplineElement x="0.250000" y="0.760000" />
+        <SplineElement x="0.281250" y="0.720000" />
+        <SplineElement x="0.312500" y="0.680000" />
+        <SplineElement x="0.343750" y="0.640000" />
+        <SplineElement x="0.375000" y="0.600000" />
+        <SplineElement x="0.406250" y="0.570000" />
+        <SplineElement x="0.437500" y="0.540000" />
+        <SplineElement x="0.468750" y="0.510000" />
+        <SplineElement x="0.500000" y="0.500000" />
+        <SplineElement x="0.531250" y="0.500000" />
+        <SplineElement x="0.562500" y="0.500000" />
+        <SplineElement x="0.593750" y="0.500000" />
+        <SplineElement x="0.625000" y="0.500000" />
+        <SplineElement x="0.656250" y="0.500000" />
+        <SplineElement x="0.687500" y="0.500000" />
+        <SplineElement x="0.718750" y="0.500000" />
+        <SplineElement x="0.750000" y="0.500000" />
+        <SplineElement x="0.781250" y="0.500000" />
+        <SplineElement x="0.812500" y="0.500000" />
+        <SplineElement x="0.843750" y="0.500000" />
+        <SplineElement x="0.875000" y="0.500000" />
+        <SplineElement x="0.906250" y="0.500000" />
+        <SplineElement x="0.937500" y="0.500000" />
+        <SplineElement x="0.968750" y="0.500000" />
+        <SplineElement x="1.000000" y="0.500000" />
+      </WetnessWear>
+      <WetnessTarget numVertices="33">
+        <SplineElement x="0.000000" y="373.150000" />
+        <SplineElement x="0.031250" y="371.150000" />
+        <SplineElement x="0.062500" y="369.150000" />
+        <SplineElement x="0.093750" y="367.150000" />
+        <SplineElement x="0.125000" y="365.150000" />
+        <SplineElement x="0.156250" y="363.150000" />
+        <SplineElement x="0.187500" y="361.150000" />
+        <SplineElement x="0.218750" y="359.150000" />
+        <SplineElement x="0.250000" y="357.150000" />
+        <SplineElement x="0.281250" y="355.150000" />
+        <SplineElement x="0.312500" y="353.150000" />
+        <SplineElement x="0.343750" y="351.150000" />
+        <SplineElement x="0.375000" y="349.150000" />
+        <SplineElement x="0.406250" y="347.150000" />
+        <SplineElement x="0.437500" y="345.150000" />
+        <SplineElement x="0.468750" y="343.150000" />
+        <SplineElement x="0.500000" y="341.150000" />
+        <SplineElement x="0.531250" y="339.150000" />
+        <SplineElement x="0.562500" y="337.150000" />
+        <SplineElement x="0.593750" y="335.150000" />
+        <SplineElement x="0.625000" y="333.150000" />
+        <SplineElement x="0.656250" y="331.150000" />
+        <SplineElement x="0.687500" y="329.150000" />
+        <SplineElement x="0.718750" y="327.150000" />
+        <SplineElement x="0.750000" y="325.150000" />
+        <SplineElement x="0.781250" y="323.150000" />
+        <SplineElement x="0.812500" y="321.150000" />
+        <SplineElement x="0.843750" y="319.150000" />
+        <SplineElement x="0.875000" y="317.150000" />
+        <SplineElement x="0.906250" y="315.150000" />
+        <SplineElement x="0.937500" y="313.150000" />
+        <SplineElement x="0.968750" y="311.150000" />
+        <SplineElement x="1.000000" y="309.150000" />
+      </WetnessTarget>
+    </Wetness>
+    <!-- Residue accumulation and release simulation -->
+    <Residuum count="3">
+      <Residue name="Grass">
+        <AccretionRate value="0.003" />
+        <ReleaseRate value="0.0003" />
+        <GripMultiple value="0.85" />
+      </Residue>
+      <Residue name="Gravel">
+        <AccretionRate value="0.003" />
+        <ReleaseRate value="0.0003" />
+        <GripMultiple value="0.9" />
+      </Residue>
+      <Residue name="Marbling">
+        <AccretionRate value="0.0001" />
+        <ReleaseRate value="0.0005" />
+        <GripMultiple value="0.95" />
+      </Residue>
+    </Residuum>
+  </Compound>
+  <Compound name="F2_2021_MEDF">
+    <TyreModel>
+      <ModelType value="MNC" />
+      <ParametricData>
+        <LateralLoad Load="0" Peak="1.86" PeakMin="1.865" PeakMax="1.855" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="675" Peak="1.8455" PeakMin="1.8505" PeakMax="1.8405" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="1350" Peak="1.8024" PeakMin="1.8074" PeakMax="1.7974" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="2025" Peak="1.7325" PeakMin="1.7375" PeakMax="1.7275" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="2700" Peak="1.6382" PeakMin="1.6432" PeakMax="1.6332" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="3375" Peak="1.5234" PeakMin="1.5234" PeakMax="1.5234" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="4050" Peak="1.3925" PeakMin="1.3875" PeakMax="1.3975" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="4725" Peak="1.251" PeakMin="1.246" PeakMax="1.256" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="5400" Peak="1.1058" PeakMin="1.1008" PeakMax="1.1108" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="6075" Peak="0.9654" PeakMin="0.9604" PeakMax="0.9704" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="6750" Peak="0.8502" PeakMin="0.8452" PeakMax="0.8552" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralCamber Camber="0" GripGain="0" />
+        <LateralCamber Camber="1" GripGain="0" />
+        <LongitudinalLoad Load="0" Peak="1.953" PeakMin="1.958" PeakMax="1.948" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="675" Peak="1.9392" PeakMin="1.9442" PeakMax="1.9342" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="1350" Peak="1.8983" PeakMin="1.9033" PeakMax="1.8933" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="2025" Peak="1.8318" PeakMin="1.8368" PeakMax="1.8268" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="2700" Peak="1.7421" PeakMin="1.7471" PeakMax="1.7371" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="3375" Peak="1.6324" PeakMin="1.6324" PeakMax="1.6324" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="4050" Peak="1.5071" PeakMin="1.5021" PeakMax="1.5121" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="4725" Peak="1.371" PeakMin="1.366" PeakMax="1.376" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="5400" Peak="1.2304" PeakMin="1.2254" PeakMax="1.2354" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="6075" Peak="1.0932" PeakMin="1.0882" PeakMax="1.0982" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="6750" Peak="0.9777" PeakMin="0.9727" PeakMax="0.9827" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalCamber Camber="0" GripGain="0" />
+        <LongitudinalCamber Camber="1" GripGain="0" />
+        <DynamicCamber MaxAngle="0.2" PeakPoint="0.5" PeakMultiple="1" OffPeakMultiple="0.98" />
+      </ParametricData>
+    </TyreModel>
+    <!-- Wear and Blistering simulation -->
+    <Wear>
+      <WearRate value="0.145" />
+      <BlisterRate value="0" />
+      <MinBlisteringTemperature value="393.149994" />
+      <MaxBlisteringTemperature value="403.149994" />
+      <WearGrip numVertices="17">
+        <SplineElement x="0.0000" y="1.0000" />
+        <SplineElement x="0.0600" y="0.9965" />
+        <SplineElement x="0.1300" y="0.9894" />
+        <SplineElement x="0.1900" y="0.9865" />
+        <SplineElement x="0.2500" y="0.9837" />
+        <SplineElement x="0.3100" y="0.9809" />
+        <SplineElement x="0.3800" y="0.9781" />
+        <SplineElement x="0.4400" y="0.9752" />
+        <SplineElement x="0.5000" y="0.9724" />
+        <SplineElement x="0.5600" y="0.9696" />
+        <SplineElement x="0.6300" y="0.9638" />
+        <SplineElement x="0.6900" y="0.9560" />
+        <SplineElement x="0.7500" y="0.9442" />
+        <SplineElement x="0.8100" y="0.9284" />
+        <SplineElement x="0.8800" y="0.9086" />
+        <SplineElement x="0.9400" y="0.8848" />
+        <SplineElement x="1.0000" y="0.8410" />
+      </WearGrip>
+      <BlisterGrip numVertices="17">
+        <SplineElement x="-1.000000" y="1.000000" />
+        <SplineElement x="-0.875000" y="1.000000" />
+        <SplineElement x="-0.750000" y="1.000000" />
+        <SplineElement x="-0.625000" y="1.000000" />
+        <SplineElement x="-0.500000" y="1.000000" />
+        <SplineElement x="-0.375000" y="1.000000" />
+        <SplineElement x="-0.250000" y="1.000000" />
+        <SplineElement x="-0.125000" y="1.000000" />
+        <SplineElement x="0.000000" y="1.000000" />
+        <SplineElement x="0.125000" y="1.000000" />
+        <SplineElement x="0.250000" y="1.000000" />
+        <SplineElement x="0.375000" y="1.000000" />
+        <SplineElement x="0.500000" y="1.000000" />
+        <SplineElement x="0.625000" y="1.000000" />
+        <SplineElement x="0.750000" y="1.000000" />
+        <SplineElement x="0.875000" y="1.000000" />
+        <SplineElement x="1.000000" y="1.000000" />
+      </BlisterGrip>
+    </Wear>
+    <!-- Temperature simulation -->
+    <Temperature>
+      <SpinSkiddRate value="1" />
+      <WorkEnergyRate value="16" />
+      <RollEnergyRate value="0.011" />
+      <HeatGradient value="0.5" />
+      <SpecificHeatCapacity value="250" />
+      <CoefHeatTransferConstant value="4" />
+      <CoefHeatTransferLinear value="0.12" />
+      <CoefHeatTransferQuadratic value="0.0035" />
+      <CoefHeatTransferCarcas value="0.04" />
+      <CoefHeatTransferBrake value="0.00025" />
+      <PitReleaseTemperature value="333.15" />
+      <TemperatureGrip numVertices="10">
+        <SplineElement x="328.150000" y="0.940000" />
+        <SplineElement x="338.150000" y="0.960000" />
+        <SplineElement x="348.150000" y="0.980000" />
+        <SplineElement x="358.150000" y="1.000000" />
+        <SplineElement x="368.150000" y="1.000000" />
+        <SplineElement x="378.150000" y="1.000000" />
+        <SplineElement x="388.150000" y="1.000000" />
+        <SplineElement x="398.150000" y="0.980000" />
+        <SplineElement x="408.150000" y="0.960000" />
+        <SplineElement x="418.150000" y="0.940000" />
+      </TemperatureGrip>
+      <TemperatureGripCarcas numVertices="11">
+        <SplineElement x="318.150000" y="0.960000" />
+        <SplineElement x="328.150000" y="0.970000" />
+        <SplineElement x="338.150000" y="0.980000" />
+        <SplineElement x="348.150000" y="0.990000" />
+        <SplineElement x="358.150000" y="1.000000" />
+        <SplineElement x="368.150000" y="1.000000" />
+        <SplineElement x="378.150000" y="1.000000" />
+        <SplineElement x="388.150000" y="0.990000" />
+        <SplineElement x="398.150000" y="0.980000" />
+        <SplineElement x="408.150000" y="0.970000" />
+        <SplineElement x="418.150000" y="0.960000" />
+      </TemperatureGripCarcas>
+    </Temperature>
+    <Pressure>
+      <PressureMin value="21" />
+      <PressureMax value="25" />
+      <WorkEnergyRateMin value="12" />
+      <WorkEnergyRateMax value="20" />
+      <RollEnergyRateMin value="0.011" />
+      <RollEnergyRateMax value="0.011" />
+      <WearRateMin value="0.05" />
+      <WearRateMax value="0.04" />
+      <RollingResistanceMin value="0.0015" />
+      <RollingResistanceMax value="0.0005" />
+      <SpringConstantMin value="448844.918966222" />
+      <SpringConstantMax value="451155.081033778" />
+      <SpringDampingMin value="6373.59469930728" />
+      <SpringDampingMax value="6389.97579095274" />
+    </Pressure>
+    <!-- Wetness simulation -->
+    <Wetness>
+      <WetnessGrip numVertices="33">
+        <SplineElement x="0.000000" y="0.960000" />
+        <SplineElement x="0.031250" y="0.911250" />
+        <SplineElement x="0.062500" y="0.862500" />
+        <SplineElement x="0.093750" y="0.813750" />
+        <SplineElement x="0.125000" y="0.765000" />
+        <SplineElement x="0.156250" y="0.716250" />
+        <SplineElement x="0.187500" y="0.667500" />
+        <SplineElement x="0.218750" y="0.618750" />
+        <SplineElement x="0.250000" y="0.570000" />
+        <SplineElement x="0.281250" y="0.550000" />
+        <SplineElement x="0.312500" y="0.550000" />
+        <SplineElement x="0.343750" y="0.550000" />
+        <SplineElement x="0.375000" y="0.550000" />
+        <SplineElement x="0.406250" y="0.550000" />
+        <SplineElement x="0.437500" y="0.550000" />
+        <SplineElement x="0.468750" y="0.550000" />
+        <SplineElement x="0.500000" y="0.550000" />
+        <SplineElement x="0.531250" y="0.550000" />
+        <SplineElement x="0.562500" y="0.550000" />
+        <SplineElement x="0.593750" y="0.550000" />
+        <SplineElement x="0.625000" y="0.550000" />
+        <SplineElement x="0.656250" y="0.550000" />
+        <SplineElement x="0.687500" y="0.550000" />
+        <SplineElement x="0.718750" y="0.550000" />
+        <SplineElement x="0.750000" y="0.550000" />
+        <SplineElement x="0.781250" y="0.550000" />
+        <SplineElement x="0.812500" y="0.550000" />
+        <SplineElement x="0.843750" y="0.550000" />
+        <SplineElement x="0.875000" y="0.550000" />
+        <SplineElement x="0.906250" y="0.550000" />
+        <SplineElement x="0.937500" y="0.550000" />
+        <SplineElement x="0.968750" y="0.550000" />
+        <SplineElement x="1.000000" y="0.550000" />
+      </WetnessGrip>
+      <WetnessWear numVertices="33">
+        <SplineElement x="0.000000" y="1.000000" />
+        <SplineElement x="0.031250" y="0.980000" />
+        <SplineElement x="0.062500" y="0.960000" />
+        <SplineElement x="0.093750" y="0.930000" />
+        <SplineElement x="0.125000" y="0.900000" />
+        <SplineElement x="0.156250" y="0.870000" />
+        <SplineElement x="0.187500" y="0.840000" />
+        <SplineElement x="0.218750" y="0.800000" />
+        <SplineElement x="0.250000" y="0.760000" />
+        <SplineElement x="0.281250" y="0.720000" />
+        <SplineElement x="0.312500" y="0.680000" />
+        <SplineElement x="0.343750" y="0.640000" />
+        <SplineElement x="0.375000" y="0.600000" />
+        <SplineElement x="0.406250" y="0.570000" />
+        <SplineElement x="0.437500" y="0.540000" />
+        <SplineElement x="0.468750" y="0.510000" />
+        <SplineElement x="0.500000" y="0.500000" />
+        <SplineElement x="0.531250" y="0.500000" />
+        <SplineElement x="0.562500" y="0.500000" />
+        <SplineElement x="0.593750" y="0.500000" />
+        <SplineElement x="0.625000" y="0.500000" />
+        <SplineElement x="0.656250" y="0.500000" />
+        <SplineElement x="0.687500" y="0.500000" />
+        <SplineElement x="0.718750" y="0.500000" />
+        <SplineElement x="0.750000" y="0.500000" />
+        <SplineElement x="0.781250" y="0.500000" />
+        <SplineElement x="0.812500" y="0.500000" />
+        <SplineElement x="0.843750" y="0.500000" />
+        <SplineElement x="0.875000" y="0.500000" />
+        <SplineElement x="0.906250" y="0.500000" />
+        <SplineElement x="0.937500" y="0.500000" />
+        <SplineElement x="0.968750" y="0.500000" />
+        <SplineElement x="1.000000" y="0.500000" />
+      </WetnessWear>
+      <WetnessTarget numVertices="33">
+        <SplineElement x="0.000000" y="373.150000" />
+        <SplineElement x="0.031250" y="371.150000" />
+        <SplineElement x="0.062500" y="369.150000" />
+        <SplineElement x="0.093750" y="367.150000" />
+        <SplineElement x="0.125000" y="365.150000" />
+        <SplineElement x="0.156250" y="363.150000" />
+        <SplineElement x="0.187500" y="361.150000" />
+        <SplineElement x="0.218750" y="359.150000" />
+        <SplineElement x="0.250000" y="357.150000" />
+        <SplineElement x="0.281250" y="355.150000" />
+        <SplineElement x="0.312500" y="353.150000" />
+        <SplineElement x="0.343750" y="351.150000" />
+        <SplineElement x="0.375000" y="349.150000" />
+        <SplineElement x="0.406250" y="347.150000" />
+        <SplineElement x="0.437500" y="345.150000" />
+        <SplineElement x="0.468750" y="343.150000" />
+        <SplineElement x="0.500000" y="341.150000" />
+        <SplineElement x="0.531250" y="339.150000" />
+        <SplineElement x="0.562500" y="337.150000" />
+        <SplineElement x="0.593750" y="335.150000" />
+        <SplineElement x="0.625000" y="333.150000" />
+        <SplineElement x="0.656250" y="331.150000" />
+        <SplineElement x="0.687500" y="329.150000" />
+        <SplineElement x="0.718750" y="327.150000" />
+        <SplineElement x="0.750000" y="325.150000" />
+        <SplineElement x="0.781250" y="323.150000" />
+        <SplineElement x="0.812500" y="321.150000" />
+        <SplineElement x="0.843750" y="319.150000" />
+        <SplineElement x="0.875000" y="317.150000" />
+        <SplineElement x="0.906250" y="315.150000" />
+        <SplineElement x="0.937500" y="313.150000" />
+        <SplineElement x="0.968750" y="311.150000" />
+        <SplineElement x="1.000000" y="309.150000" />
+      </WetnessTarget>
+    </Wetness>
+    <!-- Residue accumulation and release simulation -->
+    <Residuum count="3">
+      <Residue name="Grass">
+        <AccretionRate value="0.003" />
+        <ReleaseRate value="0.0003" />
+        <GripMultiple value="0.85" />
+      </Residue>
+      <Residue name="Gravel">
+        <AccretionRate value="0.003" />
+        <ReleaseRate value="0.0003" />
+        <GripMultiple value="0.9" />
+      </Residue>
+      <Residue name="Marbling">
+        <AccretionRate value="0.0001" />
+        <ReleaseRate value="0.0005" />
+        <GripMultiple value="0.95" />
+      </Residue>
+    </Residuum>
+  </Compound>
+  <Compound name="F2_2021_MEDR">
+    <TyreModel>
+      <ModelType value="MNC" />
+      <ParametricData>
+        <LateralLoad Load="0" Peak="1.9344" PeakMin="1.9394" PeakMax="1.9294" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="825" Peak="1.92" PeakMin="1.925" PeakMax="1.915" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="1650" Peak="1.8772" PeakMin="1.8822" PeakMax="1.8722" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="2475" Peak="1.8077" PeakMin="1.8127" PeakMax="1.8027" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="3300" Peak="1.714" PeakMin="1.719" PeakMax="1.709" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="4125" Peak="1.5999" PeakMin="1.5999" PeakMax="1.5999" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="4950" Peak="1.4698" PeakMin="1.4648" PeakMax="1.4748" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="5775" Peak="1.3293" PeakMin="1.3243" PeakMax="1.3343" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="6600" Peak="1.1849" PeakMin="1.1799" PeakMax="1.1899" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="7425" Peak="1.0455" PeakMin="1.0405" PeakMax="1.0505" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="8250" Peak="0.931" PeakMin="0.926" PeakMax="0.936" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralCamber Camber="0" GripGain="0" />
+        <LateralCamber Camber="1" GripGain="0" />
+        <LongitudinalLoad Load="0" Peak="2.0311" PeakMin="2.0361" PeakMax="2.0261" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="825" Peak="2.0173" PeakMin="2.0223" PeakMax="2.0123" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="1650" Peak="1.9764" PeakMin="1.9814" PeakMax="1.9714" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="2475" Peak="1.9099" PeakMin="1.9149" PeakMax="1.9049" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="3300" Peak="1.8202" PeakMin="1.8252" PeakMax="1.8152" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="4125" Peak="1.7106" PeakMin="1.7106" PeakMax="1.7106" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="4950" Peak="1.5852" PeakMin="1.5802" PeakMax="1.5902" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="5775" Peak="1.4492" PeakMin="1.4442" PeakMax="1.4542" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="6600" Peak="1.3086" PeakMin="1.3036" PeakMax="1.3136" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="7425" Peak="1.1714" PeakMin="1.1664" PeakMax="1.1764" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="8250" Peak="1.0559" PeakMin="1.0509" PeakMax="1.0609" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalCamber Camber="0" GripGain="0" />
+        <LongitudinalCamber Camber="1" GripGain="0" />
+        <DynamicCamber MaxAngle="0.05236" PeakPoint="0.5" PeakMultiple="1" OffPeakMultiple="0.975" />
+      </ParametricData>
+    </TyreModel>
+    <!-- Wear and Blistering simulation -->
+    <Wear>
+      <WearRate value="0.12898" />
+      <BlisterRate value="0" />
+      <MinBlisteringTemperature value="393.149994" />
+      <MaxBlisteringTemperature value="403.149994" />
+      <WearGrip numVertices="17">
+        <SplineElement x="0.0000" y="1.0000" />
+        <SplineElement x="0.0600" y="0.9965" />
+        <SplineElement x="0.1300" y="0.9894" />
+        <SplineElement x="0.1900" y="0.9865" />
+        <SplineElement x="0.2500" y="0.9837" />
+        <SplineElement x="0.3100" y="0.9809" />
+        <SplineElement x="0.3800" y="0.9781" />
+        <SplineElement x="0.4400" y="0.9752" />
+        <SplineElement x="0.5000" y="0.9724" />
+        <SplineElement x="0.5600" y="0.9696" />
+        <SplineElement x="0.6300" y="0.9638" />
+        <SplineElement x="0.6900" y="0.9560" />
+        <SplineElement x="0.7500" y="0.9442" />
+        <SplineElement x="0.8100" y="0.9284" />
+        <SplineElement x="0.8800" y="0.9086" />
+        <SplineElement x="0.9400" y="0.8848" />
+        <SplineElement x="1.0000" y="0.8410" />
+      </WearGrip>
+      <BlisterGrip numVertices="17">
+        <SplineElement x="-1.000000" y="1.000000" />
+        <SplineElement x="-0.875000" y="1.000000" />
+        <SplineElement x="-0.750000" y="1.000000" />
+        <SplineElement x="-0.625000" y="1.000000" />
+        <SplineElement x="-0.500000" y="1.000000" />
+        <SplineElement x="-0.375000" y="1.000000" />
+        <SplineElement x="-0.250000" y="1.000000" />
+        <SplineElement x="-0.125000" y="1.000000" />
+        <SplineElement x="0.000000" y="1.000000" />
+        <SplineElement x="0.125000" y="1.000000" />
+        <SplineElement x="0.250000" y="1.000000" />
+        <SplineElement x="0.375000" y="1.000000" />
+        <SplineElement x="0.500000" y="1.000000" />
+        <SplineElement x="0.625000" y="1.000000" />
+        <SplineElement x="0.750000" y="1.000000" />
+        <SplineElement x="0.875000" y="1.000000" />
+        <SplineElement x="1.000000" y="1.000000" />
+      </BlisterGrip>
+    </Wear>
+    <!-- Temperature simulation -->
+    <Temperature>
+      <SpinSkiddRate value="1" />
+      <WorkEnergyRate value="16" />
+      <RollEnergyRate value="0.01" />
+      <HeatGradient value="0.5" />
+      <SpecificHeatCapacity value="250" />
+      <CoefHeatTransferConstant value="4" />
+      <CoefHeatTransferLinear value="0.12" />
+      <CoefHeatTransferQuadratic value="0.0035" />
+      <CoefHeatTransferCarcas value="0.04" />
+      <CoefHeatTransferBrake value="0.00025" />
+      <PitReleaseTemperature value="333.15" />
+      <TemperatureGrip numVertices="10">
+        <SplineElement x="328.150000" y="0.940000" />
+        <SplineElement x="338.150000" y="0.960000" />
+        <SplineElement x="348.150000" y="0.980000" />
+        <SplineElement x="358.150000" y="1.000000" />
+        <SplineElement x="368.150000" y="1.000000" />
+        <SplineElement x="378.150000" y="1.000000" />
+        <SplineElement x="388.150000" y="1.000000" />
+        <SplineElement x="398.150000" y="0.980000" />
+        <SplineElement x="408.150000" y="0.960000" />
+        <SplineElement x="418.150000" y="0.940000" />
+      </TemperatureGrip>
+      <TemperatureGripCarcas numVertices="11">
+        <SplineElement x="318.150000" y="0.960000" />
+        <SplineElement x="328.150000" y="0.970000" />
+        <SplineElement x="338.150000" y="0.980000" />
+        <SplineElement x="348.150000" y="0.990000" />
+        <SplineElement x="358.150000" y="1.000000" />
+        <SplineElement x="368.150000" y="1.000000" />
+        <SplineElement x="378.150000" y="1.000000" />
+        <SplineElement x="388.150000" y="0.990000" />
+        <SplineElement x="398.150000" y="0.980000" />
+        <SplineElement x="408.150000" y="0.970000" />
+        <SplineElement x="418.150000" y="0.960000" />
+      </TemperatureGripCarcas>
+    </Temperature>
+    <Pressure>
+      <PressureMin value="19.5" />
+      <PressureMax value="23.5" />
+      <WorkEnergyRateMin value="12" />
+      <WorkEnergyRateMax value="20" />
+      <RollEnergyRateMin value="0.01" />
+      <RollEnergyRateMax value="0.01" />
+      <WearRateMin value="0.0464" />
+      <WearRateMax value="0.0364" />
+      <RollingResistanceMin value="0.0015" />
+      <RollingResistanceMax value="0.0005" />
+      <SpringConstantMin value="498689.627587031" />
+      <SpringConstantMax value="501310.372412969" />
+      <SpringDampingMin value="7278.96142887047" />
+      <SpringDampingMax value="7298.06279207133" />
+    </Pressure>
+    <!-- Wetness simulation -->
+    <Wetness>
+      <WetnessGrip numVertices="33">
+        <SplineElement x="0.000000" y="0.960000" />
+        <SplineElement x="0.031250" y="0.911250" />
+        <SplineElement x="0.062500" y="0.862500" />
+        <SplineElement x="0.093750" y="0.813750" />
+        <SplineElement x="0.125000" y="0.765000" />
+        <SplineElement x="0.156250" y="0.716250" />
+        <SplineElement x="0.187500" y="0.667500" />
+        <SplineElement x="0.218750" y="0.618750" />
+        <SplineElement x="0.250000" y="0.570000" />
+        <SplineElement x="0.281250" y="0.550000" />
+        <SplineElement x="0.312500" y="0.550000" />
+        <SplineElement x="0.343750" y="0.550000" />
+        <SplineElement x="0.375000" y="0.550000" />
+        <SplineElement x="0.406250" y="0.550000" />
+        <SplineElement x="0.437500" y="0.550000" />
+        <SplineElement x="0.468750" y="0.550000" />
+        <SplineElement x="0.500000" y="0.550000" />
+        <SplineElement x="0.531250" y="0.550000" />
+        <SplineElement x="0.562500" y="0.550000" />
+        <SplineElement x="0.593750" y="0.550000" />
+        <SplineElement x="0.625000" y="0.550000" />
+        <SplineElement x="0.656250" y="0.550000" />
+        <SplineElement x="0.687500" y="0.550000" />
+        <SplineElement x="0.718750" y="0.550000" />
+        <SplineElement x="0.750000" y="0.550000" />
+        <SplineElement x="0.781250" y="0.550000" />
+        <SplineElement x="0.812500" y="0.550000" />
+        <SplineElement x="0.843750" y="0.550000" />
+        <SplineElement x="0.875000" y="0.550000" />
+        <SplineElement x="0.906250" y="0.550000" />
+        <SplineElement x="0.937500" y="0.550000" />
+        <SplineElement x="0.968750" y="0.550000" />
+        <SplineElement x="1.000000" y="0.550000" />
+      </WetnessGrip>
+      <WetnessWear numVertices="33">
+        <SplineElement x="0.000000" y="1.000000" />
+        <SplineElement x="0.031250" y="0.980000" />
+        <SplineElement x="0.062500" y="0.960000" />
+        <SplineElement x="0.093750" y="0.930000" />
+        <SplineElement x="0.125000" y="0.900000" />
+        <SplineElement x="0.156250" y="0.870000" />
+        <SplineElement x="0.187500" y="0.840000" />
+        <SplineElement x="0.218750" y="0.800000" />
+        <SplineElement x="0.250000" y="0.760000" />
+        <SplineElement x="0.281250" y="0.720000" />
+        <SplineElement x="0.312500" y="0.680000" />
+        <SplineElement x="0.343750" y="0.640000" />
+        <SplineElement x="0.375000" y="0.600000" />
+        <SplineElement x="0.406250" y="0.570000" />
+        <SplineElement x="0.437500" y="0.540000" />
+        <SplineElement x="0.468750" y="0.510000" />
+        <SplineElement x="0.500000" y="0.500000" />
+        <SplineElement x="0.531250" y="0.500000" />
+        <SplineElement x="0.562500" y="0.500000" />
+        <SplineElement x="0.593750" y="0.500000" />
+        <SplineElement x="0.625000" y="0.500000" />
+        <SplineElement x="0.656250" y="0.500000" />
+        <SplineElement x="0.687500" y="0.500000" />
+        <SplineElement x="0.718750" y="0.500000" />
+        <SplineElement x="0.750000" y="0.500000" />
+        <SplineElement x="0.781250" y="0.500000" />
+        <SplineElement x="0.812500" y="0.500000" />
+        <SplineElement x="0.843750" y="0.500000" />
+        <SplineElement x="0.875000" y="0.500000" />
+        <SplineElement x="0.906250" y="0.500000" />
+        <SplineElement x="0.937500" y="0.500000" />
+        <SplineElement x="0.968750" y="0.500000" />
+        <SplineElement x="1.000000" y="0.500000" />
+      </WetnessWear>
+      <WetnessTarget numVertices="33">
+        <SplineElement x="0.000000" y="373.150000" />
+        <SplineElement x="0.031250" y="371.150000" />
+        <SplineElement x="0.062500" y="369.150000" />
+        <SplineElement x="0.093750" y="367.150000" />
+        <SplineElement x="0.125000" y="365.150000" />
+        <SplineElement x="0.156250" y="363.150000" />
+        <SplineElement x="0.187500" y="361.150000" />
+        <SplineElement x="0.218750" y="359.150000" />
+        <SplineElement x="0.250000" y="357.150000" />
+        <SplineElement x="0.281250" y="355.150000" />
+        <SplineElement x="0.312500" y="353.150000" />
+        <SplineElement x="0.343750" y="351.150000" />
+        <SplineElement x="0.375000" y="349.150000" />
+        <SplineElement x="0.406250" y="347.150000" />
+        <SplineElement x="0.437500" y="345.150000" />
+        <SplineElement x="0.468750" y="343.150000" />
+        <SplineElement x="0.500000" y="341.150000" />
+        <SplineElement x="0.531250" y="339.150000" />
+        <SplineElement x="0.562500" y="337.150000" />
+        <SplineElement x="0.593750" y="335.150000" />
+        <SplineElement x="0.625000" y="333.150000" />
+        <SplineElement x="0.656250" y="331.150000" />
+        <SplineElement x="0.687500" y="329.150000" />
+        <SplineElement x="0.718750" y="327.150000" />
+        <SplineElement x="0.750000" y="325.150000" />
+        <SplineElement x="0.781250" y="323.150000" />
+        <SplineElement x="0.812500" y="321.150000" />
+        <SplineElement x="0.843750" y="319.150000" />
+        <SplineElement x="0.875000" y="317.150000" />
+        <SplineElement x="0.906250" y="315.150000" />
+        <SplineElement x="0.937500" y="313.150000" />
+        <SplineElement x="0.968750" y="311.150000" />
+        <SplineElement x="1.000000" y="309.150000" />
+      </WetnessTarget>
+    </Wetness>
+    <!-- Residue accumulation and release simulation -->
+    <Residuum count="3">
+      <Residue name="Grass">
+        <AccretionRate value="0.003" />
+        <ReleaseRate value="0.0003" />
+        <GripMultiple value="0.85" />
+      </Residue>
+      <Residue name="Gravel">
+        <AccretionRate value="0.003" />
+        <ReleaseRate value="0.0003" />
+        <GripMultiple value="0.9" />
+      </Residue>
+      <Residue name="Marbling">
+        <AccretionRate value="0.0001" />
+        <ReleaseRate value="0.0005" />
+        <GripMultiple value="0.95" />
+      </Residue>
+    </Residuum>
+  </Compound>
+  <Compound name="F2_2021_HARF">
+    <TyreModel>
+      <ModelType value="MNC" />
+      <ParametricData>
+        <LateralLoad Load="0" Peak="1.86" PeakMin="1.865" PeakMax="1.855" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="675" Peak="1.8455" PeakMin="1.8505" PeakMax="1.8405" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="1350" Peak="1.8024" PeakMin="1.8074" PeakMax="1.7974" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="2025" Peak="1.7325" PeakMin="1.7375" PeakMax="1.7275" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="2700" Peak="1.6382" PeakMin="1.6432" PeakMax="1.6332" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="3375" Peak="1.5234" PeakMin="1.5234" PeakMax="1.5234" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="4050" Peak="1.3925" PeakMin="1.3875" PeakMax="1.3975" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="4725" Peak="1.251" PeakMin="1.246" PeakMax="1.256" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="5400" Peak="1.1058" PeakMin="1.1008" PeakMax="1.1108" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="6075" Peak="0.9654" PeakMin="0.9604" PeakMax="0.9704" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralLoad Load="6750" Peak="0.8502" PeakMin="0.8452" PeakMax="0.8552" DownSlope="2.2424" UpSlope="0.2" Shape="1" />
+        <LateralCamber Camber="0" GripGain="0" />
+        <LateralCamber Camber="1" GripGain="0" />
+        <LongitudinalLoad Load="0" Peak="1.953" PeakMin="1.958" PeakMax="1.948" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="675" Peak="1.9392" PeakMin="1.9442" PeakMax="1.9342" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="1350" Peak="1.8983" PeakMin="1.9033" PeakMax="1.8933" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="2025" Peak="1.8318" PeakMin="1.8368" PeakMax="1.8268" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="2700" Peak="1.7421" PeakMin="1.7471" PeakMax="1.7371" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="3375" Peak="1.6324" PeakMin="1.6324" PeakMax="1.6324" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="4050" Peak="1.5071" PeakMin="1.5021" PeakMax="1.5121" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="4725" Peak="1.371" PeakMin="1.366" PeakMax="1.376" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="5400" Peak="1.2304" PeakMin="1.2254" PeakMax="1.2354" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="6075" Peak="1.0932" PeakMin="1.0882" PeakMax="1.0982" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalLoad Load="6750" Peak="0.9777" PeakMin="0.9727" PeakMax="0.9827" DownSlope="2.2791" UpSlope="0.295" Shape="1" />
+        <LongitudinalCamber Camber="0" GripGain="0" />
+        <LongitudinalCamber Camber="1" GripGain="0" />
+        <DynamicCamber MaxAngle="0.2" PeakPoint="0.5" PeakMultiple="1" OffPeakMultiple="0.98" />
+      </ParametricData>
+    </TyreModel>
+    <!-- Wear and Blistering simulation -->
+    <Wear>
+      <WearRate value="0.1315" />
+      <BlisterRate value="0" />
+      <MinBlisteringTemperature value="393.149994" />
+      <MaxBlisteringTemperature value="403.149994" />
+      <WearGrip numVertices="17">
+        <SplineElement x="0.0000" y="1.0000" />
+        <SplineElement x="0.0600" y="0.9975" />
+        <SplineElement x="0.1300" y="0.9963" />
+        <SplineElement x="0.1900" y="0.9954" />
+        <SplineElement x="0.2500" y="0.9944" />
+        <SplineElement x="0.3100" y="0.9935" />
+        <SplineElement x="0.3800" y="0.9925" />
+        <SplineElement x="0.4400" y="0.9916" />
+        <SplineElement x="0.5000" y="0.9906" />
+        <SplineElement x="0.5600" y="0.9897" />
+        <SplineElement x="0.6300" y="0.9862" />
+        <SplineElement x="0.6900" y="0.9807" />
+        <SplineElement x="0.7500" y="0.9712" />
+        <SplineElement x="0.8100" y="0.9577" />
+        <SplineElement x="0.8800" y="0.9402" />
+        <SplineElement x="0.9400" y="0.9187" />
+        <SplineElement x="1.0000" y="0.8772" />
+      </WearGrip>
+      <BlisterGrip numVertices="17">
+        <SplineElement x="-1.000000" y="1.000000" />
+        <SplineElement x="-0.875000" y="1.000000" />
+        <SplineElement x="-0.750000" y="1.000000" />
+        <SplineElement x="-0.625000" y="1.000000" />
+        <SplineElement x="-0.500000" y="1.000000" />
+        <SplineElement x="-0.375000" y="1.000000" />
+        <SplineElement x="-0.250000" y="1.000000" />
+        <SplineElement x="-0.125000" y="1.000000" />
+        <SplineElement x="0.000000" y="1.000000" />
+        <SplineElement x="0.125000" y="1.000000" />
+        <SplineElement x="0.250000" y="1.000000" />
+        <SplineElement x="0.375000" y="1.000000" />
+        <SplineElement x="0.500000" y="1.000000" />
+        <SplineElement x="0.625000" y="1.000000" />
+        <SplineElement x="0.750000" y="1.000000" />
+        <SplineElement x="0.875000" y="1.000000" />
+        <SplineElement x="1.000000" y="1.000000" />
+      </BlisterGrip>
+    </Wear>
+    <!-- Temperature simulation -->
+    <Temperature>
+      <SpinSkiddRate value="1" />
+      <WorkEnergyRate value="14.5" />
+      <RollEnergyRate value="0.0108" />
+      <HeatGradient value="0.5" />
+      <SpecificHeatCapacity value="250" />
+      <CoefHeatTransferConstant value="4" />
+      <CoefHeatTransferLinear value="0.12" />
+      <CoefHeatTransferQuadratic value="0.0035" />
+      <CoefHeatTransferCarcas value="0.04" />
+      <CoefHeatTransferBrake value="0.00025" />
+      <PitReleaseTemperature value="333.15" />
+      <TemperatureGrip numVertices="10">
+        <SplineElement x="328.150000" y="0.940000" />
+        <SplineElement x="338.150000" y="0.960000" />
+        <SplineElement x="348.150000" y="0.980000" />
+        <SplineElement x="358.150000" y="1.000000" />
+        <SplineElement x="368.150000" y="1.000000" />
+        <SplineElement x="378.150000" y="1.000000" />
+        <SplineElement x="388.150000" y="1.000000" />
+        <SplineElement x="398.150000" y="0.980000" />
+        <SplineElement x="408.150000" y="0.960000" />
+        <SplineElement x="418.150000" y="0.940000" />
+      </TemperatureGrip>
+      <TemperatureGripCarcas numVertices="11">
+        <SplineElement x="318.150000" y="0.960000" />
+        <SplineElement x="328.150000" y="0.970000" />
+        <SplineElement x="338.150000" y="0.980000" />
+        <SplineElement x="348.150000" y="0.990000" />
+        <SplineElement x="358.150000" y="1.000000" />
+        <SplineElement x="368.150000" y="1.000000" />
+        <SplineElement x="378.150000" y="1.000000" />
+        <SplineElement x="388.150000" y="0.990000" />
+        <SplineElement x="398.150000" y="0.980000" />
+        <SplineElement x="408.150000" y="0.970000" />
+        <SplineElement x="418.150000" y="0.960000" />
+      </TemperatureGripCarcas>
+    </Temperature>
+    <Pressure>
+      <PressureMin value="21" />
+      <PressureMax value="25" />
+      <WorkEnergyRateMin value="10.5" />
+      <WorkEnergyRateMax value="18.5" />
+      <RollEnergyRateMin value="0.0108" />
+      <RollEnergyRateMax value="0.0108" />
+      <WearRateMin value="0.0365" />
+      <WearRateMax value="0.0265" />
+      <RollingResistanceMin value="0.0015" />
+      <RollingResistanceMax value="0.0005" />
+      <SpringConstantMin value="448844.918966222" />
+      <SpringConstantMax value="451155.081033778" />
+      <SpringDampingMin value="6373.59469930728" />
+      <SpringDampingMax value="6389.97579095274" />
+    </Pressure>
+    <!-- Wetness simulation -->
+    <Wetness>
+      <WetnessGrip numVertices="33">
+        <SplineElement x="0.000000" y="0.940000" />
+        <SplineElement x="0.031250" y="0.893125" />
+        <SplineElement x="0.062500" y="0.846250" />
+        <SplineElement x="0.093750" y="0.799375" />
+        <SplineElement x="0.125000" y="0.752500" />
+        <SplineElement x="0.156250" y="0.705625" />
+        <SplineElement x="0.187500" y="0.658750" />
+        <SplineElement x="0.218750" y="0.611875" />
+        <SplineElement x="0.250000" y="0.565000" />
+        <SplineElement x="0.281250" y="0.550000" />
+        <SplineElement x="0.312500" y="0.550000" />
+        <SplineElement x="0.343750" y="0.550000" />
+        <SplineElement x="0.375000" y="0.550000" />
+        <SplineElement x="0.406250" y="0.550000" />
+        <SplineElement x="0.437500" y="0.550000" />
+        <SplineElement x="0.468750" y="0.550000" />
+        <SplineElement x="0.500000" y="0.550000" />
+        <SplineElement x="0.531250" y="0.550000" />
+        <SplineElement x="0.562500" y="0.550000" />
+        <SplineElement x="0.593750" y="0.550000" />
+        <SplineElement x="0.625000" y="0.550000" />
+        <SplineElement x="0.656250" y="0.550000" />
+        <SplineElement x="0.687500" y="0.550000" />
+        <SplineElement x="0.718750" y="0.550000" />
+        <SplineElement x="0.750000" y="0.550000" />
+        <SplineElement x="0.781250" y="0.550000" />
+        <SplineElement x="0.812500" y="0.550000" />
+        <SplineElement x="0.843750" y="0.550000" />
+        <SplineElement x="0.875000" y="0.550000" />
+        <SplineElement x="0.906250" y="0.550000" />
+        <SplineElement x="0.937500" y="0.550000" />
+        <SplineElement x="0.968750" y="0.550000" />
+        <SplineElement x="1.000000" y="0.550000" />
+      </WetnessGrip>
+      <WetnessWear numVertices="33">
+        <SplineElement x="0.000000" y="1.000000" />
+        <SplineElement x="0.031250" y="0.980000" />
+        <SplineElement x="0.062500" y="0.960000" />
+        <SplineElement x="0.093750" y="0.930000" />
+        <SplineElement x="0.125000" y="0.900000" />
+        <SplineElement x="0.156250" y="0.870000" />
+        <SplineElement x="0.187500" y="0.840000" />
+        <SplineElement x="0.218750" y="0.800000" />
+        <SplineElement x="0.250000" y="0.760000" />
+        <SplineElement x="0.281250" y="0.720000" />
+        <SplineElement x="0.312500" y="0.680000" />
+        <SplineElement x="0.343750" y="0.640000" />
+        <SplineElement x="0.375000" y="0.600000" />
+        <SplineElement x="0.406250" y="0.570000" />
+        <SplineElement x="0.437500" y="0.540000" />
+        <SplineElement x="0.468750" y="0.510000" />
+        <SplineElement x="0.500000" y="0.500000" />
+        <SplineElement x="0.531250" y="0.500000" />
+        <SplineElement x="0.562500" y="0.500000" />
+        <SplineElement x="0.593750" y="0.500000" />
+        <SplineElement x="0.625000" y="0.500000" />
+        <SplineElement x="0.656250" y="0.500000" />
+        <SplineElement x="0.687500" y="0.500000" />
+        <SplineElement x="0.718750" y="0.500000" />
+        <SplineElement x="0.750000" y="0.500000" />
+        <SplineElement x="0.781250" y="0.500000" />
+        <SplineElement x="0.812500" y="0.500000" />
+        <SplineElement x="0.843750" y="0.500000" />
+        <SplineElement x="0.875000" y="0.500000" />
+        <SplineElement x="0.906250" y="0.500000" />
+        <SplineElement x="0.937500" y="0.500000" />
+        <SplineElement x="0.968750" y="0.500000" />
+        <SplineElement x="1.000000" y="0.500000" />
+      </WetnessWear>
+      <WetnessTarget numVertices="33">
+        <SplineElement x="0.000000" y="373.150000" />
+        <SplineElement x="0.031250" y="371.150000" />
+        <SplineElement x="0.062500" y="369.150000" />
+        <SplineElement x="0.093750" y="367.150000" />
+        <SplineElement x="0.125000" y="365.150000" />
+        <SplineElement x="0.156250" y="363.150000" />
+        <SplineElement x="0.187500" y="361.150000" />
+        <SplineElement x="0.218750" y="359.150000" />
+        <SplineElement x="0.250000" y="357.150000" />
+        <SplineElement x="0.281250" y="355.150000" />
+        <SplineElement x="0.312500" y="353.150000" />
+        <SplineElement x="0.343750" y="351.150000" />
+        <SplineElement x="0.375000" y="349.150000" />
+        <SplineElement x="0.406250" y="347.150000" />
+        <SplineElement x="0.437500" y="345.150000" />
+        <SplineElement x="0.468750" y="343.150000" />
+        <SplineElement x="0.500000" y="341.150000" />
+        <SplineElement x="0.531250" y="339.150000" />
+        <SplineElement x="0.562500" y="337.150000" />
+        <SplineElement x="0.593750" y="335.150000" />
+        <SplineElement x="0.625000" y="333.150000" />
+        <SplineElement x="0.656250" y="331.150000" />
+        <SplineElement x="0.687500" y="329.150000" />
+        <SplineElement x="0.718750" y="327.150000" />
+        <SplineElement x="0.750000" y="325.150000" />
+        <SplineElement x="0.781250" y="323.150000" />
+        <SplineElement x="0.812500" y="321.150000" />
+        <SplineElement x="0.843750" y="319.150000" />
+        <SplineElement x="0.875000" y="317.150000" />
+        <SplineElement x="0.906250" y="315.150000" />
+        <SplineElement x="0.937500" y="313.150000" />
+        <SplineElement x="0.968750" y="311.150000" />
+        <SplineElement x="1.000000" y="309.150000" />
+      </WetnessTarget>
+    </Wetness>
+    <!-- Residue accumulation and release simulation -->
+    <Residuum count="3">
+      <Residue name="Grass">
+        <AccretionRate value="0.003" />
+        <ReleaseRate value="0.0003" />
+        <GripMultiple value="0.85" />
+      </Residue>
+      <Residue name="Gravel">
+        <AccretionRate value="0.003" />
+        <ReleaseRate value="0.0003" />
+        <GripMultiple value="0.9" />
+      </Residue>
+      <Residue name="Marbling">
+        <AccretionRate value="0.0001" />
+        <ReleaseRate value="0.0005" />
+        <GripMultiple value="0.95" />
+      </Residue>
+    </Residuum>
+  </Compound>
+  <Compound name="F2_2021_HARR">
+    <TyreModel>
+      <ModelType value="MNC" />
+      <ParametricData>
+        <LateralLoad Load="0" Peak="1.9344" PeakMin="1.9394" PeakMax="1.9294" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="825" Peak="1.92" PeakMin="1.925" PeakMax="1.915" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="1650" Peak="1.8772" PeakMin="1.8822" PeakMax="1.8722" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="2475" Peak="1.8077" PeakMin="1.8127" PeakMax="1.8027" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="3300" Peak="1.714" PeakMin="1.719" PeakMax="1.709" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="4125" Peak="1.5999" PeakMin="1.5999" PeakMax="1.5999" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="4950" Peak="1.4698" PeakMin="1.4648" PeakMax="1.4748" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="5775" Peak="1.3293" PeakMin="1.3243" PeakMax="1.3343" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="6600" Peak="1.1849" PeakMin="1.1799" PeakMax="1.1899" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="7425" Peak="1.0455" PeakMin="1.0405" PeakMax="1.0505" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralLoad Load="8250" Peak="0.931" PeakMin="0.926" PeakMax="0.936" DownSlope="2.2349" UpSlope="0.25" Shape="1" />
+        <LateralCamber Camber="0" GripGain="0" />
+        <LateralCamber Camber="1" GripGain="0" />
+        <LongitudinalLoad Load="0" Peak="2.0311" PeakMin="2.0361" PeakMax="2.0261" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="825" Peak="2.0173" PeakMin="2.0223" PeakMax="2.0123" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="1650" Peak="1.9764" PeakMin="1.9814" PeakMax="1.9714" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="2475" Peak="1.9099" PeakMin="1.9149" PeakMax="1.9049" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="3300" Peak="1.8202" PeakMin="1.8252" PeakMax="1.8152" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="4125" Peak="1.7106" PeakMin="1.7106" PeakMax="1.7106" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="4950" Peak="1.5852" PeakMin="1.5802" PeakMax="1.5902" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="5775" Peak="1.4492" PeakMin="1.4442" PeakMax="1.4542" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="6600" Peak="1.3086" PeakMin="1.3036" PeakMax="1.3136" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="7425" Peak="1.1714" PeakMin="1.1664" PeakMax="1.1764" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalLoad Load="8250" Peak="1.0559" PeakMin="1.0509" PeakMax="1.0609" DownSlope="2.2744" UpSlope="0.36" Shape="1" />
+        <LongitudinalCamber Camber="0" GripGain="0" />
+        <LongitudinalCamber Camber="1" GripGain="0" />
+        <DynamicCamber MaxAngle="0.05236" PeakPoint="0.5" PeakMultiple="1" OffPeakMultiple="0.975" />
+      </ParametricData>
+    </TyreModel>
+    <!-- Wear and Blistering simulation -->
+    <Wear>
+      <WearRate value="0.12898" />
+      <BlisterRate value="0" />
+      <MinBlisteringTemperature value="393.149994" />
+      <MaxBlisteringTemperature value="403.149994" />
+      <WearGrip numVertices="17">
+        <SplineElement x="0.0000" y="1.0000" />
+        <SplineElement x="0.0600" y="0.9975" />
+        <SplineElement x="0.1300" y="0.9963" />
+        <SplineElement x="0.1900" y="0.9954" />
+        <SplineElement x="0.2500" y="0.9944" />
+        <SplineElement x="0.3100" y="0.9935" />
+        <SplineElement x="0.3800" y="0.9925" />
+        <SplineElement x="0.4400" y="0.9916" />
+        <SplineElement x="0.5000" y="0.9906" />
+        <SplineElement x="0.5600" y="0.9897" />
+        <SplineElement x="0.6300" y="0.9862" />
+        <SplineElement x="0.6900" y="0.9807" />
+        <SplineElement x="0.7500" y="0.9712" />
+        <SplineElement x="0.8100" y="0.9577" />
+        <SplineElement x="0.8800" y="0.9402" />
+        <SplineElement x="0.9400" y="0.9187" />
+        <SplineElement x="1.0000" y="0.8772" />
+      </WearGrip>
+      <BlisterGrip numVertices="17">
+        <SplineElement x="-1.000000" y="1.000000" />
+        <SplineElement x="-0.875000" y="1.000000" />
+        <SplineElement x="-0.750000" y="1.000000" />
+        <SplineElement x="-0.625000" y="1.000000" />
+        <SplineElement x="-0.500000" y="1.000000" />
+        <SplineElement x="-0.375000" y="1.000000" />
+        <SplineElement x="-0.250000" y="1.000000" />
+        <SplineElement x="-0.125000" y="1.000000" />
+        <SplineElement x="0.000000" y="1.000000" />
+        <SplineElement x="0.125000" y="1.000000" />
+        <SplineElement x="0.250000" y="1.000000" />
+        <SplineElement x="0.375000" y="1.000000" />
+        <SplineElement x="0.500000" y="1.000000" />
+        <SplineElement x="0.625000" y="1.000000" />
+        <SplineElement x="0.750000" y="1.000000" />
+        <SplineElement x="0.875000" y="1.000000" />
+        <SplineElement x="1.000000" y="1.000000" />
+      </BlisterGrip>
+    </Wear>
+    <!-- Temperature simulation -->
+    <Temperature>
+      <SpinSkiddRate value="1" />
+      <WorkEnergyRate value="14.5" />
+      <RollEnergyRate value="0.0098" />
+      <HeatGradient value="0.5" />
+      <SpecificHeatCapacity value="250" />
+      <CoefHeatTransferConstant value="4" />
+      <CoefHeatTransferLinear value="0.12" />
+      <CoefHeatTransferQuadratic value="0.0035" />
+      <CoefHeatTransferCarcas value="0.04" />
+      <CoefHeatTransferBrake value="0.00025" />
+      <PitReleaseTemperature value="333.15" />
+      <TemperatureGrip numVertices="10">
+        <SplineElement x="328.150000" y="0.940000" />
+        <SplineElement x="338.150000" y="0.960000" />
+        <SplineElement x="348.150000" y="0.980000" />
+        <SplineElement x="358.150000" y="1.000000" />
+        <SplineElement x="368.150000" y="1.000000" />
+        <SplineElement x="378.150000" y="1.000000" />
+        <SplineElement x="388.150000" y="1.000000" />
+        <SplineElement x="398.150000" y="0.980000" />
+        <SplineElement x="408.150000" y="0.960000" />
+        <SplineElement x="418.150000" y="0.940000" />
+      </TemperatureGrip>
+      <TemperatureGripCarcas numVertices="11">
+        <SplineElement x="318.150000" y="0.960000" />
+        <SplineElement x="328.150000" y="0.970000" />
+        <SplineElement x="338.150000" y="0.980000" />
+        <SplineElement x="348.150000" y="0.990000" />
+        <SplineElement x="358.150000" y="1.000000" />
+        <SplineElement x="368.150000" y="1.000000" />
+        <SplineElement x="378.150000" y="1.000000" />
+        <SplineElement x="388.150000" y="0.990000" />
+        <SplineElement x="398.150000" y="0.980000" />
+        <SplineElement x="408.150000" y="0.970000" />
+        <SplineElement x="418.150000" y="0.960000" />
+      </TemperatureGripCarcas>
+    </Temperature>
+    <Pressure>
+      <PressureMin value="19.5" />
+      <PressureMax value="23.5" />
+      <WorkEnergyRateMin value="10.5" />
+      <WorkEnergyRateMax value="18.5" />
+      <RollEnergyRateMin value="0.0098" />
+      <RollEnergyRateMax value="0.0098" />
+      <WearRateMin value="0.03398" />
+      <WearRateMax value="0.02398" />
+      <RollingResistanceMin value="0.0015" />
+      <RollingResistanceMax value="0.0005" />
+      <SpringConstantMin value="498689.627587031" />
+      <SpringConstantMax value="501310.372412969" />
+      <SpringDampingMin value="7278.96142887047" />
+      <SpringDampingMax value="7298.06279207133" />
+    </Pressure>
+    <!-- Wetness simulation -->
+    <Wetness>
+      <WetnessGrip numVertices="33">
+        <SplineElement x="0.000000" y="0.940000" />
+        <SplineElement x="0.031250" y="0.893125" />
+        <SplineElement x="0.062500" y="0.846250" />
+        <SplineElement x="0.093750" y="0.799375" />
+        <SplineElement x="0.125000" y="0.752500" />
+        <SplineElement x="0.156250" y="0.705625" />
+        <SplineElement x="0.187500" y="0.658750" />
+        <SplineElement x="0.218750" y="0.611875" />
+        <SplineElement x="0.250000" y="0.565000" />
+        <SplineElement x="0.281250" y="0.550000" />
+        <SplineElement x="0.312500" y="0.550000" />
+        <SplineElement x="0.343750" y="0.550000" />
+        <SplineElement x="0.375000" y="0.550000" />
+        <SplineElement x="0.406250" y="0.550000" />
+        <SplineElement x="0.437500" y="0.550000" />
+        <SplineElement x="0.468750" y="0.550000" />
+        <SplineElement x="0.500000" y="0.550000" />
+        <SplineElement x="0.531250" y="0.550000" />
+        <SplineElement x="0.562500" y="0.550000" />
+        <SplineElement x="0.593750" y="0.550000" />
+        <SplineElement x="0.625000" y="0.550000" />
+        <SplineElement x="0.656250" y="0.550000" />
+        <SplineElement x="0.687500" y="0.550000" />
+        <SplineElement x="0.718750" y="0.550000" />
+        <SplineElement x="0.750000" y="0.550000" />
+        <SplineElement x="0.781250" y="0.550000" />
+        <SplineElement x="0.812500" y="0.550000" />
+        <SplineElement x="0.843750" y="0.550000" />
+        <SplineElement x="0.875000" y="0.550000" />
+        <SplineElement x="0.906250" y="0.550000" />
+        <SplineElement x="0.937500" y="0.550000" />
+        <SplineElement x="0.968750" y="0.550000" />
+        <SplineElement x="1.000000" y="0.550000" />
+      </WetnessGrip>
+      <WetnessWear numVertices="33">
+        <SplineElement x="0.000000" y="1.000000" />
+        <SplineElement x="0.031250" y="0.980000" />
+        <SplineElement x="0.062500" y="0.960000" />
+        <SplineElement x="0.093750" y="0.930000" />
+        <SplineElement x="0.125000" y="0.900000" />
+        <SplineElement x="0.156250" y="0.870000" />
+        <SplineElement x="0.187500" y="0.840000" />
+        <SplineElement x="0.218750" y="0.800000" />
+        <SplineElement x="0.250000" y="0.760000" />
+        <SplineElement x="0.281250" y="0.720000" />
+        <SplineElement x="0.312500" y="0.680000" />
+        <SplineElement x="0.343750" y="0.640000" />
+        <SplineElement x="0.375000" y="0.600000" />
+        <SplineElement x="0.406250" y="0.570000" />
+        <SplineElement x="0.437500" y="0.540000" />
+        <SplineElement x="0.468750" y="0.510000" />
+        <SplineElement x="0.500000" y="0.500000" />
+        <SplineElement x="0.531250" y="0.500000" />
+        <SplineElement x="0.562500" y="0.500000" />
+        <SplineElement x="0.593750" y="0.500000" />
+        <SplineElement x="0.625000" y="0.500000" />
+        <SplineElement x="0.656250" y="0.500000" />
+        <SplineElement x="0.687500" y="0.500000" />
+        <SplineElement x="0.718750" y="0.500000" />
+        <SplineElement x="0.750000" y="0.500000" />
+        <SplineElement x="0.781250" y="0.500000" />
+        <SplineElement x="0.812500" y="0.500000" />
+        <SplineElement x="0.843750" y="0.500000" />
+        <SplineElement x="0.875000" y="0.500000" />
+        <SplineElement x="0.906250" y="0.500000" />
+        <SplineElement x="0.937500" y="0.500000" />
+        <SplineElement x="0.968750" y="0.500000" />
+        <SplineElement x="1.000000" y="0.500000" />
+      </WetnessWear>
+      <WetnessTarget numVertices="33">
+        <SplineElement x="0.000000" y="373.150000" />
+        <SplineElement x="0.031250" y="371.150000" />
+        <SplineElement x="0.062500" y="369.150000" />
+        <SplineElement x="0.093750" y="367.150000" />
+        <SplineElement x="0.125000" y="365.150000" />
+        <SplineElement x="0.156250" y="363.150000" />
+        <SplineElement x="0.187500" y="361.150000" />
+        <SplineElement x="0.218750" y="359.150000" />
+        <SplineElement x="0.250000" y="357.150000" />
+        <SplineElement x="0.281250" y="355.150000" />
+        <SplineElement x="0.312500" y="353.150000" />
+        <SplineElement x="0.343750" y="351.150000" />
+        <SplineElement x="0.375000" y="349.150000" />
+        <SplineElement x="0.406250" y="347.150000" />
+        <SplineElement x="0.437500" y="345.150000" />
+        <SplineElement x="0.468750" y="343.150000" />
+        <SplineElement x="0.500000" y="341.150000" />
+        <SplineElement x="0.531250" y="339.150000" />
+        <SplineElement x="0.562500" y="337.150000" />
+        <SplineElement x="0.593750" y="335.150000" />
+        <SplineElement x="0.625000" y="333.150000" />
+        <SplineElement x="0.656250" y="331.150000" />
+        <SplineElement x="0.687500" y="329.150000" />
+        <SplineElement x="0.718750" y="327.150000" />
+        <SplineElement x="0.750000" y="325.150000" />
+        <SplineElement x="0.781250" y="323.150000" />
+        <SplineElement x="0.812500" y="321.150000" />
+        <SplineElement x="0.843750" y="319.150000" />
+        <SplineElement x="0.875000" y="317.150000" />
+        <SplineElement x="0.906250" y="315.150000" />
+        <SplineElement x="0.937500" y="313.150000" />
+        <SplineElement x="0.968750" y="311.150000" />
+        <SplineElement x="1.000000" y="309.150000" />
+      </WetnessTarget>
+    </Wetness>
+    <!-- Residue accumulation and release simulation -->
+    <Residuum count="3">
+      <Residue name="Grass">
+        <AccretionRate value="0.003" />
+        <ReleaseRate value="0.0003" />
+        <GripMultiple value="0.85" />
+      </Residue>
+      <Residue name="Gravel">
+        <AccretionRate value="0.003" />
+        <ReleaseRate value="0.0003" />
+        <GripMultiple value="0.9" />
+      </Residue>
+      <Residue name="Marbling">
+        <AccretionRate value="0.0001" />
+        <ReleaseRate value="0.0005" />
+        <GripMultiple value="0.95" />
+      </Residue>
+    </Residuum>
+  </Compound>
+  <Compound name="F2_2021_WETF">
+    <TyreModel>
+      <ModelType value="MNC" />
+      <ParametricData>
+        <LateralLoad Load="0" Peak="1.86" PeakMin="1.865" PeakMax="1.855" DownSlope="1.2713" UpSlope="0.55" Shape="0.5" />
+        <LateralLoad Load="675" Peak="1.844" PeakMin="1.849" PeakMax="1.839" DownSlope="1.2713" UpSlope="0.55" Shape="0.5" />
+        <LateralLoad Load="1350" Peak="1.7967" PeakMin="1.8017" PeakMax="1.7917" DownSlope="1.2713" UpSlope="0.55" Shape="0.5" />
+        <LateralLoad Load="2025" Peak="1.7199" PeakMin="1.7249" PeakMax="1.7149" DownSlope="1.2713" UpSlope="0.55" Shape="0.5" />
+        <LateralLoad Load="2700" Peak="1.6164" PeakMin="1.6214" PeakMax="1.6114" DownSlope="1.2713" UpSlope="0.55" Shape="0.5" />
+        <LateralLoad Load="3375" Peak="1.4902" PeakMin="1.4902" PeakMax="1.4902" DownSlope="1.2713" UpSlope="0.55" Shape="0.5" />
+        <LateralLoad Load="4050" Peak="1.3464" PeakMin="1.3414" PeakMax="1.3514" DownSlope="1.2713" UpSlope="0.55" Shape="0.5" />
+        <LateralLoad Load="4725" Peak="1.1911" PeakMin="1.1861" PeakMax="1.1961" DownSlope="1.2713" UpSlope="0.55" Shape="0.5" />
+        <LateralLoad Load="5400" Peak="1.0315" PeakMin="1.0265" PeakMax="1.0365" DownSlope="1.2713" UpSlope="0.55" Shape="0.5" />
+        <LateralLoad Load="6075" Peak="0.8774" PeakMin="0.8724" PeakMax="0.8824" DownSlope="1.2713" UpSlope="0.55" Shape="0.5" />
+        <LateralLoad Load="6750" Peak="0.7508" PeakMin="0.7458" PeakMax="0.7558" DownSlope="1.2713" UpSlope="0.55" Shape="0.5" />
+        <LateralCamber Camber="0" GripGain="0" />
+        <LateralCamber Camber="1" GripGain="0" />
+        <LongitudinalLoad Load="0" Peak="1.953" PeakMin="1.958" PeakMax="1.948" DownSlope="1.3036" UpSlope="1.1" Shape="0.5" />
+        <LongitudinalLoad Load="675" Peak="1.9374" PeakMin="1.9424" PeakMax="1.9324" DownSlope="1.3036" UpSlope="1.1" Shape="0.5" />
+        <LongitudinalLoad Load="1350" Peak="1.8912" PeakMin="1.8962" PeakMax="1.8862" DownSlope="1.3036" UpSlope="1.1" Shape="0.5" />
+        <LongitudinalLoad Load="2025" Peak="1.8161" PeakMin="1.8211" PeakMax="1.8111" DownSlope="1.3036" UpSlope="1.1" Shape="0.5" />
+        <LongitudinalLoad Load="2700" Peak="1.7148" PeakMin="1.7198" PeakMax="1.7098" DownSlope="1.3036" UpSlope="1.1" Shape="0.5" />
+        <LongitudinalLoad Load="3375" Peak="1.5909" PeakMin="1.5909" PeakMax="1.5909" DownSlope="1.3036" UpSlope="1.1" Shape="0.5" />
+        <LongitudinalLoad Load="4050" Peak="1.4494" PeakMin="1.4444" PeakMax="1.4544" DownSlope="1.3036" UpSlope="1.1" Shape="0.5" />
+        <LongitudinalLoad Load="4725" Peak="1.2957" PeakMin="1.2907" PeakMax="1.3007" DownSlope="1.3036" UpSlope="1.1" Shape="0.5" />
+        <LongitudinalLoad Load="5400" Peak="1.1369" PeakMin="1.1319" PeakMax="1.1419" DownSlope="1.3036" UpSlope="1.1" Shape="0.5" />
+        <LongitudinalLoad Load="6075" Peak="0.982" PeakMin="0.977" PeakMax="0.987" DownSlope="1.3036" UpSlope="1.1" Shape="0.5" />
+        <LongitudinalLoad Load="6750" Peak="0.8516" PeakMin="0.8466" PeakMax="0.8566" DownSlope="1.3036" UpSlope="1.1" Shape="0.5" />
+        <LongitudinalCamber Camber="0" GripGain="0" />
+        <LongitudinalCamber Camber="1" GripGain="0" />
+        <DynamicCamber MaxAngle="0.2" PeakPoint="0.5" PeakMultiple="1" OffPeakMultiple="0.98" />
+      </ParametricData>
+    </TyreModel>
+    <!-- Wear and Blistering simulation -->
+    <Wear>
+      <WearRate value="0.13" />
+      <BlisterRate value="0" />
+      <MinBlisteringTemperature value="373" />
+      <MaxBlisteringTemperature value="393" />
+      <WearGrip numVertices="17">
+        <SplineElement x="0.0000" y="1.0000" />
+        <SplineElement x="0.0600" y="0.9975" />
+        <SplineElement x="0.1300" y="0.9950" />
+        <SplineElement x="0.1900" y="0.9950" />
+        <SplineElement x="0.2500" y="0.9950" />
+        <SplineElement x="0.3100" y="0.9950" />
+        <SplineElement x="0.3800" y="0.9950" />
+        <SplineElement x="0.4400" y="0.9950" />
+        <SplineElement x="0.5000" y="0.9950" />
+        <SplineElement x="0.5600" y="0.9950" />
+        <SplineElement x="0.6300" y="0.9918" />
+        <SplineElement x="0.6900" y="0.9866" />
+        <SplineElement x="0.7500" y="0.9774" />
+        <SplineElement x="0.8100" y="0.9642" />
+        <SplineElement x="0.8800" y="0.9470" />
+        <SplineElement x="0.9400" y="0.9258" />
+        <SplineElement x="1.0000" y="0.8846" />
+      </WearGrip>
+      <BlisterGrip numVertices="17">
+        <SplineElement x="-1.000000" y="1.000000" />
+        <SplineElement x="-0.875000" y="1.000000" />
+        <SplineElement x="-0.750000" y="1.000000" />
+        <SplineElement x="-0.625000" y="1.000000" />
+        <SplineElement x="-0.500000" y="1.000000" />
+        <SplineElement x="-0.375000" y="1.000000" />
+        <SplineElement x="-0.250000" y="1.000000" />
+        <SplineElement x="-0.125000" y="1.000000" />
+        <SplineElement x="0.000000" y="1.000000" />
+        <SplineElement x="0.125000" y="1.000000" />
+        <SplineElement x="0.250000" y="1.000000" />
+        <SplineElement x="0.375000" y="1.000000" />
+        <SplineElement x="0.500000" y="1.000000" />
+        <SplineElement x="0.625000" y="1.000000" />
+        <SplineElement x="0.750000" y="1.000000" />
+        <SplineElement x="0.875000" y="1.000000" />
+        <SplineElement x="1.000000" y="1.000000" />
+      </BlisterGrip>
+    </Wear>
+    <!-- Temperature simulation -->
+    <Temperature>
+      <SpinSkiddRate value="1" />
+      <WorkEnergyRate value="23" />
+      <RollEnergyRate value="0.0082" />
+      <HeatGradient value="0.5" />
+      <SpecificHeatCapacity value="250" />
+      <CoefHeatTransferConstant value="4" />
+      <CoefHeatTransferLinear value="0.12" />
+      <CoefHeatTransferQuadratic value="0.0035" />
+      <CoefHeatTransferCarcas value="0.04" />
+      <CoefHeatTransferBrake value="0.00025" />
+      <PitReleaseTemperature value="323.15" />
+      <TemperatureGrip numVertices="10">
+        <SplineElement x="308.150000" y="0.940000" />
+        <SplineElement x="318.150000" y="0.960000" />
+        <SplineElement x="328.150000" y="0.980000" />
+        <SplineElement x="338.150000" y="1.000000" />
+        <SplineElement x="348.150000" y="1.000000" />
+        <SplineElement x="358.150000" y="1.000000" />
+        <SplineElement x="368.150000" y="1.000000" />
+        <SplineElement x="378.150000" y="0.980000" />
+        <SplineElement x="388.150000" y="0.960000" />
+        <SplineElement x="398.150000" y="0.940000" />
+      </TemperatureGrip>
+      <TemperatureGripCarcas numVertices="11">
+        <SplineElement x="293.150000" y="0.970000" />
+        <SplineElement x="303.150000" y="0.980000" />
+        <SplineElement x="313.150000" y="0.990000" />
+        <SplineElement x="323.150000" y="1.000000" />
+        <SplineElement x="333.150000" y="1.000000" />
+        <SplineElement x="343.150000" y="1.000000" />
+        <SplineElement x="353.150000" y="1.000000" />
+        <SplineElement x="363.150000" y="1.000000" />
+        <SplineElement x="373.150000" y="0.990000" />
+        <SplineElement x="383.150000" y="0.980000" />
+        <SplineElement x="393.150000" y="0.970000" />
+      </TemperatureGripCarcas>
+    </Temperature>
+    <Pressure>
+      <PressureMin value="21" />
+      <PressureMax value="25" />
+      <WorkEnergyRateMin value="19" />
+      <WorkEnergyRateMax value="27" />
+      <RollEnergyRateMin value="0.0082" />
+      <RollEnergyRateMax value="0.0082" />
+      <WearRateMin value="0.035" />
+      <WearRateMax value="0.025" />
+      <RollingResistanceMin value="0.0015" />
+      <RollingResistanceMax value="0.0005" />
+      <SpringConstantMin value="448844.918966222" />
+      <SpringConstantMax value="451155.081033778" />
+      <SpringDampingMin value="6373.59469930728" />
+      <SpringDampingMax value="6389.97579095274" />
+    </Pressure>
+    <!-- Wetness simulation -->
+    <Wetness>
+      <WetnessGrip numVertices="33">
+        <SplineElement x="0.000000" y="0.900000" />
+        <SplineElement x="0.031250" y="0.878750" />
+        <SplineElement x="0.062500" y="0.857500" />
+        <SplineElement x="0.093750" y="0.836250" />
+        <SplineElement x="0.125000" y="0.815000" />
+        <SplineElement x="0.156250" y="0.793750" />
+        <SplineElement x="0.187500" y="0.772500" />
+        <SplineElement x="0.218750" y="0.751250" />
+        <SplineElement x="0.250000" y="0.730000" />
+        <SplineElement x="0.281250" y="0.728750" />
+        <SplineElement x="0.312500" y="0.727500" />
+        <SplineElement x="0.343750" y="0.726250" />
+        <SplineElement x="0.375000" y="0.725000" />
+        <SplineElement x="0.406250" y="0.723750" />
+        <SplineElement x="0.437500" y="0.722500" />
+        <SplineElement x="0.468750" y="0.721250" />
+        <SplineElement x="0.500000" y="0.720000" />
+        <SplineElement x="0.531250" y="0.718750" />
+        <SplineElement x="0.562500" y="0.717500" />
+        <SplineElement x="0.593750" y="0.716250" />
+        <SplineElement x="0.625000" y="0.715000" />
+        <SplineElement x="0.656250" y="0.713750" />
+        <SplineElement x="0.687500" y="0.712500" />
+        <SplineElement x="0.718750" y="0.711250" />
+        <SplineElement x="0.750000" y="0.710000" />
+        <SplineElement x="0.781250" y="0.708750" />
+        <SplineElement x="0.812500" y="0.707500" />
+        <SplineElement x="0.843750" y="0.706250" />
+        <SplineElement x="0.875000" y="0.705000" />
+        <SplineElement x="0.906250" y="0.703750" />
+        <SplineElement x="0.937500" y="0.702500" />
+        <SplineElement x="0.968750" y="0.701250" />
+        <SplineElement x="1.000000" y="0.700000" />
+      </WetnessGrip>
+      <WetnessWear numVertices="33">
+        <SplineElement x="0.000000" y="1.500000" />
+        <SplineElement x="0.031250" y="1.437500" />
+        <SplineElement x="0.062500" y="1.375000" />
+        <SplineElement x="0.093750" y="1.312500" />
+        <SplineElement x="0.125000" y="1.250000" />
+        <SplineElement x="0.156250" y="1.187500" />
+        <SplineElement x="0.187500" y="1.125000" />
+        <SplineElement x="0.218750" y="1.062500" />
+        <SplineElement x="0.250000" y="1.000000" />
+        <SplineElement x="0.281250" y="1.000000" />
+        <SplineElement x="0.312500" y="1.000000" />
+        <SplineElement x="0.343750" y="1.000000" />
+        <SplineElement x="0.375000" y="1.000000" />
+        <SplineElement x="0.406250" y="1.000000" />
+        <SplineElement x="0.437500" y="1.000000" />
+        <SplineElement x="0.468750" y="1.000000" />
+        <SplineElement x="0.500000" y="1.000000" />
+        <SplineElement x="0.531250" y="1.000000" />
+        <SplineElement x="0.562500" y="1.000000" />
+        <SplineElement x="0.593750" y="1.000000" />
+        <SplineElement x="0.625000" y="1.000000" />
+        <SplineElement x="0.656250" y="1.000000" />
+        <SplineElement x="0.687500" y="1.000000" />
+        <SplineElement x="0.718750" y="1.000000" />
+        <SplineElement x="0.750000" y="1.000000" />
+        <SplineElement x="0.781250" y="0.993750" />
+        <SplineElement x="0.812500" y="0.987500" />
+        <SplineElement x="0.843750" y="0.981250" />
+        <SplineElement x="0.875000" y="0.975000" />
+        <SplineElement x="0.906250" y="0.968750" />
+        <SplineElement x="0.937500" y="0.962500" />
+        <SplineElement x="0.968750" y="0.956250" />
+        <SplineElement x="1.000000" y="0.950000" />
+      </WetnessWear>
+      <WetnessTarget numVertices="33">
+        <SplineElement x="0.000000" y="383.150000" />
+        <SplineElement x="0.031250" y="379.150000" />
+        <SplineElement x="0.062500" y="375.150000" />
+        <SplineElement x="0.093750" y="371.150000" />
+        <SplineElement x="0.125000" y="367.150000" />
+        <SplineElement x="0.156250" y="363.150000" />
+        <SplineElement x="0.187500" y="360.150000" />
+        <SplineElement x="0.218750" y="357.150000" />
+        <SplineElement x="0.250000" y="355.150000" />
+        <SplineElement x="0.281250" y="353.150000" />
+        <SplineElement x="0.312500" y="351.650000" />
+        <SplineElement x="0.343750" y="350.150000" />
+        <SplineElement x="0.375000" y="348.650000" />
+        <SplineElement x="0.406250" y="347.150000" />
+        <SplineElement x="0.437500" y="346.150000" />
+        <SplineElement x="0.468750" y="345.150000" />
+        <SplineElement x="0.500000" y="344.150000" />
+        <SplineElement x="0.531250" y="343.150000" />
+        <SplineElement x="0.562500" y="342.150000" />
+        <SplineElement x="0.593750" y="341.150000" />
+        <SplineElement x="0.625000" y="340.150000" />
+        <SplineElement x="0.656250" y="339.150000" />
+        <SplineElement x="0.687500" y="338.150000" />
+        <SplineElement x="0.718750" y="337.150000" />
+        <SplineElement x="0.750000" y="336.150000" />
+        <SplineElement x="0.781250" y="335.150000" />
+        <SplineElement x="0.812500" y="334.150000" />
+        <SplineElement x="0.843750" y="333.150000" />
+        <SplineElement x="0.875000" y="332.150000" />
+        <SplineElement x="0.906250" y="331.150000" />
+        <SplineElement x="0.937500" y="330.150000" />
+        <SplineElement x="0.968750" y="329.150000" />
+        <SplineElement x="1.000000" y="328.150000" />
+      </WetnessTarget>
+    </Wetness>
+    <!-- Residue accumulation and release simulation -->
+    <Residuum count="3">
+      <Residue name="Grass">
+        <AccretionRate value="0.0025" />
+        <ReleaseRate value="0.00035" />
+        <GripMultiple value="0.85" />
+      </Residue>
+      <Residue name="Gravel">
+        <AccretionRate value="0.0025" />
+        <ReleaseRate value="0.00035" />
+        <GripMultiple value="0.9" />
+      </Residue>
+      <Residue name="Marbling">
+        <AccretionRate value="0.01" />
+        <ReleaseRate value="0.005" />
+        <GripMultiple value="1.1" />
+      </Residue>
+    </Residuum>
+  </Compound>
+  <Compound name="F2_2021_WETR">
+    <TyreModel>
+      <ModelType value="MNC" />
+      <ParametricData>
+        <LateralLoad Load="0" Peak="1.9344" PeakMin="1.9394" PeakMax="1.9294" DownSlope="1.267" UpSlope="0.639" Shape="0.5" />
+        <LateralLoad Load="825" Peak="1.92" PeakMin="1.925" PeakMax="1.915" DownSlope="1.267" UpSlope="0.639" Shape="0.5" />
+        <LateralLoad Load="1650" Peak="1.8772" PeakMin="1.8822" PeakMax="1.8722" DownSlope="1.267" UpSlope="0.639" Shape="0.5" />
+        <LateralLoad Load="2475" Peak="1.8077" PeakMin="1.8127" PeakMax="1.8027" DownSlope="1.267" UpSlope="0.639" Shape="0.5" />
+        <LateralLoad Load="3300" Peak="1.714" PeakMin="1.719" PeakMax="1.709" DownSlope="1.267" UpSlope="0.639" Shape="0.5" />
+        <LateralLoad Load="4125" Peak="1.5999" PeakMin="1.5999" PeakMax="1.5999" DownSlope="1.267" UpSlope="0.639" Shape="0.5" />
+        <LateralLoad Load="4950" Peak="1.4698" PeakMin="1.4648" PeakMax="1.4748" DownSlope="1.267" UpSlope="0.639" Shape="0.5" />
+        <LateralLoad Load="5775" Peak="1.3293" PeakMin="1.3243" PeakMax="1.3343" DownSlope="1.267" UpSlope="0.639" Shape="0.5" />
+        <LateralLoad Load="6600" Peak="1.1849" PeakMin="1.1799" PeakMax="1.1899" DownSlope="1.267" UpSlope="0.639" Shape="0.5" />
+        <LateralLoad Load="7425" Peak="1.0455" PeakMin="1.0405" PeakMax="1.0505" DownSlope="1.267" UpSlope="0.639" Shape="0.5" />
+        <LateralLoad Load="8250" Peak="0.931" PeakMin="0.926" PeakMax="0.936" DownSlope="1.267" UpSlope="0.639" Shape="0.5" />
+        <LateralCamber Camber="0" GripGain="0" />
+        <LateralCamber Camber="1" GripGain="0" />
+        <LongitudinalLoad Load="0" Peak="2.0311" PeakMin="2.0361" PeakMax="2.0261" DownSlope="1.3011" UpSlope="1.3" Shape="0.5" />
+        <LongitudinalLoad Load="825" Peak="2.0173" PeakMin="2.0223" PeakMax="2.0123" DownSlope="1.3011" UpSlope="1.3" Shape="0.5" />
+        <LongitudinalLoad Load="1650" Peak="1.9764" PeakMin="1.9814" PeakMax="1.9714" DownSlope="1.3011" UpSlope="1.3" Shape="0.5" />
+        <LongitudinalLoad Load="2475" Peak="1.9099" PeakMin="1.9149" PeakMax="1.9049" DownSlope="1.3011" UpSlope="1.3" Shape="0.5" />
+        <LongitudinalLoad Load="3300" Peak="1.8202" PeakMin="1.8252" PeakMax="1.8152" DownSlope="1.3011" UpSlope="1.3" Shape="0.5" />
+        <LongitudinalLoad Load="4125" Peak="1.7106" PeakMin="1.7106" PeakMax="1.7106" DownSlope="1.3011" UpSlope="1.3" Shape="0.5" />
+        <LongitudinalLoad Load="4950" Peak="1.5852" PeakMin="1.5802" PeakMax="1.5902" DownSlope="1.3011" UpSlope="1.3" Shape="0.5" />
+        <LongitudinalLoad Load="5775" Peak="1.4492" PeakMin="1.4442" PeakMax="1.4542" DownSlope="1.3011" UpSlope="1.3" Shape="0.5" />
+        <LongitudinalLoad Load="6600" Peak="1.3086" PeakMin="1.3036" PeakMax="1.3136" DownSlope="1.3011" UpSlope="1.3" Shape="0.5" />
+        <LongitudinalLoad Load="7425" Peak="1.1714" PeakMin="1.1664" PeakMax="1.1764" DownSlope="1.3011" UpSlope="1.3" Shape="0.5" />
+        <LongitudinalLoad Load="8250" Peak="1.0559" PeakMin="1.0509" PeakMax="1.0609" DownSlope="1.3011" UpSlope="1.3" Shape="0.5" />
+        <LongitudinalCamber Camber="0" GripGain="0" />
+        <LongitudinalCamber Camber="1" GripGain="0" />
+        <DynamicCamber MaxAngle="0.05236" PeakPoint="0.5" PeakMultiple="1" OffPeakMultiple="0.975" />
+      </ParametricData>
+    </TyreModel>
+    <!-- Wear and Blistering simulation -->
+    <Wear>
+      <WearRate value="0.1276" />
+      <BlisterRate value="0" />
+      <MinBlisteringTemperature value="373" />
+      <MaxBlisteringTemperature value="393" />
+      <WearGrip numVertices="17">
+        <SplineElement x="0.0000" y="1.0000" />
+        <SplineElement x="0.0600" y="0.9975" />
+        <SplineElement x="0.1300" y="0.9950" />
+        <SplineElement x="0.1900" y="0.9950" />
+        <SplineElement x="0.2500" y="0.9950" />
+        <SplineElement x="0.3100" y="0.9950" />
+        <SplineElement x="0.3800" y="0.9950" />
+        <SplineElement x="0.4400" y="0.9950" />
+        <SplineElement x="0.5000" y="0.9950" />
+        <SplineElement x="0.5600" y="0.9950" />
+        <SplineElement x="0.6300" y="0.9918" />
+        <SplineElement x="0.6900" y="0.9866" />
+        <SplineElement x="0.7500" y="0.9774" />
+        <SplineElement x="0.8100" y="0.9642" />
+        <SplineElement x="0.8800" y="0.9470" />
+        <SplineElement x="0.9400" y="0.9258" />
+        <SplineElement x="1.0000" y="0.8846" />
+      </WearGrip>
+      <BlisterGrip numVertices="17">
+        <SplineElement x="-1.000000" y="1.000000" />
+        <SplineElement x="-0.875000" y="1.000000" />
+        <SplineElement x="-0.750000" y="1.000000" />
+        <SplineElement x="-0.625000" y="1.000000" />
+        <SplineElement x="-0.500000" y="1.000000" />
+        <SplineElement x="-0.375000" y="1.000000" />
+        <SplineElement x="-0.250000" y="1.000000" />
+        <SplineElement x="-0.125000" y="1.000000" />
+        <SplineElement x="0.000000" y="1.000000" />
+        <SplineElement x="0.125000" y="1.000000" />
+        <SplineElement x="0.250000" y="1.000000" />
+        <SplineElement x="0.375000" y="1.000000" />
+        <SplineElement x="0.500000" y="1.000000" />
+        <SplineElement x="0.625000" y="1.000000" />
+        <SplineElement x="0.750000" y="1.000000" />
+        <SplineElement x="0.875000" y="1.000000" />
+        <SplineElement x="1.000000" y="1.000000" />
+      </BlisterGrip>
+    </Wear>
+    <!-- Temperature simulation -->
+    <Temperature>
+      <SpinSkiddRate value="1" />
+      <WorkEnergyRate value="23" />
+      <RollEnergyRate value="0.0082" />
+      <HeatGradient value="0.5" />
+      <SpecificHeatCapacity value="250" />
+      <CoefHeatTransferConstant value="4" />
+      <CoefHeatTransferLinear value="0.12" />
+      <CoefHeatTransferQuadratic value="0.003" />
+      <CoefHeatTransferCarcas value="0.04" />
+      <CoefHeatTransferBrake value="0.00025" />
+      <PitReleaseTemperature value="323.15" />
+      <TemperatureGrip numVertices="10">
+        <SplineElement x="308.150000" y="0.940000" />
+        <SplineElement x="318.150000" y="0.960000" />
+        <SplineElement x="328.150000" y="0.980000" />
+        <SplineElement x="338.150000" y="1.000000" />
+        <SplineElement x="348.150000" y="1.000000" />
+        <SplineElement x="358.150000" y="1.000000" />
+        <SplineElement x="368.150000" y="1.000000" />
+        <SplineElement x="378.150000" y="0.980000" />
+        <SplineElement x="388.150000" y="0.960000" />
+        <SplineElement x="398.150000" y="0.940000" />
+      </TemperatureGrip>
+      <TemperatureGripCarcas numVertices="11">
+        <SplineElement x="293.150000" y="0.970000" />
+        <SplineElement x="303.150000" y="0.980000" />
+        <SplineElement x="313.150000" y="0.990000" />
+        <SplineElement x="323.150000" y="1.000000" />
+        <SplineElement x="333.150000" y="1.000000" />
+        <SplineElement x="343.150000" y="1.000000" />
+        <SplineElement x="353.150000" y="1.000000" />
+        <SplineElement x="363.150000" y="1.000000" />
+        <SplineElement x="373.150000" y="0.990000" />
+        <SplineElement x="383.150000" y="0.980000" />
+        <SplineElement x="393.150000" y="0.970000" />
+      </TemperatureGripCarcas>
+    </Temperature>
+    <Pressure>
+      <PressureMin value="19.5" />
+      <PressureMax value="23.5" />
+      <WorkEnergyRateMin value="19" />
+      <WorkEnergyRateMax value="27" />
+      <RollEnergyRateMin value="0.0082" />
+      <RollEnergyRateMax value="0.0082" />
+      <WearRateMin value="0.0326" />
+      <WearRateMax value="0.0226" />
+      <RollingResistanceMin value="0.0015" />
+      <RollingResistanceMax value="0.0005" />
+      <SpringConstantMin value="498689.627587031" />
+      <SpringConstantMax value="501310.372412969" />
+      <SpringDampingMin value="7278.96142887047" />
+      <SpringDampingMax value="7298.06279207133" />
+    </Pressure>
+    <!-- Wetness simulation -->
+    <Wetness>
+      <WetnessGrip numVertices="33">
+        <SplineElement x="0.000000" y="0.900000" />
+        <SplineElement x="0.031250" y="0.878750" />
+        <SplineElement x="0.062500" y="0.857500" />
+        <SplineElement x="0.093750" y="0.836250" />
+        <SplineElement x="0.125000" y="0.815000" />
+        <SplineElement x="0.156250" y="0.793750" />
+        <SplineElement x="0.187500" y="0.772500" />
+        <SplineElement x="0.218750" y="0.751250" />
+        <SplineElement x="0.250000" y="0.730000" />
+        <SplineElement x="0.281250" y="0.728750" />
+        <SplineElement x="0.312500" y="0.727500" />
+        <SplineElement x="0.343750" y="0.726250" />
+        <SplineElement x="0.375000" y="0.725000" />
+        <SplineElement x="0.406250" y="0.723750" />
+        <SplineElement x="0.437500" y="0.722500" />
+        <SplineElement x="0.468750" y="0.721250" />
+        <SplineElement x="0.500000" y="0.720000" />
+        <SplineElement x="0.531250" y="0.718750" />
+        <SplineElement x="0.562500" y="0.717500" />
+        <SplineElement x="0.593750" y="0.716250" />
+        <SplineElement x="0.625000" y="0.715000" />
+        <SplineElement x="0.656250" y="0.713750" />
+        <SplineElement x="0.687500" y="0.712500" />
+        <SplineElement x="0.718750" y="0.711250" />
+        <SplineElement x="0.750000" y="0.710000" />
+        <SplineElement x="0.781250" y="0.708750" />
+        <SplineElement x="0.812500" y="0.707500" />
+        <SplineElement x="0.843750" y="0.706250" />
+        <SplineElement x="0.875000" y="0.705000" />
+        <SplineElement x="0.906250" y="0.703750" />
+        <SplineElement x="0.937500" y="0.702500" />
+        <SplineElement x="0.968750" y="0.701250" />
+        <SplineElement x="1.000000" y="0.700000" />
+      </WetnessGrip>
+      <WetnessWear numVertices="33">
+        <SplineElement x="0.000000" y="1.500000" />
+        <SplineElement x="0.031250" y="1.437500" />
+        <SplineElement x="0.062500" y="1.375000" />
+        <SplineElement x="0.093750" y="1.312500" />
+        <SplineElement x="0.125000" y="1.250000" />
+        <SplineElement x="0.156250" y="1.187500" />
+        <SplineElement x="0.187500" y="1.125000" />
+        <SplineElement x="0.218750" y="1.062500" />
+        <SplineElement x="0.250000" y="1.000000" />
+        <SplineElement x="0.281250" y="1.000000" />
+        <SplineElement x="0.312500" y="1.000000" />
+        <SplineElement x="0.343750" y="1.000000" />
+        <SplineElement x="0.375000" y="1.000000" />
+        <SplineElement x="0.406250" y="1.000000" />
+        <SplineElement x="0.437500" y="1.000000" />
+        <SplineElement x="0.468750" y="1.000000" />
+        <SplineElement x="0.500000" y="1.000000" />
+        <SplineElement x="0.531250" y="1.000000" />
+        <SplineElement x="0.562500" y="1.000000" />
+        <SplineElement x="0.593750" y="1.000000" />
+        <SplineElement x="0.625000" y="1.000000" />
+        <SplineElement x="0.656250" y="1.000000" />
+        <SplineElement x="0.687500" y="1.000000" />
+        <SplineElement x="0.718750" y="1.000000" />
+        <SplineElement x="0.750000" y="1.000000" />
+        <SplineElement x="0.781250" y="0.993750" />
+        <SplineElement x="0.812500" y="0.987500" />
+        <SplineElement x="0.843750" y="0.981250" />
+        <SplineElement x="0.875000" y="0.975000" />
+        <SplineElement x="0.906250" y="0.968750" />
+        <SplineElement x="0.937500" y="0.962500" />
+        <SplineElement x="0.968750" y="0.956250" />
+        <SplineElement x="1.000000" y="0.950000" />
+      </WetnessWear>
+      <WetnessTarget numVertices="33">
+        <SplineElement x="0.000000" y="383.150000" />
+        <SplineElement x="0.031250" y="379.150000" />
+        <SplineElement x="0.062500" y="375.150000" />
+        <SplineElement x="0.093750" y="371.150000" />
+        <SplineElement x="0.125000" y="367.150000" />
+        <SplineElement x="0.156250" y="363.150000" />
+        <SplineElement x="0.187500" y="360.150000" />
+        <SplineElement x="0.218750" y="357.150000" />
+        <SplineElement x="0.250000" y="355.150000" />
+        <SplineElement x="0.281250" y="353.150000" />
+        <SplineElement x="0.312500" y="351.650000" />
+        <SplineElement x="0.343750" y="350.150000" />
+        <SplineElement x="0.375000" y="348.650000" />
+        <SplineElement x="0.406250" y="347.150000" />
+        <SplineElement x="0.437500" y="346.150000" />
+        <SplineElement x="0.468750" y="345.150000" />
+        <SplineElement x="0.500000" y="344.150000" />
+        <SplineElement x="0.531250" y="343.150000" />
+        <SplineElement x="0.562500" y="342.150000" />
+        <SplineElement x="0.593750" y="341.150000" />
+        <SplineElement x="0.625000" y="340.150000" />
+        <SplineElement x="0.656250" y="339.150000" />
+        <SplineElement x="0.687500" y="338.150000" />
+        <SplineElement x="0.718750" y="337.150000" />
+        <SplineElement x="0.750000" y="336.150000" />
+        <SplineElement x="0.781250" y="335.150000" />
+        <SplineElement x="0.812500" y="334.150000" />
+        <SplineElement x="0.843750" y="333.150000" />
+        <SplineElement x="0.875000" y="332.150000" />
+        <SplineElement x="0.906250" y="331.150000" />
+        <SplineElement x="0.937500" y="330.150000" />
+        <SplineElement x="0.968750" y="329.150000" />
+        <SplineElement x="1.000000" y="328.150000" />
+      </WetnessTarget>
+    </Wetness>
+    <!-- Residue accumulation and release simulation -->
+    <Residuum count="3">
+      <Residue name="Grass">
+        <AccretionRate value="0.0025" />
+        <ReleaseRate value="0.00035" />
+        <GripMultiple value="0.85" />
+      </Residue>
+      <Residue name="Gravel">
+        <AccretionRate value="0.0025" />
+        <ReleaseRate value="0.00035" />
+        <GripMultiple value="0.9" />
+      </Residue>
+      <Residue name="Marbling">
+        <AccretionRate value="0.01" />
+        <ReleaseRate value="0.005" />
+        <GripMultiple value="1.1" />
+      </Residue>
+    </Residuum>
+  </Compound>
+</Compounds>

@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--BXMLLittle-->
+<TrackspaceMarkup Version="ts_data_v3.002">
+  <MarkupList>
+    <MarkupElement Name="main_track_01" Start="0.835" End="0" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_city" />
+            <Property Type="event_name" Value="trees_bugs" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="9" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="main_straight_01" Start="0" End="0.0652" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_city" />
+            <Property Type="event_name" Value="main" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="10" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="main_track_02" Start="0.48" End="0.835" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_open" />
+            <Property Type="event_name" Value="birds_bugs" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="8" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="main_track_03" Start="0.4" End="0.48" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_open" />
+            <Property Type="event_name" Value="trees_bugs" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="7" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="7" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="main_track_04" Start="0.29" End="0.4" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_open" />
+            <Property Type="event_name" Value="trees_birds" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="6" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="main_track_05" Start="0.0664" End="0.29" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_open" />
+            <Property Type="event_name" Value="bugs" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="8" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="main_pit_01" Start="0.387" End="0.4909" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_pitlane" />
+            <Property Type="event_name" Value="main" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="10" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pit_in_01" Start="0" End="0.387" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_city" />
+            <Property Type="event_name" Value="main" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="9" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pit_out_01" Start="0.4948" End="1" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_open" />
+            <Property Type="event_name" Value="main" />
+            <Property Type="state_name" Value="open" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="9" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pit_audio_exit" Start="0.465" End="0.47" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="pit_aud_ext_trgr">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_overpass_01" Start="0.0652" End="0.0664" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_city" />
+            <Property Type="event_name" Value="main" />
+            <Property Type="state_name" Value="under_bridge" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="6" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_overpass_02" Start="0.4909" End="0.4948" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="aud_env_zone">
+          <Properties>
+            <Property Type="zone_name" Value="reverb_city" />
+            <Property Type="event_name" Value="main" />
+            <Property Type="state_name" Value="under_bridge" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="spch_vo_qual">
+          <Properties>
+            <Property Type="quality" Value="6" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_forbidden_zone_05" Start="0.6075" End="0.64" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_forb">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_forbidden_zone_04" Start="0.51" End="0.575" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_forb">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_forbidden_zone_03" Start="0.43" End="0.46" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_forb">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_forbidden_zone_02" Start="0.28" End="0.32" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_forb">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_forbidden_zone_01" Start="0.05" End="0.135" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_forb">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="audio_forbidden_zone_06" Start="0.73" End="0.76" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spch_vo_forb">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="sector1" Start="0" End="0.2638" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="sector_1">
+          <Properties />
+        </Attribute>
+        <Attribute Type="spch_vo_trig">
+          <Properties>
+            <Property Type="focuscar_name" Value="Sector1" />
+            <Property Type="carbehind_name" Value="Sector1_CarBehind" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="sector2" Start="0.2638" End="0.723" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="sector_2">
+          <Properties />
+        </Attribute>
+        <Attribute Type="spch_vo_trig">
+          <Properties>
+            <Property Type="focuscar_name" Value="Sector2" />
+            <Property Type="carbehind_name" Value="Sector2_CarBehind" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="sector3" Start="0.723" End="1" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="sector_3">
+          <Properties />
+        </Attribute>
+        <Attribute Type="spch_vo_trig">
+          <Properties>
+            <Property Type="focuscar_name" Value="Sector3" />
+            <Property Type="carbehind_name" Value="Sector3_CarBehind" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="speed_trap" Start="0.038" End="0.044" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="spd_trp">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="drs_detection_1" Start="0.103" End="0.106" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="drs_det">
+          <Properties>
+            <Property Type="ID" Value="1" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="drs_detection_2" Start="0.797" End="0.8" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="drs_det">
+          <Properties>
+            <Property Type="ID" Value="2" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="drs_activation_1" Start="0.1878" End="0.29" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="drs_act">
+          <Properties>
+            <Property Type="ID" Value="1" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="drs_activation_2" Start="0.8856" End="0.058" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="drs_act">
+          <Properties>
+            <Property Type="ID" Value="2" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="rollingstart_tt" Start="0.644" End="0.7133" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="rolling_start_zone">
+          <Properties>
+            <Property Type="ID" Value="0" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="rollingstart_fly" Start="0.59" End="0.646" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="rolling_start_zone">
+          <Properties>
+            <Property Type="ID" Value="1" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="rollingstart_osq" Start="0.905" End="0" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="rolling_start_zone">
+          <Properties>
+            <Property Type="ID" Value="2" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pit_entry" Start="0.185" End="0.19" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="pit_ent">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pit_trigger_ai" Start="0" End="1" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="ai_pit_trigger">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pit_trigger_player" Start="0.25" End="0.9766" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="plr_pit_trgr">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pit_limiter_on" Start="0.3554" End="0.49" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="pit_lim_on">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pit_control_release" Start="0.49" End="0.553" SplineName="pit_1">
+      <Attributes />
+    </MarkupElement>
+    <MarkupElement Name="drl_pit" Start="0.025" End="0.995" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="drl">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="drl_0" Start="0.005" End="0.2" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="drl">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="drl_10" Start="0.257" End="0.38" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="drl">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="drl_20" Start="0.416" End="0.592" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="drl">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="drl_40" Start="0.6022" End="0.774" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="drl">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="gear_0" Start="0.97" End="0.084" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="suggested_gear">
+          <Properties>
+            <Property Type="gear" Value="" />
+            <Property Type="radius_modifier" Value="1.0" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="gear_10" Start="0.24" End="0.311" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="suggested_gear">
+          <Properties>
+            <Property Type="gear" Value="" />
+            <Property Type="radius_modifier" Value="0.8" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="gear_20" Start="0.395" End="0.48" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="suggested_gear">
+          <Properties>
+            <Property Type="gear" Value="" />
+            <Property Type="radius_modifier" Value="1" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="gear_30" Start="0.483" End="0.532" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="suggested_gear">
+          <Properties>
+            <Property Type="gear" Value="" />
+            <Property Type="radius_modifier" Value="0.8" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="gear_35" Start="0.534" End="0.566" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="suggested_gear">
+          <Properties>
+            <Property Type="gear" Value="" />
+            <Property Type="radius_modifier" Value="1.0" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="gear_40" Start="0.585" End="0.635" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="suggested_gear">
+          <Properties>
+            <Property Type="gear" Value="" />
+            <Property Type="radius_modifier" Value="1.0" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="gear_50" Start="0.695" End="0.755" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="suggested_gear">
+          <Properties>
+            <Property Type="gear" Value="" />
+            <Property Type="radius_modifier" Value="1.0" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_1" Start="0.008" End="0.05" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="1" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_2" Start="0.05" End="0.122" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="2" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_3" Start="0.122" End="0.184" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="3" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_4" Start="0.184" End="0.275" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="4" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_5" Start="0.275" End="0.353" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="5" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_6" Start="0.353" End="0.437" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="6" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_7" Start="0.437" End="0.485" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="7" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_8" Start="0.485" End="0.53" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="8" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_9" Start="0.53" End="0.564" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="9" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_10" Start="0.564" End="0.6252" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="10" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_11" Start="0.6252" End="0.676" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="11" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_12" Start="0.676" End="0.746" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="12" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_13" Start="0.746" End="0.823" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="13" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_14" Start="0.823" End="0.866" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="14" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_15" Start="0.866" End="0.931" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="15" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="marshal_light_placement_16" Start="0.931" End="0.008" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="marshal_light_zone">
+          <Properties>
+            <Property Type="ID" Value="16" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="illegal_overtake_distance" Start="0.8" End="1" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="illegal_overtake_distance">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="first_corner" Start="0.91" End="0.1235" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="first_corner_zone">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pitlane_entry_zone" Start="0.133" End="0.3554" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="pit_lane_entry_zone">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pitlane_exit_zone" Start="0.49" End="0.9766" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="pitlane_exit_zone">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pitlane_illegal_entry" Start="0.4" End="0.94" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="illegal_pit_entry_zone">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pitlane_visibility" Start="0.36" End="0.525" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="show_pitstop_zone">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="crowd_excitement_01" Start="0.23" End="0.35" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="crowd_excitement_zone">
+          <Properties>
+            <Property Type="crowd_zone" Value="3262be0e84ed8fc136439ecae894f55b" />
+            <Property Type="crowd_zone" Value="51e4c822f0c75333207391ece1882e49" />
+            <Property Type="crowd_zone" Value="0eb26f609801a7ece4a45c0e95899abb" />
+            <Property Type="crowd_zone" Value="7e0c9684639283ba31824b5e9fc07b25" />
+            <Property Type="crowd_zone" Value="2ce9640dee018e341fb1fd9b5ebafaf7" />
+            <Property Type="crowd_zone" Value="4ee059b151426b3b47f5059dc729a326" />
+            <Property Type="crowd_zone" Value="20a6e4fd4b1e820be5ca2d5087ad5a7e" />
+            <Property Type="crowd_zone" Value="0908951d112905970ed799ae3bef30b9" />
+            <Property Type="crowd_zone" Value="09fd74f57f7882d8925b7c9894477ebb" />
+            <Property Type="crowd_zone" Value="66ca917510284d0e7efd95b3363561c6" />
+            <Property Type="crowd_zone" Value="09698bf3f3a6a96027fa13beca7a0422" />
+            <Property Type="crowd_zone" Value="039711fe2b057e5645a6c09abfa078c8" />
+            <Property Type="crowd_zone" Value="36fbfc698f9e9b24834848d956a429d0" />
+            <Property Type="crowd_zone" Value="78b8850eedea71e2ab0427759353bcff" />
+            <Property Type="crowd_zone" Value="424adb57ac94ecad624e7151142c7cf0" />
+            <Property Type="crowd_zone" Value="6ab1946bc686fdcd8af84569c0d801b2" />
+            <Property Type="crowd_zone" Value="416f7be5164d43b02e6111c138e19476" />
+            <Property Type="crowd_zone" Value="30f4c9d619aaee68acd50d75d06ccda7" />
+            <Property Type="crowd_zone" Value="1e75744405a3010ca2e6dcba0ccbac97" />
+            <Property Type="crowd_zone" Value="20a11b11d7bd67798e9183734e1db074" />
+            <Property Type="crowd_zone" Value="5b74bacccc91155b00dde03954ae5f52" />
+            <Property Type="crowd_zone" Value="5bb0bc7e433f1e80242a2a0baf5a6644" />
+            <Property Type="crowd_zone" Value="09f3190d306d02059d2d5c1fea75900e" />
+            <Property Type="crowd_zone" Value="003d53e49c3b368bc9c4de3946dd4832" />
+            <Property Type="crowd_zone" Value="0e2ce3f048d49439b582bbbfe0cacfb0" />
+            <Property Type="crowd_zone" Value="059a7c8bbcd0188c06e13473eed50986" />
+            <Property Type="crowd_zone" Value="2eafc5853a6563901ea53d4c77a511d9" />
+            <Property Type="crowd_zone" Value="0683a3ab11d8d4860d55802bbfbed673" />
+            <Property Type="crowd_zone" Value="2c270b1a894bdfcee14ab9039adb4486" />
+            <Property Type="crowd_zone" Value="4e3cb0600262be2c5d5b2210ef1dc114" />
+            <Property Type="crowd_zone" Value="4c2ef69efc5cefd80fa3399531d62cb8" />
+            <Property Type="crowd_zone" Value="567bedacc13da32e75a62409b1352d7b" />
+            <Property Type="crowd_zone" Value="4d0b6c8a4b24282a4b8e69d808692e15" />
+            <Property Type="crowd_zone" Value="42a6c3c5ab4c7a6e91d3b27d22d44b64" />
+            <Property Type="crowd_zone" Value="0e2fb99aa9171acb51b9ef510c12a382" />
+            <Property Type="crowd_zone" Value="3aa20eadecf4bce139eddd3e2eab0369" />
+            <Property Type="crowd_zone" Value="68d955a47bee8e709a57b3e3baf139c0" />
+            <Property Type="crowd_zone" Value="4757bb5564d1708481d149fba826931b" />
+            <Property Type="crowd_zone" Value="1c248dc778ca9ed03cddc4c04bbfc1ac" />
+            <Property Type="crowd_zone" Value="1f81aa3ae946cb5604093e25dbc0def6" />
+            <Property Type="crowd_zone" Value="2583e620a958a642c68ac99e0cfe2d2d" />
+            <Property Type="crowd_zone" Value="3914a75f0ee3cc17085fcb86728e6c8d" />
+            <Property Type="crowd_zone" Value="2f61ea78c560fdb7c1292f0435541d30" />
+            <Property Type="crowd_zone" Value="28b892777fdadcb3b882ea52fa2b920b" />
+            <Property Type="crowd_zone" Value="4f45b7dae0e6b4e58c8f48b5aba8f7fc" />
+            <Property Type="crowd_zone" Value="3933749aa6c603438aecb96f760d7231" />
+            <Property Type="crowd_zone" Value="427e7ddf4ff2a9659eb12e07bb0e578c" />
+            <Property Type="crowd_zone" Value="732792e78b748e104f9d0769f3dc2306" />
+            <Property Type="crowd_zone" Value="3ffc501bf7939cd604ada72e6cee27ea" />
+            <Property Type="crowd_zone" Value="3e4661219501542349d97163fba08306" />
+            <Property Type="crowd_zone" Value="613c45eb2e949b686d333e33cd33beb5" />
+            <Property Type="crowd_zone" Value="11890f23d6a02c33519cd259d8341ee7" />
+            <Property Type="crowd_zone" Value="015303b6c63104be39a96c2aae09be8d" />
+            <Property Type="crowd_zone" Value="5eab8a1d4962f0560894e40de6c81cc3" />
+            <Property Type="crowd_zone" Value="08352caeeb27171a62d3d5de539a934a" />
+            <Property Type="crowd_zone" Value="64c004369062b5ade35f6a71d619ced9" />
+            <Property Type="crowd_zone" Value="691fb8d8f6d94fcfd8ea41e22473af15" />
+            <Property Type="crowd_zone" Value="56b295dd7d4fab2a01e27a743d6e40f3" />
+            <Property Type="crowd_zone" Value="3ec3f9469b643b284941eca1af2b18cd" />
+            <Property Type="crowd_zone" Value="3d137f908bd8070382fe07d6fa2bb184" />
+            <Property Type="crowd_zone" Value="5a90fd9043b678cd10de34a309a63f4b" />
+            <Property Type="crowd_zone" Value="40a72a3f6b595e1e16a508f075315223" />
+            <Property Type="crowd_zone" Value="0b493f2b5b4ac3003664975e33f8d1a8" />
+            <Property Type="crowd_zone" Value="594f664e7df33ba81614ff606efcec0c" />
+            <Property Type="crowd_zone" Value="1c2d0c0e8477869b4d53c8e58d1ad019" />
+            <Property Type="crowd_zone" Value="62186f965159d089ed6952ccbc6a4bde" />
+            <Property Type="crowd_zone" Value="76968a27f21831b706f37b358f5459e6" />
+            <Property Type="crowd_zone" Value="01c564c2687e2dc8af106000cdb0c5ee" />
+            <Property Type="crowd_zone" Value="5e5525becc8c69d00d1de9e946c23650" />
+            <Property Type="crowd_zone" Value="2d8c070657fb603460e777493be6ee61" />
+            <Property Type="crowd_zone" Value="5a56f17950017006c8c908929954deb7" />
+            <Property Type="crowd_zone" Value="2eb6653d7b566ffb2f122655c5a5a16c" />
+            <Property Type="crowd_zone" Value="05622ee478c662244936e846213f43ba" />
+            <Property Type="crowd_zone" Value="53599f58d67354a3c8a4f097fbc21161" />
+            <Property Type="crowd_zone" Value="54d44215b62bb484348407c939888261" />
+            <Property Type="crowd_zone" Value="1026daba335dcd6de4fa58e35a028ac5" />
+            <Property Type="crowd_zone" Value="55465ce98ecbc4662a2aa808714c4e96" />
+            <Property Type="crowd_zone" Value="67a2e9c62a03a2962955b6ef9b794166" />
+            <Property Type="crowd_zone" Value="425427ed07addb2c6d667f0171825fce" />
+            <Property Type="crowd_zone" Value="2865822367ed81e256c3f683f0b4faa0" />
+            <Property Type="crowd_zone" Value="43820dbd746ba38c8f5bc8376747b5cb" />
+            <Property Type="crowd_zone" Value="54a28a421df267c1895d554e8022a33b" />
+            <Property Type="crowd_zone" Value="23b152ce3cbd42753c03f691fec793b7" />
+            <Property Type="crowd_zone" Value="554a1773e05745f905298ca9466d9d14" />
+            <Property Type="crowd_zone" Value="6904cff1ea093a566cd99684aa9f1270" />
+            <Property Type="crowd_zone" Value="5e7cf53b6d7b174a5d4b38d4e207a360" />
+            <Property Type="crowd_zone" Value="0d9893f646c5aa215975f2d5f638770b" />
+            <Property Type="crowd_zone" Value="2c65c653475078c26ee11580e7aa340d" />
+            <Property Type="crowd_zone" Value="6bfe817e3ce5b6cca99b24627351835e" />
+            <Property Type="crowd_zone" Value="6c0154bfb1093c3f72d134d66ae63f7c" />
+            <Property Type="crowd_zone" Value="64e10406efd86c33673aaf5088596e23" />
+            <Property Type="crowd_zone" Value="69ea15e618fdda7b21d92e93b9260a5a" />
+            <Property Type="crowd_zone" Value="6f03c1e14fe9e09d0e8075011a9a0132" />
+            <Property Type="crowd_zone" Value="7675eff005db50baa2fe404e88e32004" />
+            <Property Type="crowd_zone" Value="69068552e4a4d8c84131dbfe632bcba9" />
+            <Property Type="crowd_zone" Value="10371aca6f474cbc156feaf9e26c44dd" />
+            <Property Type="crowd_zone" Value="32d0fca1a8c0ed5780c1ffa48fbf3e10" />
+            <Property Type="crowd_zone" Value="00113145cd83196c056a9673a0f3fbe1" />
+            <Property Type="crowd_zone" Value="341a353957effbe683db18f8d79cb078" />
+            <Property Type="crowd_zone" Value="7b0586140fc27f190f87809f7a004164" />
+            <Property Type="crowd_zone" Value="25b9eaf456773de578cafed9bfa8d639" />
+            <Property Type="crowd_zone" Value="7b184c71e3fc506e5a238ea38e64f127" />
+            <Property Type="crowd_zone" Value="65bdd725a189d1672c0e1c665b421b8c" />
+            <Property Type="crowd_zone" Value="63864eafc39bae4f7175d0919d8b095d" />
+            <Property Type="crowd_zone" Value="784a80cd42c191fd993f63e5789af2f4" />
+            <Property Type="crowd_zone" Value="07b39e1a25124252de53c19e1da8107c" />
+            <Property Type="crowd_zone" Value="1757b1d782213f100571f6393112a0dd" />
+            <Property Type="crowd_zone" Value="4df36a2f2fcb802ed686bc42ecd49c95" />
+            <Property Type="crowd_zone" Value="410c5bd2b095adca25032b14c21f1056" />
+            <Property Type="crowd_zone" Value="7f4608be0e4b877d3dab035d1d74536e" />
+            <Property Type="crowd_zone" Value="07ccb2ee30288a1fadc1f0fc9af56e80" />
+            <Property Type="crowd_zone" Value="70f75cdaba15b4ede33a7e033f8046be" />
+            <Property Type="crowd_zone" Value="4009f9ea8652fa8d21726cd06ccbceec" />
+            <Property Type="crowd_zone" Value="44d152f8b15c08fa40e73bbb52116bbb" />
+            <Property Type="crowd_zone" Value="19348b78206e72b9e0faf03b2036c395" />
+            <Property Type="crowd_zone" Value="578dce571bb9d6682481af774ab5ffa0" />
+            <Property Type="crowd_zone" Value="78f9981a75b6dc7d028e1e97c02b41ad" />
+            <Property Type="crowd_zone" Value="51fb809999ac49c5390da17d7242e658" />
+            <Property Type="crowd_zone" Value="6a761f4bfa5de0547e8aa35488cac26d" />
+            <Property Type="crowd_zone" Value="361b30d58caf2b153db92f19c2ddd8f2" />
+            <Property Type="crowd_zone" Value="4f818fe37c5831cd3622aee665629931" />
+            <Property Type="crowd_zone" Value="2f74bf66fcff48f67de36e443860daf7" />
+            <Property Type="crowd_zone" Value="0249b1e1ba4a457330e6dbdc8012e8f5" />
+            <Property Type="crowd_zone" Value="069acf167529bef5b172462f7c76e1e6" />
+            <Property Type="crowd_zone" Value="2d6256dfa3ffce6fff9656276a67d6bd" />
+            <Property Type="crowd_zone" Value="1ddf0ddce5615e9c3c15970b9241acab" />
+            <Property Type="crowd_zone" Value="777fc6b8ed1bfd6027e5183ece328b5d" />
+            <Property Type="crowd_zone" Value="34cd2160a1c4cc108188ddc9ec44f07c" />
+            <Property Type="crowd_zone" Value="362c0a7dc5d9f4a6285ef3f6611a8176" />
+            <Property Type="crowd_zone" Value="7cf5543b47acda97aa2ec7fe57d1e0ae" />
+            <Property Type="crowd_zone" Value="6e2dd20a07cb88eb12ebf49a9cafdec9" />
+            <Property Type="crowd_zone" Value="3edf28796068a541ac18e75de8154015" />
+            <Property Type="crowd_zone" Value="0029ef5cb21690a1104f63a315b84002" />
+            <Property Type="crowd_zone" Value="1bb6babc9c9fa22599bbd309dc1820cb" />
+            <Property Type="crowd_zone" Value="7807d8b399188e884fabb5163b347228" />
+            <Property Type="crowd_zone" Value="71d2259991bb681e532ab852678aac6a" />
+            <Property Type="crowd_zone" Value="3f9d5726d38844ecd220b0e499feb275" />
+            <Property Type="crowd_zone" Value="4368ad7893d1e846ba3bd2dae3508efb" />
+            <Property Type="crowd_zone" Value="7189609d01a82b0361fc42437262337e" />
+            <Property Type="crowd_zone" Value="0f19f03fccc0f31d2ea90584395edd86" />
+            <Property Type="crowd_zone" Value="2791c32aa888316a6db9f09c91b45654" />
+            <Property Type="crowd_zone" Value="751eccf7c2ec95f9709e9bbe0b5b1b83" />
+            <Property Type="crowd_zone" Value="5f1ac0881d4a662a101be616c7fb18eb" />
+            <Property Type="crowd_zone" Value="4bfa98bab4422ee53e98cf5b47e5fc90" />
+            <Property Type="crowd_zone" Value="141af608710f58c34ad905b8d0058e82" />
+            <Property Type="crowd_zone" Value="381bc7e4ab7579c967dd18b518d40efc" />
+            <Property Type="crowd_zone" Value="0f9d9b17b94c41280e113ddb99fdbc06" />
+            <Property Type="crowd_zone" Value="6ff4a8605efc73fea013cb0116a476cf" />
+            <Property Type="crowd_zone" Value="0fcc8b7595c6a9b7af0730596d25d51e" />
+            <Property Type="crowd_zone" Value="0779874ed8aa1e237f52e34fbb489bbe" />
+            <Property Type="crowd_zone" Value="6fa744b1a5b22ff1a3f716c9777a4afb" />
+            <Property Type="crowd_zone" Value="752d22e5dde1b692932c66ad5ccdfc46" />
+            <Property Type="crowd_zone" Value="45d1faf6923fc22011d77457e31e2e29" />
+            <Property Type="crowd_zone" Value="49fb9468d647f19332466375f89c534a" />
+            <Property Type="crowd_zone" Value="69ff48fe1cd7185f3c52d0709f29b391" />
+            <Property Type="crowd_zone" Value="52503b6de52e6d89199de5d6dd4bda68" />
+            <Property Type="crowd_zone" Value="5aedd1fbe1e475c7b6e0c619479991c9" />
+            <Property Type="crowd_zone" Value="7f6718ccf3e8bcd030b056ad8d2033d2" />
+            <Property Type="crowd_zone" Value="28e83f9a361c03a08bfc8c680d462b28" />
+            <Property Type="crowd_zone" Value="6a4e817288f9a49a380e20dfe239b027" />
+            <Property Type="crowd_zone" Value="5e19db04d6e01e93d5ffcab52154f167" />
+            <Property Type="crowd_zone" Value="271adf4eeedbd934bfcec99b02b5b4b9" />
+            <Property Type="crowd_zone" Value="011cbd8db57b2e36c518ab8a11932bab" />
+            <Property Type="crowd_zone" Value="6490b7f2daf7133d368ea05804a399d0" />
+            <Property Type="crowd_zone" Value="1853de414ced91cce8f133b157ba2bc7" />
+            <Property Type="crowd_zone" Value="0d4675a9078c097cc44116e0bd399ade" />
+            <Property Type="crowd_zone" Value="37c040582e9a68b8f3dcb9e3acfe0c09" />
+            <Property Type="crowd_zone" Value="0c50cecbf4930beb67af2b26295ead80" />
+            <Property Type="crowd_zone" Value="1ed8b5e7072a925b74b98d6126199359" />
+            <Property Type="crowd_zone" Value="44937c65353ed4abd4a91652509da18b" />
+            <Property Type="crowd_zone" Value="0cb046eb35e63e0aeeceb55b0baadc25" />
+            <Property Type="crowd_zone" Value="7d0a9d35e2b69020bb6c7c7af95686ca" />
+            <Property Type="crowd_zone" Value="081f3dcce713d51217c3fd6b4db34078" />
+            <Property Type="crowd_zone" Value="65dd0835f0b9bedab8f6547b0fcd1ac3" />
+            <Property Type="crowd_zone" Value="251f69b95da6e9928ec72620f430009a" />
+            <Property Type="crowd_zone" Value="15e7e7625300bdfc1f13538712d9a469" />
+            <Property Type="crowd_zone" Value="3bf15b50a7f6a1ae705ea17ce0397e90" />
+            <Property Type="crowd_zone" Value="53972232566f5174f9f10ee75916e4af" />
+            <Property Type="crowd_zone" Value="01e0bf168ea5cf085bf148aebfe5f061" />
+            <Property Type="crowd_zone" Value="7e58fffe1809163256f937bfd9ca4d5a" />
+            <Property Type="crowd_zone" Value="066207326fda7a7d2f7614398773121e" />
+            <Property Type="crowd_zone" Value="1fca14b03cb4bc93019c9bbc708a4a1d" />
+            <Property Type="crowd_zone" Value="3af01fa9d310fbb2571fdd5108439e3b" />
+            <Property Type="crowd_zone" Value="7ae527f3e1bb3ad1d4cf8724da5a41b4" />
+            <Property Type="crowd_zone" Value="17cbc050bcf5a2ddbc7bbc4e58fd4c5a" />
+            <Property Type="crowd_zone" Value="04faf158993c7d50d6300bb8f22e15f6" />
+            <Property Type="crowd_zone" Value="2329974376291cdf865566439cbc57bd" />
+            <Property Type="crowd_zone" Value="359a5272f3f9f877e81739786636df6f" />
+            <Property Type="crowd_zone" Value="0776fc11a6b9612f4bb438dbcd2b9588" />
+            <Property Type="crowd_zone" Value="04ca2734ec1227d2c7c5a8fdbbebb23e" />
+            <Property Type="crowd_zone" Value="7a813556c73902cb76fb60452ded20f5" />
+            <Property Type="crowd_zone" Value="6f1106ff266bd556a38ed1f3f870ae6b" />
+            <Property Type="crowd_zone" Value="07201956493904086b44e7ac7bf7c342" />
+            <Property Type="crowd_zone" Value="4f51a64a1558d3684369f180736d1d88" />
+            <Property Type="crowd_zone" Value="5ff67fb92d8ba5e4a202d90f65e501db" />
+            <Property Type="crowd_zone" Value="0639f1b0bb6129c8d6d1022474d9e366" />
+            <Property Type="crowd_zone" Value="02be8908ad0f3458e0496ba41a15a5dc" />
+            <Property Type="crowd_zone" Value="733f4ed812ebfb75faeec58b450ec115" />
+            <Property Type="crowd_zone" Value="20d3333ccb0e0e57553ee8e9e92ac705" />
+            <Property Type="crowd_zone" Value="7292108330a6184dc739a466d6b2c033" />
+            <Property Type="crowd_zone" Value="2c2d85d1790553083a9baa2e3dad8490" />
+            <Property Type="crowd_zone" Value="1da7de7c8e4e1ee0c21ebc8491405319" />
+            <Property Type="crowd_zone" Value="23638cf6d6cc24406cd7a881e0e5b0fa" />
+            <Property Type="crowd_zone" Value="7e74412db576b83947d8973242850c0b" />
+            <Property Type="crowd_zone" Value="19e3e9fc08c9a08ddf1a28fd1cba815b" />
+            <Property Type="crowd_zone" Value="3bd8606ba10400ca009047e2fa221761" />
+            <Property Type="crowd_zone" Value="0aa3970942cfe45677fdedec02cf60e0" />
+            <Property Type="crowd_zone" Value="0afbef7b8f9ee081644e17ed20695c55" />
+            <Property Type="crowd_zone" Value="27a8b7d925ab4ea34e2b85ee27e52c8d" />
+            <Property Type="crowd_zone" Value="6cb755480cc581644901f33d4d7acbc0" />
+            <Property Type="crowd_zone" Value="04645cdc6f0c8b0d8f051acd36b4d1e9" />
+            <Property Type="crowd_zone" Value="7182ceff7aee95c52aab25479ae989a8" />
+            <Property Type="crowd_zone" Value="42935ca752c38f7fdbaa8536b5fdaf0a" />
+            <Property Type="crowd_zone" Value="6e487113a98501ca37252c44a0430edb" />
+            <Property Type="crowd_zone" Value="6e2aaceccdca0b6ce6b56ef1667eab47" />
+            <Property Type="crowd_zone" Value="58db4f34698537befb41f115e53a5d38" />
+            <Property Type="crowd_zone" Value="35288fd22926e0570b99b447bce5f146" />
+            <Property Type="crowd_zone" Value="62673e3b36a5178a59846428d0373b1a" />
+            <Property Type="crowd_zone" Value="2cb7be4622dac8c6b8f55d7904acb10e" />
+            <Property Type="crowd_zone" Value="3f94d2ec6da6b29315634b8e2aed4768" />
+            <Property Type="crowd_zone" Value="07f2c0a440e787511443d5871eda6e49" />
+            <Property Type="crowd_zone" Value="7208c5b414e7eb4fe7a66044e4ce0aa7" />
+            <Property Type="crowd_zone" Value="4c62c23777c43db8e5fc734b6f2f159c" />
+            <Property Type="crowd_zone" Value="2bb9e32da846bc9cae05815b1e0a958f" />
+            <Property Type="crowd_zone" Value="738fd1e20002c3bdfb08b0c0cf768f01" />
+            <Property Type="crowd_zone" Value="271e6adcb1a3df829cdd1b8c64dd4bb1" />
+            <Property Type="crowd_zone" Value="3f8c206cf46963cdaf4d122795463ba8" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="crowd_excitement_02" Start="0.4" End="0.5" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="crowd_excitement_zone">
+          <Properties>
+            <Property Type="crowd_zone" Value="3c3f85036766231c2bd6f5f0a20da2bf" />
+            <Property Type="crowd_zone" Value="293e338f79d8dbed9d7b597861311433" />
+            <Property Type="crowd_zone" Value="7af6472c34f5525a64012e5c6472e711" />
+            <Property Type="crowd_zone" Value="647e4926c6c4950ad8305ad218af0c66" />
+            <Property Type="crowd_zone" Value="08f5e8370b6c4d46c2fc13f870f21106" />
+            <Property Type="crowd_zone" Value="2f1a939a3bef84d68cdc058e180394d9" />
+            <Property Type="crowd_zone" Value="6a440f3cfdb590487e87bbe25fb8d5f3" />
+            <Property Type="crowd_zone" Value="44b310def3e652f5e4eb2e703b398fd3" />
+            <Property Type="crowd_zone" Value="6890db2960ed5ed198bc67dc01708f67" />
+            <Property Type="crowd_zone" Value="279cfb889ef9560f81c6bd2a2a9df539" />
+            <Property Type="crowd_zone" Value="09e0ed8e0e39088b823acaf1f85c9ed2" />
+            <Property Type="crowd_zone" Value="73f03df8505bb3f1fb4023768a5b6752" />
+            <Property Type="crowd_zone" Value="01722d7175e41166f930bbbd97bb7fd3" />
+            <Property Type="crowd_zone" Value="694eded740a2e493404e2705d36c03b0" />
+            <Property Type="crowd_zone" Value="0effc8d94943047d080804ddf07f832e" />
+            <Property Type="crowd_zone" Value="535fbb9f304bb4b525d45b45982e64f0" />
+            <Property Type="crowd_zone" Value="33a1bce56380f6b6566fa3a5e369548b" />
+            <Property Type="crowd_zone" Value="1ae775bd40e7442f4544f749f42830f7" />
+            <Property Type="crowd_zone" Value="4f5fb169a812a5e390339e740d09a05b" />
+            <Property Type="crowd_zone" Value="30835ce23bed33a074596163531b17d1" />
+            <Property Type="crowd_zone" Value="22ff0d7d2a6b78bb96d17b6849882f62" />
+            <Property Type="crowd_zone" Value="67c62d7ec9c734f5be0304f24a760771" />
+            <Property Type="crowd_zone" Value="3502b1229de837947e36820b95f96349" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="crowd_excitement_03" Start="0.73" End="0.78" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="crowd_excitement_zone">
+          <Properties>
+            <Property Type="crowd_zone" Value="1017ee4a5eb19e090b5fbb73f5862ce8" />
+            <Property Type="crowd_zone" Value="423fa70ac6e507ff5bcf8ead7a291a01" />
+            <Property Type="crowd_zone" Value="1a51e1810619c4ce3e6922d092314934" />
+            <Property Type="crowd_zone" Value="2f14093dcabf9e2ddde2b81d781cd686" />
+            <Property Type="crowd_zone" Value="6a37c1a923471c3788502be07b1f5296" />
+            <Property Type="crowd_zone" Value="569201cc496aa5cfa79ac2e7acc28326" />
+            <Property Type="crowd_zone" Value="2ffdba59b220d3200cbeacbd6f546961" />
+            <Property Type="crowd_zone" Value="7ca5bba6502c16ca428d1258fb493de0" />
+            <Property Type="crowd_zone" Value="3ce218d72f00016bd28494e870b5c94b" />
+            <Property Type="crowd_zone" Value="141a3c747cc738ed644b9c7c40473b57" />
+            <Property Type="crowd_zone" Value="1715f684970a0f1256e046b78b78a3b0" />
+            <Property Type="crowd_zone" Value="08fd94a7346f93f3e6de33044ad7349e" />
+            <Property Type="crowd_zone" Value="40c60905fa740ed72d2bb69d5cf8bb7f" />
+            <Property Type="crowd_zone" Value="233c4bc455112edcce2c03a15d680766" />
+            <Property Type="crowd_zone" Value="5bb6905ddb390ad33d822292db27c6e3" />
+            <Property Type="crowd_zone" Value="224a68e64e1cebb04fdd79535a57e07a" />
+            <Property Type="crowd_zone" Value="76196a22aee83d132c099be80c1724ba" />
+            <Property Type="crowd_zone" Value="1b8f4deaa5959e0e61b5a074140d6eac" />
+            <Property Type="crowd_zone" Value="0650669b494139992bb9b127104f0853" />
+            <Property Type="crowd_zone" Value="2c32d6ccf1cf08db1a7e09fde02e46c1" />
+            <Property Type="crowd_zone" Value="4a338ce42f547a0b5236f90f3adcf3a5" />
+            <Property Type="crowd_zone" Value="5350a8d7751d23966abdbe570450bc65" />
+            <Property Type="crowd_zone" Value="52747c8164d4749f884d08b4851dda46" />
+            <Property Type="crowd_zone" Value="7e71a4b47c1902fe9c40972f29076d82" />
+            <Property Type="crowd_zone" Value="26e81cfc5c59b9eb5c3e13a22c751293" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pitlane_entry_osd" Start="0.21" End="0.3554" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="pit_ent_osd">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="tt_invalidate_lap" Start="0.9" End="0" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="tt_invalidate_lap">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pit_safety_car_exemption" Start="0.26" End="0.3554" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="pit_sc_exempt">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="crowd_excitement_04" Start="0.15" End="0.23" SplineName="maintrack">
+      <Attributes />
+    </MarkupElement>
+    <MarkupElement Name="crowd_excitement_05" Start="0.06" End="0.15" SplineName="maintrack">
+      <Attributes />
+    </MarkupElement>
+    <MarkupElement Name="crowd_excitement_06" Start="0.92" End="0.06" SplineName="maintrack">
+      <Attributes />
+    </MarkupElement>
+    <MarkupElement Name="crowd_excitement_07" Start="0.8" End="0.92" SplineName="maintrack">
+      <Attributes />
+    </MarkupElement>
+    <MarkupElement Name="pit_inside_pitlane" Start="0.21" End="0.9766" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="inside_pit">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="pit_exit_sc_exemption" Start="0.49" End="0.9766" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="pit_exit_sc_exempt">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="grid_park_osd" Start="0.939" End="0.007655" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="grid_park_osd">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="faults_and_failures_00" Start="0" End="0.9999" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="canned_event_failure">
+          <Properties>
+            <Property Type="type" Value="All Failures" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="canned_event_fault">
+          <Properties>
+            <Property Type="type" Value="All Faults" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="lockup_zone_01" Start="0.001" End="0.999" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="canned_event_wheel_lockup">
+          <Properties>
+            <Property Type="pq_type" Value="Random" />
+            <Property Type="race_type" Value="Both" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="lockup_zone_pit" Start="0.3125" End="0.355" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="canned_event_wheel_lockup">
+          <Properties>
+            <Property Type="pq_type" Value="Random" />
+            <Property Type="race_type" Value="Both" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="fauls_and_failures_tyres" Start="0.725" End="0.863" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="canned_event_wheel_fault">
+          <Properties>
+            <Property Type="chance_blowout" Value="0.05" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="ai_override_pityield" Start="0.863" End="0.95" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="pit_ai_yield">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="ai_override_01" Start="0.001" End="0.999" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="ai_override">
+          <Properties>
+            <Property Type="block" Value="Pressure" />
+            <Property Type="overtake" Value="Pressure" />
+            <Property Type="blue_flag" Value="Default" />
+            <Property Type="steering_offset" Value="Default" />
+            <Property Type="throttle_fallibility" Value="Both" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="route_overrides_07" Start="0.7" End="0.8" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="planar_reflection_overrides">
+          <Properties>
+            <Property Type="cull_distance" Value="250" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="screen_area_culling">
+          <Properties>
+            <Property Type="screen_culling" Value="0.003" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="route_overrides_01" Start="0" End="0.075" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="screen_area_culling">
+          <Properties>
+            <Property Type="screen_culling" Value="0.003" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="planar_reflection_overrides">
+          <Properties>
+            <Property Type="cull_distance" Value="350" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="route_overrides_02" Start="0.075" End="0.175" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="planar_reflection_overrides">
+          <Properties>
+            <Property Type="cull_distance" Value="250" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="screen_area_culling">
+          <Properties>
+            <Property Type="screen_culling" Value="0.003" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="route_overrides_03" Start="0.175" End="0.3" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="screen_area_culling">
+          <Properties>
+            <Property Type="screen_culling" Value="0.003" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="planar_reflection_overrides">
+          <Properties>
+            <Property Type="cull_distance" Value="350" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="route_overrides_04" Start="0.3" End="0.35" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="planar_reflection_overrides">
+          <Properties>
+            <Property Type="cull_distance" Value="250" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="screen_area_culling">
+          <Properties>
+            <Property Type="screen_culling" Value="0.003" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="route_overrides_05" Start="0.35" End="0.45" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="planar_reflection_overrides">
+          <Properties>
+            <Property Type="cull_distance" Value="350" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="screen_area_culling">
+          <Properties>
+            <Property Type="screen_culling" Value="0.003" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="route_overrides_06" Start="0.45" End="0.7" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="screen_area_culling">
+          <Properties>
+            <Property Type="screen_culling" Value="0.003" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="planar_reflection_overrides">
+          <Properties>
+            <Property Type="cull_distance" Value="250" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="route_overrides_08" Start="0.8" End="0.9" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="screen_area_culling">
+          <Properties>
+            <Property Type="screen_culling" Value="0.003" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="planar_reflection_overrides">
+          <Properties>
+            <Property Type="cull_distance" Value="250" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="route_overrides_09" Start="0.9" End="1" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="planar_reflection_overrides">
+          <Properties>
+            <Property Type="cull_distance" Value="350" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="screen_area_culling">
+          <Properties>
+            <Property Type="screen_culling" Value="0.003" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="route_overrides_pit_01" Start="0" End="0.5" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="screen_area_culling">
+          <Properties>
+            <Property Type="screen_culling" Value="0.003" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="planar_reflection_overrides">
+          <Properties>
+            <Property Type="cull_distance" Value="350" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="route_overrides_pit_02" Start="0.5" End="0.85" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="screen_area_culling">
+          <Properties>
+            <Property Type="screen_culling" Value="0.003" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="planar_reflection_overrides">
+          <Properties>
+            <Property Type="cull_distance" Value="250" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="route_overrides_pit_03" Start="0.85" End="1" SplineName="pit_1">
+      <Attributes>
+        <Attribute Type="screen_area_culling">
+          <Properties>
+            <Property Type="screen_culling" Value="0.003" />
+          </Properties>
+        </Attribute>
+        <Attribute Type="planar_reflection_overrides">
+          <Properties>
+            <Property Type="cull_distance" Value="350" />
+          </Properties>
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="safety_car_main" Start="0" End="0.2325" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="safety_car_main">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="safety_car_pit" Start="0.72" End="0.876" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="safety_car_pit">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+    <MarkupElement Name="safety_car_player_control_countdown" Start="0.79" End="0" SplineName="maintrack">
+      <Attributes>
+        <Attribute Type="safety_car_player_control_countdown">
+          <Properties />
+        </Attribute>
+      </Attributes>
+    </MarkupElement>
+  </MarkupList>
+</TrackspaceMarkup>
